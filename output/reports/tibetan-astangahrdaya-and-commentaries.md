@@ -89,7 +89,11 @@ The closing verses of D4312 (*go* vol., 304a-5–32) [D] say the following:
   - This colophon is the basis of the "Tibetan tradition" that Candranandana was Kashmirian [M, IIA: 121].
   - Klebanov (INDOLOGY, Oct. 2019 [W]) considers the Kashmir link weak.
 - **The king:** a benediction on *rgyal po dpa' ldan tha gan*. Kapstein (same thread) reads this as "Tha ga na" and could not identify the king. [I] Possibly a Kashmiri *Ṭhakkana*. Unresolved.
-- **The patron/teacher in D4312's opening verses:** *dpal ldan sgrib med lha*. The Sanskrit says the work was written at the instance of **Śakunadeva** [M]. The Tibetan does not obviously render that name, and this needs comparison with the Sanskrit (Sūtrasthāna ed. 1928).
+- **The opening verses, now compared with the Sanskrit** (1928 edition p. 26, from the new OCR, §10) [D]:
+  - *praṇamya devadeveśaṃ hariṃ vāṅnidhim akṣaram / padārthacandrikāṃ ṭīkāṃ śubhrāṃ sarvahitāvahām* = *'phrog byed mi zad tshig gi gter / lha yi lha dbang rab btud de / rgyas bshad tshig don zla ba'i zer / kun la phan gsal* (D4312:1b-7–10).
+  - The patron: *śrīmacchakunadevena prerito hṛdaye sphuṭam* = *dpal ldan sgrib med lha yis ni / snying ni rnam par drangs pas na*. The Sanskrit name is **Śakunadeva**. The Tibetan *sgrib med* ("unobscured") is not a rendering of *śakuna* ("bird, omen"). [I] The translators' manuscript probably read a different name here.
+  - The family: *jātakalyāṇadugdhābdhau vidyāgādhapayasvini / abodhadāhaśamano yathenduś candranandanaḥ* = *rig pas rab zab grags ldan pa'i / dge ba'i 'o ma'i mtsho las skyes / zla ba dga' ba zla ba ltar / ma rtogs tsha ba zhi byed yin*. The Tibetan translates *kalyāṇa* as *dge ba* ("virtue") and *vidyā* as *rig pa* ("learning"). It reads them as common nouns, "born from the milk-ocean of virtue, deep with the waters of learning", not as the names of Candranandana's parents. That supports Meulenbeld's doubt (IIA: 121) that "Kalyāṇa and Vidyā" were ever real names.
+  - *guroḥ saṃsmṛtya caraṇāmbujam* ("remembering the lotus feet of the teacher") becomes *bla ma'i lung ni yang dag nyid / gsal bar rtogs nas*, "having understood the teacher's *āgama*". This is a different reading or a free rendering.
 - **The maṅgala to Hari** survives in translation: *'phrog byed mi zad tshig gi gter / lha yi lha dbang rab btud de* (Hari = 'phrog byed; *devadeveśa*). The translators placed their own homage to Bhaiṣajyaguru Vaiḍūryaprabha before it (D4312:1b-5–8).
 - **D4309 is Candranandana's *Madanādinighaṇṭu*.**
   - Its opening is *chags la mngon par dga' ba'i bu zla ba dga' ba … thams cad mkhyen la phyag 'tshal te / yan lag brgyad pa las bstan pa'i sman sde po son cha la sogs …*. Here *po son cha* = **madana**, so *madanādi* is the first drug group of Sū.15.
@@ -98,6 +102,7 @@ The closing verses of D4312 (*go* vol., 304a-5–32) [D] say the following:
   - D4309 names no translator.
 - **Date:** the only hard terminus is Rin chen bzang po's translation (before 1055). Klebanov adds that Kṣīrasvāmin (11th c.) quotes him. Emmerick and Huth suggested a link to the 8th-century "Candradeva" of the G.yu thog biography, which is legendary [M, W]. Most current opinion places him in the 10th century (van der Kuijp: "?10th c.").
 - **The Sanskrit text is incomplete.** Only the Sūtrasthāna of the Padārthacandrikā is edited (1928). **The Tibetan D4312 is therefore the only complete witness of the commentary.** As of January 2026 nothing further had appeared (INDOLOGY query by D. Reigle [W]).
+  - **One addition:** the Nirṇaya Sāgar edition revised by Parāḍkar prints further Padārthacandrikā passages outside the Sūtrasthāna. They carry the siglum `प० चं०`, which its list of abbreviations resolves as *padārthacandrikā*, e.g. U.21.46–51, where Aruṇadatta's commentary is lacking. There are 21 passages (about 3,600 characters). They match the Tibetan D4312 more strongly than anything else in the cross-alignment (§11).
 
 ## 5. Religious framing added by the translators
 
@@ -309,17 +314,107 @@ A further 17 single verses scored as absent, but each has a strong match (0.83�
 
 ### 9.4 Padārthacandrikā (Sūtrasthāna)
 
-**Chapter-level correspondence is complete.** Every Sanskrit chapter maps onto the corresponding Tibetan chapter, Sū.1–30. Of the 916 Sanskrit blocks, 911 fall into aligned positions. For 424 (46%) the embedding independently picks the aligned Tibetan block as the best local match; the rest are placed by sequence. No run of Sanskrit commentary lacks Tibetan.
+**Chapter-level correspondence is complete.** Every Sanskrit chapter maps onto the corresponding Tibetan chapter, Sū.1–30. No run of Sanskrit commentary lacks Tibetan.
 
-**The opening is absent from the Sanskrit.** The Tibetan begins with Candranandana's introductory verses and the gloss on Sū.1.1 (D4312:1b–3a): the homage to Hari, the patron *dpal ldan sgrib med lha*, and the lineage. The 1928 edition, as scanned, prints Aruṇadatta's and Hemādri's comments on Sū.1.1 but no `प०` block before verse 2. Either the edition never printed that section or this copy lacks it. Either way, the Tibetan is the only source here for the opening (cf. §4).
+**With the new, clean OCR (§10) the correspondence is much clearer than with the archive.org text layer:**
 
-**Limits.** The OCR is too noisy for passage-level claims.
-- Correct pairs score a median cos of 0.83, against 0.74 for wrong pairs from the same chapter (90th percentile 0.81), so individual matches are uncertain.
-- The Tibetan has about 1.4 times as many blocks. That is partly the verse-by-verse lemma format, but a strict alignment still leaves about a quarter of the Tibetan blocks unmatched. Most of those inspected are sequence conflicts rather than missing Sanskrit.
+| | archive.org OCR layer | new Surya OCR |
+|---|---|---|
+| Sanskrit Padārthacandrikā blocks | 916 | 1,456 (per half-verse) |
+| Median cos of matched 1:1 pairs | 0.827 | **0.865** |
+| Median cos of wrong pairs (same chapter) | 0.736 | 0.741 |
+| Matches confirmed as the local best | 46% | **60%** |
+| Matches whose chapter agrees | — | 97% |
 
-A clean re-OCR of the 1928 edition would allow the same verse-level comparison as for the root text.
+At cos ≥ 0.84, 68% of the matched pairs pass but only 3% of wrong pairs do.
 
-## 10. Bibliography (core)
+**Correction: the 1928 edition does print the opening.** An earlier version of this report said that the 1928 edition lacks Candranandana's introductory verses and his gloss on Sū.1.1. That was wrong. They stand on p. 26 without a `प०` siglum, which is why the noisy archive.org text layer hid them. They match the Tibetan D4312:1b verse by verse (see §4).
+
+## 10. New Sanskrit e-texts of the commentaries
+
+The commentaries were re-OCR'd with Surya OCR 2 from two editions:
+- **the 1928 Sūtrasthāna edition** (ed. Rām Prasād Śarmā), with Aruṇadatta, Candranandana and Hemādri;
+- **the Nirṇaya Sāgar edition revised by Parāḍkar** (1939), with Aruṇadatta and Hemādri for the whole text.
+
+The pipeline is in `/mnt2/kengo/ocr-ahs-tika1928`, following the A/B result of the earlier Caraka project (Surya better than Chandra on this kind of Devanagari).
+
+**Separating root text from commentary.**
+- The mūla was located by fuzzy-matching every Das & Emmerick verse in the OCR stream:
+  - half-verse by half-verse, because the 1928 edition prints the mūla one ardha at a time;
+  - anchored only where the following verses confirm the match, which rejects quotations in prefaces and indexes;
+  - with automatic re-anchoring after a run of misses.
+- The commentaries were split by their sigla, including frequent OCR misreads of them.
+- Parāḍkar prints Aruṇadatta without a siglum where he is the only commentator (most of the Śārīrasthāna); those passages are assigned to him.
+
+| | 1928 edition (Sū.) | Parāḍkar edition |
+|---|---|---|
+| Pages | 562 | 1,143 |
+| Regular verses located | 1,515 / 1,593 | 7,250 / 7,441 (97.4%) |
+| Mūla letter agreement with Das & Emmerick | 95.0% | 95.5% |
+| Leaves missing from the scan | printed pp. 52–53, 80–81, 160–161 | printed pp. 658–659 |
+| Candranandana | 501k characters | 21 passages (`प० चं०`) |
+| Aruṇadatta | 502k characters | 1.76M characters (complete) |
+| Hemādri | 457k characters | 750k characters |
+
+The letter agreement figures include genuine differences between the editions, so they are a floor for OCR accuracy.
+
+**Installed** in `E-texts/1_sanskr/6_sastra/7_ayur/`, each in IAST and `_deva`, with a header giving the edition, method and limits:
+- `candranandana_padarthacandrika_sutrasthana_sarma1928-ed_ocr`
+- `candranandana_padarthacandrika_excerpts_paradkar-ed_ocr`
+- `arunadatta_sarvangasundara_paradkar-ed_ocr` and `…_sutrasthana_sarma1928-ed_ocr`
+- `hemadri_ayurvedarasayana_paradkar-ed_ocr` and `…_sutrasthana_sarma1928-ed_ocr`
+
+The log is `catalog/move_log_20261030_182205_ahs_commentaries_ocr.tsv`. The OCR is uncorrected. Expect misfiled passages where a siglum was lost, and the 1928 editor's own notes (about 4% of the text) set aside as "unassigned".
+
+## 11. Which Sanskrit commentary do the Tibetan commentaries translate?
+
+Titles can mislead, so every Tibetan commentary was aligned against every surviving Sanskrit one: D4312 (*Padārthacandrikā*) and D4311 (*Vaiḍūryakabhāṣya*), each against Aruṇadatta, Hemādri and Candranandana.
+
+**Method.**
+- **Anchoring.** Both sides are anchored to root verses.
+  - The Sanskrit is anchored through the mūla.
+  - D4312 is anchored through its lemmata, which are D4310's lines: 4,705 of 5,559 blocks, median match score 98.6, monotone apart from 10 steps.
+  - D4311 is anchored through its own numbered chapter colophons (all 120 chapters recovered), then aligned within each chapter.
+- **Scoring.** For each Tibetan chunk and each Sanskrit work:
+  - the best cross-lingual embedding match on the same verse ±1;
+  - compared with a baseline six to eight verses away.
+- **A "clear match"** means cos ≥ 0.84 and at least 0.05 above the baseline.
+
+**Clear-match rates:**
+
+| Tibetan → Sanskrit | Sū | Śā | Ni | Ci | Ka | U |
+|---|---|---|---|---|---|---|
+| D4312 → Candranandana | **24.4%** | — | — | — | — | **52.6%** (Parāḍkar excerpts, n=19) |
+| D4312 → Aruṇadatta | 16.4% | 20.9% | 20.6% | 22.3% | 18.0% | 19.3% |
+| D4312 → Hemādri | 8.9% | — | 8.5% | 10.0% | 3.7% | — |
+| D4311 → Candranandana | 12.0% | — | — | — | — | — |
+| D4311 → Aruṇadatta | 8.2% | 9.3% | 8.3% | 15.7% | 14.8% | 13.5% |
+| D4311 → Hemādri | 4.4% | — | 4.1% | 6.7% | 4.5% | — |
+
+**Translation-level matches**, the high tail in the Sūtrasthāna (cos ≥ 0.90):
+
+| | Candranandana | Aruṇadatta | Hemādri |
+|---|---|---|---|
+| D4312 | **3.0%** | 1.2% | 0.3% |
+| D4311 | 0.0% | 0.1% | 0.0% |
+
+**Findings.**
+- **D4312 is Candranandana's commentary, as its title says.** Where both survive, it matches the Padārthacandrikā best: rates, tail and head-to-head all agree (Candranandana wins 283 chunks against 74/71 for Aruṇadatta and 72/47 for Hemādri). The Parāḍkar `प० चं०` excerpts match it most strongly of all, which confirms those excerpts as genuine Padārthacandrikā.
+- **The Vaiḍūryakabhāṣya (D4311) corresponds to none of the surviving Sanskrit commentaries.** It has no translation-level matches with any of them. Its best pairs are topical only, such as shared drug lists. It is a distinct work, lost in Sanskrit, consistent with the colophon tradition (§2).
+- **No evidence of Candranandana material inside Aruṇadatta.** Outside the Sūtrasthāna, D4312 matches Aruṇadatta at 18–22%. That could suggest Candranandana material preserved in Aruṇadatta, whom Meulenbeld describes as copying him "literally" in many parts. The Sūtrasthāna test argues against that reading:
+  - 9.1% of Aruṇadatta's sentences there recur near-verbatim in Candranandana's Sanskrit (Hemādri: 5.1%, mostly formulae);
+  - the Aruṇadatta passages that clearly match the Tibetan contain *fewer* such sentences (4.8%) than the rest (17.4%).
+
+  The similarity therefore comes from both commentators paraphrasing the same verse in prose, not from copying. The 18–22% outside the Sūtrasthāna cannot be read as Candranandana preserved in Aruṇadatta.
+
+**Limits.**
+- The Sanskrit is uncorrected OCR.
+- Chunks are about 700 characters and do not align one-to-one, so even the true pair reaches cos ≥ 0.90 for only 3% of chunks.
+- D4311's anchoring is looser (mean cos 0.78) than D4312's.
+
+**Files.** Scripts are in `/mnt2/kengo/ocr-ahs-tika1928`: `tib_d4312.py`, `tib_d4311.py`, `xprep.py`, `xalign.py`. The summary results are in `output/reports/data/tibetan-ahs-commentary-crossalign/`.
+
+## 12. Bibliography (core)
 
 - Vogel, C. 1965. *Vāgbhaṭa's Aṣṭāṅgahṛdayasaṃhitā: The First Five Chapters of its Tibetan Version.* AKM 37.2. Wiesbaden.
 - Emmerick, R.E. 1977. "Sources of the rGyud-bźi." *ZDMG* Suppl. III.2: 1135–1142. Also: 1975 (*Asia Major* 19); 1990 ("rGas-pa gso-ba"); "Epilepsy according to the Rgyud-bźi."
