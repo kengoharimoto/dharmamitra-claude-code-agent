@@ -104,7 +104,7 @@ The closing verses of D4312 (*go* vol., 304a-5–32) [D] say the following:
 - All four Tibetan texts open with a translator's homage to **Bhaiṣajyaguru Vaiḍūryaprabharāja** before the Indian maṅgala (D4310:44b-6; D4311:335b-5; D4312:1b-6; D4309:13b-5) [D].
 - The AHS itself already mentions Bhaiṣajyaguru: there is a mantra in Sū.18, and his epithets Tathāgata, Samyaksambuddha and Vaiḍūryaprabharāja occur [M, IA: 603–604].
 - [I] The title *Vaiḍūryakabhāṣya* probably plays on the same epithet.
-- The same Bhaiṣajyaguru opening frames the Rgyud bzhi. The Rgyud bzhi's opening homage formula appears verbatim in the AHS (see §6).
+- The same Bhaiṣajyaguru opening frames the Rgyud bzhi. Its full epithet string (*… dgra bcom pa yang dag par rdzogs pa'i sangs rgyas sman gyi bla …*) matches the D4311/D4312 form, not D4310's shorter one. It is the standard tathāgata formula, though, so this proves nothing about dependence (see §6.3).
 - Vāgbhaṭa's "Buddhist" readings (*Jina/Jinasuta*, Ci.19.98; Āryāvalokita, U.5.50) are discussed by Meulenbeld (IA: 603–604). [I] Checking which readings the Tibetan presupposes, against Candranandana's *Śivasuta = Gaṇeśa*, would be a worthwhile small study.
 
 ## 6. Relationship to the Rgyud bzhi
@@ -248,7 +248,78 @@ From the DharmaNexus `table --agg --all` survey of D4310 [D]:
 - **No metadata.** Menu metadata (`--meta`) for these five files is null.
 - **No Rgyud bzhi** in the DharmaNexus corpus (not found by `identify-text.py`).
 
-## 9. Bibliography (core)
+## 9. The Tibetan against the surviving Sanskrit
+
+### 9.1 Method
+
+- **Root text.**
+  - *Sanskrit:* the Das & Emmerick e-text of the AHS (1997, GRETIL). It has 120 chapters, the same structure as the Tibetan.
+  - *Tibetan:* D4310, where nearly every DharmaNexus segment is one 7-syllable pāda.
+  - *Alignment:* within each chapter, monotone verse-to-span alignment. One or two Sanskrit verses match 1–8 consecutive Tibetan lines.
+  - *Scoring:* the Dharmamitra cross-lingual sentence-alignment embedder (`mitra-qwen35-2b-embedder-sentence-alignment`).
+  - *Calibration:* true matches score a median cos of 0.92, against about 0.80 for the best wrong span nearby.
+  - *Classes:* close ≥ 0.85, loose 0.78–0.85.
+  - *Structure check:* the median is 4.1 Tibetan lines per Sanskrit verse, so a śloka normally becomes four Tibetan pādas.
+- **Padārthacandrikā.**
+  - *Sanskrit:* only the Sūtrasthāna survives. I used the archive.org OCR layer of the 1928 edition, which prints Aruṇadatta, Hemādri and Candranandana together, and extracted the 916 blocks marked `प०` (Candranandana's siglum).
+  - *Tibetan:* D4312 Sū.1–30 (vol. *ko* plus the start of *kho*), split into 1,269 lemma-and-gloss blocks.
+  - *Alignment:* one monotone sequence over the whole Sūtrasthāna, allowing a block on one side to match up to three on the other.
+- Scripts and full outputs are in `output/reports/data/tibetan-ahs-sanskrit-alignment/`.
+
+### 9.2 Root text: the Tibetan is a close, nearly complete translation
+
+| Sanskrit verses | Count | In the Tibetan | Absent |
+|---|---|---|---|
+| Regular verses | 7,418 | **98.9%** (92.5% close, 6.4% loose) | 63 (0.8%) |
+| Lines Das & Emmerick print as additions (`n+1` etc.) | 226 | 31% | **67%** |
+| ™-marked verses | 46 | 100% | 0 |
+
+- **Tibetan side.** 98% of D4310's lines align to Sanskrit verses. Most of the rest is colophons the Sanskrit e-text doesn't print: sthāna ends, the endings of each of the eight *aṅgas* (*byis pa gso ba'i yan lag rdzogs so* …), and the final author colophon. The rest are the standard chapter-opening formulae (*athāta … vyākhyāsyāmaḥ / iti ha smāhur ātreyādayo maharṣayaḥ*), which the e-text also omits.
+- **Genuine Tibetan additions are under 1% of the text.** They are mainly short recipe and drug-list lines (Sū.15, Ci.1, Ci.3, Ci.5, U.5, U.24) and one line on massage after exercise (Sū.2).
+- **The added verses.** Two-thirds of the lines Das & Emmerick print as additions from other editions are not in the Tibetan. Rin chen bzang po's exemplar was therefore close to the shorter text. One clear exception is the Bhaiṣajyaguru mantra (Sū.18.17+1, *namo bhagavate bhaiṣajyagurave vaiḍūryaprabharājāya*), which the Tibetan transliterates.
+- **Readings.** I tested 383 lexically substantive pāda variants in the Das & Emmerick apparatus.
+  - Where the embedding can decide, the Tibetan follows the base text **84 times** and the variant **9 times**. The other 290 are undecided, because an embedding cannot separate near-synonyms.
+  - The spot-checked verdicts are correct in both directions. Three Tibetan-supported variants:
+    - Sū.6.111d *kāsān hanty asrapittakṛt*: *khrag mkhris skyed*.
+    - U.26.24d *sīvanyā picuyuktayā*: *ras bal dang bcas pa'i khab kyis*.
+    - Ci.9.114b *palāṃśakam*: *srang ni re re*.
+
+### 9.3 What the Tibetan leaves out
+
+Only three passages of the regular text are clearly absent: no match anywhere in the chapter. Their content is telling.
+
+- **Ci.7.53cd–97: wine for pleasure (43 verses).** The Tibetan renders Ci.7.53ab, *rig par chang 'thung gang gis ni / nad ni 'byung bar 'gyur ma yin* (*yuktamadyasya madyottho na vyādhir upajāyate*). It then jumps straight to Ci.7.98, *de la rlung nad la phan chang* (*tatra vāte hitaṃ madyam*) (D4310:187a-6–8). Two things are missing:
+  - the panegyric of wine as bearer of the Aśvins' splendour, Sarasvatī's strength, Indra's vigour and Viṣṇu's power (54 ff.);
+  - the ornate description of drinking for pleasure.
+
+  The therapeutic use of wine, by doṣa, is kept.
+- **Sū.4.33: rites.** *atharvavihitā śāntiḥ pratikūlagrahārcanam / bhūtādyasparśanopāyo* (Atharvavedic pacification, worship of hostile planets) is missing. Sū.4.32 and 4.34 on either side are translated.
+- **Ci.19.98: worship as a cure for kuṣṭha.** The verse prescribing vows, worship of brahmins, gods and teachers, and adoration of Śiva/Jina, his son, Tārā and the Sun is missing. The Tibetan chapter goes from 97 straight to its colophon (D4310:227b-44–46).
+
+**This is selective, not random.** The Tibetan keeps:
+- the Hindu lineage of Āyurveda (Brahmā, Prajāpati, the Aśvins, Indra in Sū.1.3: *tshangs pa, skye dgu'i bdag, tha skar, brgya byin*);
+- the Buddhist figures (Āryāvalokiteśvara in U.5.50, rendered *'phags pa spyan ras gzigs dbang phyug, mgon po phyag bcu gnyis pa*);
+- the mantras (Vaiḍūryamātā and Gaurī/Gāndhārī in U.35.29–30, transliterated).
+
+What is absent is the celebration of alcohol and two prescriptions of non-Buddhist worship.
+
+[I] That fits a choice by monastic translators, but it cannot be proven from the Tibetan alone. Ci.19.98 is missing from some Sanskrit manuscripts too (Meulenbeld IA: 604), so the exemplar may already have lacked it. The Ci.7 and Sū.4.33 gaps would need checking against the manuscript tradition.
+
+A further 17 single verses scored as absent, but each has a strong match (0.83–0.90) elsewhere in its chapter. They are most likely alignment artefacts, not omissions.
+
+### 9.4 Padārthacandrikā (Sūtrasthāna)
+
+**Chapter-level correspondence is complete.** Every Sanskrit chapter maps onto the corresponding Tibetan chapter, Sū.1–30. Of the 916 Sanskrit blocks, 911 fall into aligned positions. For 424 (46%) the embedding independently picks the aligned Tibetan block as the best local match; the rest are placed by sequence. No run of Sanskrit commentary lacks Tibetan.
+
+**The opening is absent from the Sanskrit.** The Tibetan begins with Candranandana's introductory verses and the gloss on Sū.1.1 (D4312:1b–3a): the homage to Hari, the patron *dpal ldan sgrib med lha*, and the lineage. The 1928 edition, as scanned, prints Aruṇadatta's and Hemādri's comments on Sū.1.1 but no `प०` block before verse 2. Either the edition never printed that section or this copy lacks it. Either way, the Tibetan is the only source here for the opening (cf. §4).
+
+**Limits.** The OCR is too noisy for passage-level claims.
+- Correct pairs score a median cos of 0.83, against 0.74 for wrong pairs from the same chapter (90th percentile 0.81), so individual matches are uncertain.
+- The Tibetan has about 1.4 times as many blocks. That is partly the verse-by-verse lemma format, but a strict alignment still leaves about a quarter of the Tibetan blocks unmatched. Most of those inspected are sequence conflicts rather than missing Sanskrit.
+
+A clean re-OCR of the 1928 edition would allow the same verse-level comparison as for the root text.
+
+## 10. Bibliography (core)
 
 - Vogel, C. 1965. *Vāgbhaṭa's Aṣṭāṅgahṛdayasaṃhitā: The First Five Chapters of its Tibetan Version.* AKM 37.2. Wiesbaden.
 - Emmerick, R.E. 1977. "Sources of the rGyud-bźi." *ZDMG* Suppl. III.2: 1135–1142. Also: 1975 (*Asia Major* 19); 1990 ("rGas-pa gso-ba"); "Epilepsy according to the Rgyud-bźi."
