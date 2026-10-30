@@ -1,0 +1,435 @@
+{
+ "threshold": 0.4,
+ "by_tantra": {
+  "Rtsa": {
+   "assessed_syllables": 3751,
+   "ahs_related": 337,
+   "pct": 9.0,
+   "control_pct": 0.2
+  },
+  "Bshad": {
+   "assessed_syllables": 25484,
+   "ahs_related": 4559,
+   "pct": 17.9,
+   "control_pct": 0.0
+  },
+  "Man ngag (1-27)": {
+   "assessed_syllables": 51390,
+   "ahs_related": 2167,
+   "pct": 4.2,
+   "control_pct": 0.0
+  },
+  "Phyi": {
+   "assessed_syllables": 32787,
+   "ahs_related": 1462,
+   "pct": 4.5,
+   "control_pct": 0.1
+  }
+ },
+ "top_chapters": [
+  [
+   "Bshad ch.15",
+   198,
+   474,
+   41.8
+  ],
+  [
+   "Bshad ch.14",
+   216,
+   603,
+   35.8
+  ],
+  [
+   "Man ngag (1-27) ch.11",
+   168,
+   517,
+   32.5
+  ],
+  [
+   "Bshad ch.17",
+   117,
+   378,
+   31.0
+  ],
+  [
+   "Bshad ch.19",
+   277,
+   912,
+   30.4
+  ],
+  [
+   "Bshad ch.5",
+   322,
+   1077,
+   29.9
+  ],
+  [
+   "Bshad ch.11",
+   225,
+   815,
+   27.6
+  ],
+  [
+   "Bshad ch.6",
+   81,
+   303,
+   26.7
+  ],
+  [
+   "Bshad ch.2",
+   342,
+   1329,
+   25.7
+  ],
+  [
+   "Bshad ch.16",
+   450,
+   1945,
+   23.1
+  ],
+  [
+   "Bshad ch.7",
+   269,
+   1227,
+   21.9
+  ],
+  [
+   "Bshad ch.8",
+   72,
+   342,
+   21.1
+  ],
+  [
+   "Bshad ch.13",
+   188,
+   938,
+   20.0
+  ],
+  [
+   "Bshad ch.23",
+   63,
+   372,
+   16.9
+  ],
+  [
+   "Bshad ch.12",
+   260,
+   1585,
+   16.4
+  ],
+  [
+   "Bshad ch.9",
+   117,
+   742,
+   15.8
+  ],
+  [
+   "Bshad ch.29",
+   89,
+   577,
+   15.4
+  ],
+  [
+   "Rtsa ch.4",
+   49,
+   330,
+   14.8
+  ],
+  [
+   "Bshad ch.21",
+   80,
+   573,
+   14.0
+  ],
+  [
+   "Bshad ch.22",
+   117,
+   847,
+   13.8
+  ],
+  [
+   "Phyi ch.6",
+   54,
+   394,
+   13.7
+  ],
+  [
+   "Bshad ch.4",
+   126,
+   1003,
+   12.6
+  ],
+  [
+   "Bshad ch.24",
+   54,
+   441,
+   12.2
+  ],
+  [
+   "Bshad ch.27",
+   89,
+   757,
+   11.8
+  ],
+  [
+   "Bshad ch.31",
+   202,
+   1817,
+   11.1
+  ],
+  [
+   "Phyi ch.24",
+   45,
+   466,
+   9.7
+  ],
+  [
+   "Man ngag (1-27) ch.9",
+   36,
+   394,
+   9.1
+  ],
+  [
+   "Rtsa ch.1",
+   243,
+   2695,
+   9.0
+  ],
+  [
+   "Phyi ch.4",
+   240,
+   2675,
+   9.0
+  ],
+  [
+   "Phyi ch.5",
+   52,
+   579,
+   9.0
+  ]
+ ],
+ "samples": {
+  "0.6-0.7": [
+   {
+    "tantra": "Bshad ch.9",
+    "recall": 0.6,
+    "rgyud": "shas cher gtad pa lhag pa'i sbyor ba yin",
+    "ahs": "du'am mi sbyor ba ni dman pa ste shas cher gtad pa lhag sbyor ba rab phra'i 'od dang 'jigs pa"
+   },
+   {
+    "tantra": "Bshad ch.9",
+    "recall": 0.5,
+    "rgyud": "grang bas ldang zhing snum dros zhi bar 'gyur",
+    "ahs": "ldan pas mkhris pa par byed 'gyur la dro bas ldang zhing ro rtul bsil bar ldan pas zhi bar 'gyur"
+   },
+   {
+    "tantra": "Bshad ch.19",
+    "recall": 0.4,
+    "rgyud": "ngo bo sde tshan las dang rnam pa lnga",
+    "ahs": "'byung ba dang za bdag dang rnam pa lnga de la rlung gis ring zos dang rtsub tsha sra dang ma"
+   },
+   {
+    "tantra": "Bshad ch.14",
+    "recall": 0.43,
+    "rgyud": "bsil ba zla ba'i stobs ldan nyi ma 'bri",
+    "ahs": "kyang ston par byed sman ni sna tshogs bdag nyid can nyi ma zla ba'i stobs can yin 'gro 'di gsal"
+   },
+   {
+    "tantra": "Bshad ch.14",
+    "recall": 0.4,
+    "rgyud": "me drod gnod pas me drod skyed pa bsten",
+    "ahs": "par bya ba bshad par bya'o nad kun nad gzhi las bshad pa'i gnod pas nad ni 'khrugs pa dang mchog"
+   },
+   {
+    "tantra": "Bshad ch.14",
+    "recall": 0.5,
+    "rgyud": "dri zhim skyed mos tshal gyi nyi grib 'dug",
+    "ahs": "longs spyod ldan pa'i sa sna tshogs me tog ldan pa'i shing dri zhim skyed mos tshal du ni dga' 'dun"
+   },
+   {
+    "tantra": "Bshad ch.14",
+    "recall": 0.4,
+    "rgyud": "de la dgun zla tha chung la sogs pa",
+    "ahs": "gnyis gnyis rim bzhin dus ni drug tu bshad de las dgun zla tha gsum ni byang du 'gro zhes bya"
+   },
+   {
+    "tantra": "Bshad ch.2",
+    "recall": 0.4,
+    "rgyud": "gtar ga la sogs zla brgyad bar du spang",
+    "ahs": "bzhin gtar ga gdab slon khrus mas gtong zla brgyad bar mi bya 'di dag gis ni mngal 'jig pa'am dku"
+   },
+   {
+    "tantra": "Bshad ch.16",
+    "recall": 0.5,
+    "rgyud": "sha kun pho mo'i stod smad phyed lci ste",
+    "ahs": "pho dang mo yi stod smad phyed lci ste sbrum ma thams cad lci rkang bzhi mo yi yang ba yin"
+   },
+   {
+    "tantra": "Rtsa ch.3",
+    "recall": 0.43,
+    "rgyud": "de ltar gso thabs dgu bcu rtsa brgyad po",
+    "ahs": "lus la dbug mi rung ma lus dgu bcu rtsa brgyad yod dog dang rtsa mdud shin tu phra yo dang"
+   },
+   {
+    "tantra": "Bshad ch.2",
+    "recall": 0.43,
+    "rgyud": "skyur la dga' zhing snying la sna tshogs 'dod",
+    "ahs": "ba gsal ba dang skyur la dga' zhing nu ma rgyas nu zhor bcas shing rtse mo gnag rkang pa skrangs"
+   },
+   {
+    "tantra": "Bshad ch.7",
+    "recall": 0.43,
+    "rgyud": "bkra mi shis pa gang mthong ngan pa'i ltas",
+    "ahs": "pa'i pho nya 'ongs sman pas yongs su spangs bar bya bkra mi shis pa sems dang smra gcer bu gcod"
+   }
+  ],
+  "0.7-0.85": [
+   {
+    "tantra": "Bshad ch.20",
+    "recall": 0.71,
+    "rgyud": "nus pa'i khyad par ldan pas mthu zhes brjod",
+    "ahs": "ma lus snying por ni gyur pas mthu zhes bshad pa dag don dang mthun par btags pa yin gcis pa"
+   },
+   {
+    "tantra": "Bshad ch.31",
+    "recall": 0.74,
+    "rgyud": "om na mo bha ga wa te bhai sha dzye gu ru bai durya pra bha ra dza ya ta tha ga ta ya arha te sammyaksambuddha ya",
+    "ahs": "dzya gu ru bai durya pra bha ra dza ya ta tha ga ta ya arta te sam myag sam buddha ya tadya tha om bhaisha dzye bhai sha dzye ma ha bhai sha dzye ra dza sa mungga te"
+   },
+   {
+    "tantra": "Bshad ch.9",
+    "recall": 0.83,
+    "rgyud": "shugs bkag pa dang nan gyis btsir ba yi",
+    "ahs": "dang gci dang 'phyen gyi shugs bkag dang nan gyis btsir ba dang rims dang skran dang tshad par 'khru 'or"
+   },
+   {
+    "tantra": "Man ngag (1-27) ch.2",
+    "recall": 0.71,
+    "rgyud": "tsan dan dmar po rdo dreg spang spos dang",
+    "ahs": "ru rta shu dag dang sug smel rdo dreg spang spos dang shu ti tsandan dmar po gzhug bskol ba der"
+   },
+   {
+    "tantra": "Bshad ch.15",
+    "recall": 0.8,
+    "rgyud": "rtag tu phan pa'i zas dang spyod lam rnams",
+    "ahs": "sbyangs na dus byung nad ni nam yang 'byung mi 'gyur rtag tu phan pa'i zas dang spyod lam bsten brtags"
+   },
+   {
+    "tantra": "Bshad ch.17",
+    "recall": 0.75,
+    "rgyud": "rgyal po'i pho brang srog 'tsho'i slob dpon bzhag",
+    "ahs": "bshad par bya'o rgyal po'i pho brang nye 'khor du srog 'tsho'i slob dpon gzhag par bya de ltar byas pas"
+   },
+   {
+    "tantra": "Man ngag (1-27) ch.11",
+    "recall": 0.8,
+    "rgyud": "mkhris gyur rkang lag phrag pa tsha ba dang",
+    "ahs": "yan lag na skad 'gags mgul pa subs par 'gyur mkhris rgyas rkang lag phrag pa tsha tshad 'khru khrag tu"
+   },
+   {
+    "tantra": "Bshad ch.16",
+    "recall": 0.71,
+    "rgyud": "bya rnams kun ni pho yi yang ba yin",
+    "ahs": "yin bya rnams kyi ni pho yi yang mgo bo ro stod brang dang rgyab rked pa dpyi yi lci ba"
+   },
+   {
+    "tantra": "Bshad ch.5",
+    "recall": 0.8,
+    "rgyud": "me drod de ni zas gang lus zungs mdangs",
+    "ahs": "nad ni skyed par byed zas gang lus kyi lus zungs mdangs stobs dang kha dog rgyas byed de rgyu kha"
+   },
+   {
+    "tantra": "Bshad ch.20",
+    "recall": 0.83,
+    "rgyud": "yang rtsub tsha dang rno ba rnam pa brgyad",
+    "ahs": "dang 'jam pa dang yang rtsub tsha dang rno ba ste de ltar rnam pa brgyad du 'dod sman mthu tsar"
+   },
+   {
+    "tantra": "Bshad ch.16",
+    "recall": 0.83,
+    "rgyud": "brtan g.yung srin bu rkang bam snying nad skyed",
+    "ahs": "de ni brtan g.yung na srin bu rkang bam snying dang ni lkog ma klad pa'i nad skyed 'gyur shar dang"
+   },
+   {
+    "tantra": "Bshad ch.19",
+    "recall": 0.83,
+    "rgyud": "yid gzhungs nu ma'i nad dang skad 'gags sel",
+    "ahs": "pa dang yang zhing yid gzhungs bsil zhing rtsub nu ma'i nad dang skad 'gags sel de ni shin tu drags"
+   }
+  ],
+  ">=0.85": [
+   {
+    "tantra": "Bshad ch.13",
+    "recall": 0.86,
+    "rgyud": "de ltar bdag ni nyin mtshan gnas 'gro zhes",
+    "ahs": "dam pa'i spyod mthar thug da ltar bdag ni nyin mtshan du ji lta bur ni gnas 'gro zhes rtag tu"
+   },
+   {
+    "tantra": "Bshad ch.16",
+    "recall": 1.0,
+    "rgyud": "nang gi drod 'bar khong pa dag pa dang",
+    "ahs": "par byed pa rnams nang gi drod 'bar khong pa dag pa dang lus zungs 'phral brta stobs dang mdog bzang"
+   },
+   {
+    "tantra": "Bshad ch.7",
+    "recall": 0.86,
+    "rgyud": "sman pa sman dang bla ma mdza' bshes sdang",
+    "ahs": "po'i gzugs brnyan snang ba dang sman pa sman dang kha zas dang bla ma mdza' bshes la sdang gang 'di"
+   },
+   {
+    "tantra": "Bshad ch.17",
+    "recall": 0.86,
+    "rgyud": "gnong bag gis ni phyogs su blta bar byed",
+    "ahs": "ni sngo bskams la gnong bag gis ni phyogs su blta rngul zhing 'dar la skrag pa dang 'jigs shing 'gros"
+   },
+   {
+    "tantra": "Bshad ch.6",
+    "recall": 0.86,
+    "rgyud": "de las zad pa phan chad rgan po yin",
+    "ahs": "bar ma zad pa phan chad rgan po yin rang rang khru ni phyed dang bzhi lus ni tshe ring bde"
+   },
+   {
+    "tantra": "Bshad ch.5",
+    "recall": 0.86,
+    "rgyud": "yang zhing dri mnam 'khru zhing gsher ba yin",
+    "ahs": "smum bcas rno zhing dro yang zhing dri mnam 'khru zhing gsher bad kan snum bsil lci ba dang rtul zhing"
+   },
+   {
+    "tantra": "Bshad ch.5",
+    "recall": 1.0,
+    "rgyud": "tshe dang lus zungs me drod stobs 'phel byed",
+    "ahs": "bshad tshe dang nad med brtson gzi mdangs lus zungs me drod stobs 'phel byed zhu ba'i gnas kyi sgor 'jug"
+   },
+   {
+    "tantra": "Bshad ch.16",
+    "recall": 1.0,
+    "rgyud": "dbang brtan rgas sra lo brgya thub par bshad",
+    "ahs": "bzang ldan dbang brtan rgas sra lo brgya thub par bshad yan lag brgyad pa'i snying po bsdus pa las mdo'i"
+   },
+   {
+    "tantra": "Bshad ch.7",
+    "recall": 0.88,
+    "rgyud": "pho nya ya mtshan can dang dge sbyong dang",
+    "ahs": "nya la pa bshad par bya'o ya mtshan can dang dge sbyong dang rigs mthun las ni 'grub par bshad de"
+   },
+   {
+    "tantra": "Bshad ch.13",
+    "recall": 0.88,
+    "rgyud": "sdig pa'i las bcu lus ngag yid kyis spang",
+    "ahs": "sdig pa'i las rnams bcu lus ngag yid kyis spang bar bya phongs pa nad pa mya ngan gzir ci nus"
+   },
+   {
+    "tantra": "Bshad ch.13",
+    "recall": 0.86,
+    "rgyud": "rtag tu bsku byug spyod byed rgas ngal rlung",
+    "ahs": "yin rtag tu bsku byug spyod byed na de ni rgas ngal rlung 'joms yin mig gsal lus rgyas tshe 'phel"
+   },
+   {
+    "tantra": "Phyi ch.27",
+    "recall": 1.0,
+    "rgyud": "gso byas ma byas mnyam por bya mi rigs",
+    "ahs": "de nyid ma lus rnam par bshad gyur pa gso byas ma byas mnyam por bya mi rigs yan lag drug"
+   }
+  ]
+ }
+}
