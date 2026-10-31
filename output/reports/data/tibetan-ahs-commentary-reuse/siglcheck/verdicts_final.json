@@ -1,0 +1,1562 @@
+{
+ "0": {
+  "id": 0,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Hemādri's opening maṅgala verse (पृष्ठं कूर्मतया...), paragraph opens हे०—श्रीगणेशाय नमः"
+ },
+ "4": {
+  "id": 4,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प० paragraph is near-verbatim parallel of preceding स० paragraph (तत्रेति निर्धारणे...)"
+ },
+ "8": {
+  "id": 8,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "continues प०—एषां च रसानाम् paragraph"
+ },
+ "12": {
+  "id": 12,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Crop shows only the unsigned lead-in line 'यत एवं देहमनसी ... ततोऽनंतरमिदमाह--' introducing the next root verse; no siglum."
+ },
+ "16": {
+  "id": 16,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'प०-रोगोपहतशरीरज्ञानोपायमाह' at foot of preceding column and continues across the bar ('दर्शनेन | दृष्ट्वा...'); passage inside it, ends ॥ ३२ ॥."
+ },
+ "20": {
+  "id": 20,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "स०—कालो द्विविधः right after root verse 36"
+ },
+ "24": {
+  "id": 24,
+  "verdict": "correct",
+  "true_commentator": "candranandana",
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens प०—उपस्थातापि चतुर्विधः... at foot of previous column and continues across the bar to ॥ ४३ ॥."
+ },
+ "28": {
+  "id": 28,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "स०—बाहुल्येन विपर्यये after root verse 47"
+ },
+ "32": {
+  "id": 32,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "New crop shows only the one line; siglum cut by left scan edge (only '०—' remnant). In first_crop it is the third short paragraph on ॥ ५४ ॥, after two paragraphs (second with a siglum remnant resembling प०); by the स/प/हे order it is हे०."
+ },
+ "36": {
+  "id": 36,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "continuation of हे०—षड्भिः स्थानैः paragraph"
+ },
+ "40": {
+  "id": 40,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "स०—नावनादीनां ... paragraph after verse 7"
+ },
+ "44": {
+  "id": 44,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "note": "root verse 21 (उष्णाम्बुनाऽधःकायस्य...) in bold"
+ },
+ "48": {
+  "id": 48,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "हे०—उद्वर्तनादेर्विशेषमाह paragraph; contains Caraka quote"
+ },
+ "52": {
+  "id": 52,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "[cut]०—",
+  "evidence": "inferred",
+  "note": "Paragraph सामुद्रं लक्षयति... ending ॥ ४ ॥ opens with a siglum whose first glyph is cut by the left scan edge (only a fragment + ०— visible). Per pass 1 it follows the प० paragraph, so third slot = हे०; विधत्ते/लक्षयति style agrees. Passage is inside the Saṃgraha quotation in this paragraph."
+ },
+ "56": {
+  "id": 56,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'प०--अथवा नातिशृतं...' at foot of preceding column ending 'तथा च तन्त्रान्तरे-' and continues across the bar with the quotation containing the passage; ends ॥ ३० ॥."
+ },
+ "60": {
+  "id": 60,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "within प०—भूरितरजनोपयोगात् paragraph; Saṃgraha quote follows"
+ },
+ "64": {
+  "id": 64,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "within स०—अन्नस्य स्वरूपं paragraph (ch.6 opening)"
+ },
+ "68": {
+  "id": 68,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "inside quotation from तन्त्रान्तर (“वर्षस्थितं सर्वधान्यं...”) within प० paragraph"
+ },
+ "72": {
+  "id": 72,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "स०—रस इति मांसरसः paragraph"
+ },
+ "76": {
+  "id": 76,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प०—करीरं गूढपत्राख्यम्; near-identical to preceding स० gloss"
+ },
+ "80": {
+  "id": 80,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प०—यन्मूलकम् paragraph"
+ },
+ "84": {
+  "id": 84,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प०—पलाण्डुर्ध्वलाक्षक...; parallels preceding स० paragraph almost verbatim"
+ },
+ "88": {
+  "id": 88,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प०—फलानामाहारकाले at top of page"
+ },
+ "92": {
+  "id": 92,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प०—आमकपित्थं paragraph; parallels स० paragraph verbatim"
+ },
+ "96": {
+  "id": 96,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "passage is the Saṃgraha quote (वृक्षाम्लं ग्राहि...) in the प० paragraph; same quote also in the स० paragraph just above (red line sits there)"
+ },
+ "100": {
+  "id": 100,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "स०—तया हरीतक्या after verse 165"
+ },
+ "104": {
+  "id": 104,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'प०--पञ्चमं पञ्चमूलमाह...' in preceding column (Saṃgraha dravya quotation) and continues across the bar ('पित्तलं किञ्चित्...'); passage 'पद्मरागमहानील...' lies within this continuous quoted list."
+ },
+ "108": {
+  "id": 108,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Passage ('वर्ण्यं नेत्रहितं छत्रं वातवर्षातपापहम्') is mid-column on p.204 in the paragraph that continues unbroken from the end of p.203 (above the bar: '...सकषायो रसायनम्॥ वर्ण्यः स्वर्यः कटुः पाके' → 'रूक्षः सूक्ष्मोऽग्निदीपनः...'). That p.203 paragraph opens with 'प०--पञ्चमं पञ्चमूलमाह', seen on c104_full.png; the siglum itself is not inside this crop."
+ },
+ "112": {
+  "id": 112,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "स०—अन्नपानस्वरूपं ... introduction at start of ch.7"
+ },
+ "116": {
+  "id": 116,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "Passage sits in a long unbroken block (añjana preparation); the stacked preceding column is also mid-paragraph with no siglum visible. Content is a continuous Saṃgraha-style viṣa/rājarakṣā quotation that appears to continue the हे० paragraph seen on p.214 (id 114), which would make it हे० (= correct), but the intervening column is not in the crop, so the siglum is not verified."
+ },
+ "120": {
+  "id": 120,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "स०—अम्लं द्रव्यं पयसा सह after verse 17 (preceding para is हे०)"
+ },
+ "124": {
+  "id": 124,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "हे०—तद्वत्कुलत्थादयः paragraph; passage is a Suśruta quotation"
+ },
+ "128": {
+  "id": 128,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "प०—यद्यपथ्यमपि सात्म्यत्वं...; wording echoes the unsigled introduction above verse 34"
+ },
+ "132": {
+  "id": 132,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "within प०—अथ निद्रागुणप्रसङ्गेन paragraph, right after a long quoted verse passage (“ग्रीष्मे वातचया...”)"
+ },
+ "136": {
+  "id": 136,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "within हे०—अथ सम्यग्योगहेतुः paragraph"
+ },
+ "140": {
+  "id": 140,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "end of हे०—तुल्यन्यायत्व... paragraph"
+ },
+ "144": {
+  "id": 144,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "within प०—एवं पृथिव्याख्येन paragraph"
+ },
+ "148": {
+  "id": 148,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'प०—असौ विपाकाख्यो रसो...' in the preceding column (ending '...प्रोच्यन्ते') and continues across the bar ('कर्माणि मधुरो रसः...') to ॥ २६ ॥; passage 'कषायतिक्तं महत्पञ्चमूलं...' is near its end."
+ },
+ "152": {
+  "id": 152,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens हे०—वृद्धिक्षयौ ज्ञात्वा यदनुष्ठेयं तत्संक्षेपादाह... at foot of previous page and continues across the bar to ॥ ४३ ॥."
+ },
+ "156": {
+  "id": 156,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Crop is only the unsigned lead-in line 'एवं व्याधीनां स्वतंत्रपरतंत्रत्वं प्रतिपाद्य दोषाण प्रतिपादयन्नाह—' introducing the next root verse (विद्यादेवं मला...); no siglum."
+ },
+ "160": {
+  "id": 160,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "हे०—तत्रैकस्माद्द्वयोर्वृद्धयोस्त्रीन् at top of page; passage is its continuation"
+ },
+ "164": {
+  "id": 164,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "within हे०—शमनौषधकालमाह paragraph"
+ },
+ "168": {
+  "id": 168,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "inside Saṃgraha verse quotation (संग्रहे तु—अतिकार्श्येन...) within हे० paragraph"
+ },
+ "172": {
+  "id": 172,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": null,
+  "note": "Long Caraka agrya-list quotation runs across the bar; stacked preceding column also begins mid-list at its top. Paragraph ends ...इति ॥ ३४ ॥. No siglum in crop."
+ },
+ "176": {
+  "id": 176,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "हे०—स्निग्धस्य समनंतरमेव स्वेदः at top of page"
+ },
+ "180": {
+  "id": 180,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "within प०—गर्भिण्यादयो paragraph"
+ },
+ "184": {
+  "id": 184,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "within short हे०—प्रतिकर्म स्नेहस्वेदौ paragraph"
+ },
+ "188": {
+  "id": 188,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "inside long Saṃgraha verse quotation (“अनुक्ते रिक्तकोष्ठस्य...”) within हे०—अनास्थाप्यादीनां paragraph at top of page"
+ },
+ "192": {
+  "id": 192,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "same हे० paragraph and same Saṃgraha quotation as id 188"
+ },
+ "196": {
+  "id": 196,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "within हे०—ततो वेदनार्तमंगं paragraph (cites Saṃgraha)"
+ },
+ "200": {
+  "id": 200,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "हे०—अंगुलीत्राणाख्यं नाडीयन्त्रमाह at top of page"
+ },
+ "204": {
+  "id": 204,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "within स०—अत्र एषु शस्त्रेषु paragraph after verse 20"
+ },
+ "208": {
+  "id": 208,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "स०—यतः सिराव्यधाऽध्याये at start of ch.28"
+ },
+ "212": {
+  "id": 212,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "हे०—पाटनानन्तरं कर्तव्यमाह"
+ },
+ "1": {
+  "id": 1,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": null,
+  "note": "Paragraph continues from previous column, which itself begins mid-paragraph at column top; governing siglum not in crop."
+ },
+ "5": {
+  "id": 5,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Passage opens the प० paragraph after verse 16; nearly identical text also in the preceding स० paragraph."
+ },
+ "9": {
+  "id": 9,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'हे०—प्रभावभेदानाह' in preceding column, ends 'अन्ये अरुणदत्तचंद्रनंदनादयः । तथाहि—' and continues across the bar into this passage (Hemādri reporting others' view); ends ॥ २३ ॥."
+ },
+ "13": {
+  "id": 13,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Within स० paragraph on verse 31, same line as siglum."
+ },
+ "17": {
+  "id": 17,
+  "verdict": "unsigned",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Short indented paragraph रोगित्वज्ञानोपायमाह—स च त्रिधा... ॥ ३२ ॥ printed with no siglum."
+ },
+ "21": {
+  "id": 21,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "In प० paragraph, one line below siglum; contains quoted verses (pUrvAhNe vamanaM...)."
+ },
+ "25": {
+  "id": 25,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "In प० paragraph (प०—रोग्यपि चतुर्विधः...); near-identical wording in preceding स० paragraph."
+ },
+ "29": {
+  "id": 29,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "In प० paragraph (प०-याप्य उच्यते...)."
+ },
+ "33": {
+  "id": 33,
+  "verdict": "correct",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "evidence": "seen",
+  "note": "Paragraph opens स०—बालोपचरणीयः... (list of Uttaratantra chapters) in previous block and continues across the bar to ॥ ९६ ॥."
+ },
+ "37": {
+  "id": 37,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Same line as प०—अथेति siglum."
+ },
+ "41": {
+  "id": 41,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Within प० paragraph (प०-सचाभ्यङ्गः...), second line."
+ },
+ "45": {
+  "id": 45,
+  "verdict": "unsigned",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Paragraph begins indented भोजनं विधत्ते—ह्यस्तने... with no printed siglum."
+ },
+ "49": {
+  "id": 49,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within the हे० paragraph that opens at top of page."
+ },
+ "53": {
+  "id": 53,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स० (partly cut)",
+  "evidence": "inferred",
+  "note": "Passage opens its own paragraph ('?०-ऐन्द्रमांतरिक्षं जलं...'). Left half of the siglum is cut by scan edge; the visible remnant is the त-like right half of स, not प or हे. Pass1 placed it as first commentary after root verse ॥ ५ ॥, consistent with स०."
+ },
+ "57": {
+  "id": 57,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within हे० paragraph (हे०—घृतगुणानाह...) at top of page."
+ },
+ "61": {
+  "id": 61,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Same line as स०—तीक्ष्णोष्ण... opening the madyavarga."
+ },
+ "65": {
+  "id": 65,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Same line as स०—अस्मादनंतरं..."
+ },
+ "69": {
+  "id": 69,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "note": "Passage starts with the root verse 29 (विलेपी ग्राहिणी...), in bold mūla type; the following स० paragraph repeats the verse text."
+ },
+ "73": {
+  "id": 73,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Within प० paragraph; passage is a Saṃgraha quotation (पिशितेन रसस्तत्र... कांबलिकः स्मृतः)."
+ },
+ "77": {
+  "id": 77,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Within स० paragraph on verse 91 (स०—अनयोश्च पित्तकारित्वं...); contains a muni quotation and Saṃgraha quotation."
+ },
+ "81": {
+  "id": 81,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—स्निग्धसिद्धगुणानाह."
+ },
+ "85": {
+  "id": 85,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opens the प० paragraph on verse 128; identical wording in preceding स० paragraph."
+ },
+ "89": {
+  "id": 89,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'हे०--मोचादिगुणानाह-मोचं-कदलीफलं...' at foot of preceding column ('...काश्मर्य-') and continues across the bar ('श्रीपर्णी, ...') through the Suśruta quotation containing the passage to ॥ १३५ ॥."
+ },
+ "93": {
+  "id": 93,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within हे० paragraph (हे०—अथ आमकपित्थगुणानाह) at top of page; Suśruta/Saṃgraha quotations."
+ },
+ "97": {
+  "id": 97,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Within प० paragraph (प०—मातुलुङ्गस्य...); the Kharanāda/Caraka quotations also appear in the preceding स० paragraph."
+ },
+ "101": {
+  "id": 101,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Same line as स०—तया हरीतक्या... after root verse 165."
+ },
+ "105": {
+  "id": 105,
+  "verdict": "correct",
+  "true_commentator": "candranandana",
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens प०—पञ्चमं पञ्चमूलमाह... संग्रहेऽप्युक्तम् in previous column; the Saṃgraha verse list (metals, gems, minerals) runs without paragraph break across the bar to the passage (…जतु रसायनम्). Lower half faint but no new siglum seen."
+ },
+ "109": {
+  "id": 109,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "Siglum not visible (paragraph starts above the stacked column). This is a DIFFERENT typesetting of the same Saṃgraha verse list as items 105/107 (different line breaks; reads कषायतिक्तमधुरं vs प० कषायमधुरं तिक्तं). The paragraph ends यामाग्न्यपोहतीति ॥ १८० ॥ at the foot of a left column; the right-edge fragments in this crop match the line starts of the प०—पञ्चमं पञ्चमूलमाह column seen in c105, and c105 shows the प० paragraph beginning at the foot of the column that this paragraph ends. So this paragraph immediately precedes the प० paragraph on the same verse, i.e. first slot = स०. Inferred from layout across crops."
+ },
+ "113": {
+  "id": 113,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Within प० paragraph (प०—इदानीं यो विषं ददाति...); near-identical wording in preceding स० paragraph."
+ },
+ "117": {
+  "id": 117,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": null,
+  "note": "Long continuous quotation-like prose (poison signs, then añjana preparation with Atharva brahmin, elephant procession) across the bar; stacked preceding column also starts mid-paragraph. No siglum in crop."
+ },
+ "121": {
+  "id": 121,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Within स० paragraph on verse 17 (स०—अम्लं द्रव्यं...), includes Saṃgraha citation."
+ },
+ "125": {
+  "id": 125,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Within प० paragraph on verse 31; near-identical text in preceding स० paragraph."
+ },
+ "129": {
+  "id": 129,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Passage is the unsigned lead-in line 'एवमनेन क्रमेणापथ्यदोषास्त्यक्ताः ... स्थिरतां प्रप्नुवन्तीत्यत आह--' at the top of the block, immediately before the bold root verse (॥ ३६ ॥); the स० paragraph begins only after the verse."
+ },
+ "133": {
+  "id": 133,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within हे० paragraph (हे०—चतुर्विधायाः स्वरूपमाह) at top of page, second line."
+ },
+ "137": {
+  "id": 137,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Within स० paragraph (स०—ग्राम्यधर्मे...) at top of page."
+ },
+ "141": {
+  "id": 141,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Second line of हे०—रसशेषं लक्षयति paragraph."
+ },
+ "145": {
+  "id": 145,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Same line as स०—ननु मधुरादयो..."
+ },
+ "149": {
+  "id": 149,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Second line of हे०—रसभेदीयमध्यायं... paragraph."
+ },
+ "153": {
+  "id": 153,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within हे० paragraph (हे०—तद्भेदश्च...) at top of page."
+ },
+ "157": {
+  "id": 157,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—तस्माद्विकारादि..."
+ },
+ "161": {
+  "id": 161,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Within प० paragraph (प०—तरतमयोर्भावः...); the '( ४ )' etc. are in-text enumeration of the six combinations, not editor's notes."
+ },
+ "165": {
+  "id": 165,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Second line of हे०—स्नेहादीनाम्... paragraph."
+ },
+ "169": {
+  "id": 169,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Same line as स०—शोधनं शोधनरूपो... after root verse 1 of ch.15."
+ },
+ "173": {
+  "id": 173,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—अच्छपेयस्यानुपानमाह; leads into a Saṃgraha quotation."
+ },
+ "177": {
+  "id": 177,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—कुष्ठादिषु उचितानि..."
+ },
+ "181": {
+  "id": 181,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within हे०—अवम्यानाह paragraph at top of page; includes Saṃgraha citation."
+ },
+ "185": {
+  "id": 185,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Within हे० paragraph (हे०—अनास्थाप्यादीनां...) at top of page; passage starts a quoted verse block ('अनुक्ते रिक्तकोष्ठस्य...')."
+ },
+ "189": {
+  "id": 189,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Same हे० paragraph, inside the quoted verse block (स्नेहः सद्योऽशिताहार...)."
+ },
+ "193": {
+  "id": 193,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Same हे० paragraph, inside the quoted verse block (निरूहश्च समीरश्च...)."
+ },
+ "197": {
+  "id": 197,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—स्निग्धादिभेदेनावृत्तिमाह."
+ },
+ "201": {
+  "id": 201,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—घ्राणप्रमार्जन्यौ शलाके आह."
+ },
+ "205": {
+  "id": 205,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Second line of हे०—जलौकसां मोक्षणकालमाह paragraph."
+ },
+ "209": {
+  "id": 209,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Same line as हे०—अन्तःशल्यं रूढमपि..."
+ },
+ "213": {
+  "id": 213,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Paragraph opens 'स०—वङ्क्षणादिस्थितानां...' at top of page; OCR attached the स० siglum to the preceding text ('...इति निबन्धसंग्रहे स०')."
+ },
+ "2": {
+  "id": 2,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Continuation of the स० paragraph opening 'तैश्च वातादिभिः'."
+ },
+ "6": {
+  "id": 6,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside the प० paragraph 'तस्य देहस्य यथा'; quotes 'सर्वेषां सर्वदा...' verse."
+ },
+ "10": {
+  "id": 10,
+  "verdict": "unsigned",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Indented paragraph opening at column top विपाकस्त्रिविधः... with no siglum printed; ends ॥ २९ ॥. No preceding block stacked in crop."
+ },
+ "14": {
+  "id": 14,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": null,
+  "note": "Passage continues (flush, no indent) from previous page, whose stacked segment begins with an indented line मानसास्त्वित्यादि । क्रोधः... with no siglum visible; that paragraph ends with bold निबन्धसङ्ग्रहे. Cannot tell whether this indented line is an unsigned paragraph start or the siglum lies above the stacked segment."
+ },
+ "18": {
+  "id": 18,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph 'रोगविशेषाधिगमोपायमाह'; wording largely shared with preceding (स०?) paragraph."
+ },
+ "22": {
+  "id": 22,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Passage opens the प० paragraph."
+ },
+ "26": {
+  "id": 26,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Passage opens the हे० paragraph."
+ },
+ "30": {
+  "id": 30,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'प्रत्याख्येय उच्यते'; text closely parallels preceding commentary."
+ },
+ "34": {
+  "id": 34,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph listing Uttaratantra chapters."
+ },
+ "38": {
+  "id": 38,
+  "verdict": "unsigned",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Passage is in the paragraph opening the column ('रात्रेश्चतुर्दशो मुहूर्तो ब्राह्मो...' to ॥ २ ॥), which is indented as a new paragraph with no siglum printed. Material above the blue bar is only an editor's footnote ('१ \"ब्राह्मे मुहूर्ते...\" इति सुश्रुतः'), not commentary text; the main text ending the previous page is not shown, so a carry-over cannot be fully excluded, but the indent indicates a fresh unsigned paragraph."
+ },
+ "42": {
+  "id": 42,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "note": "In editor's footnote (१) quoting Suśruta on vyāyāma, after the प० paragraph."
+ },
+ "46": {
+  "id": 46,
+  "verdict": "unsigned",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Indented paragraph 'अथाबद्धक्रमान् विहारान् व्याचष्टे... धर्मस्यायुर्वेदाङ्गत्वम् ॥ २४ ॥' with no siglum printed; it is commentary (glosses सुखार्थाः, cites Caraka), not a lead-in. Style suggests Hemādri, but no siglum."
+ },
+ "50": {
+  "id": 50,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Passage opens the स० paragraph after root verse 36."
+ },
+ "54": {
+  "id": 54,
+  "verdict": "correct",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens हे०—कूपादिगुणानाह... (e-mātrā faint, reads like ह०) in previous column; continues across the bar through the Saṃgraha and Khāraṇādi quotations to ॥ ११ ॥."
+ },
+ "58": {
+  "id": 58,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Passage opens the प० paragraph at top of page."
+ },
+ "62": {
+  "id": 62,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "note": "Root verse 70 (bold mūla) after हे० paragraph."
+ },
+ "66": {
+  "id": 66,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; quoted verse 'सूपानामुत्तमा मुद्गा...' (also cited in हे०)."
+ },
+ "70": {
+  "id": 70,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph opening after root verse 31 ('इत्यनया दिशा...'); preceding हे० paragraph ends with ॥ ३० ॥."
+ },
+ "74": {
+  "id": 74,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph 'सक्तवो लघवः...'."
+ },
+ "78": {
+  "id": 78,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph 'अनयोश्च पित्तकारित्वं'."
+ },
+ "82": {
+  "id": 82,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opens प० paragraph; nearly identical wording to the स० paragraph just above."
+ },
+ "86": {
+  "id": 86,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph 'पत्रादीनां यथोत्तरं...' after root verse 131."
+ },
+ "90": {
+  "id": 90,
+  "verdict": "correct",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens हे०—मोचादिगुणानाह... at foot of previous page; continues across the bar through the Suśruta discussion of sauvīra/badara to ॥ १३५ ॥."
+ },
+ "94": {
+  "id": 94,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opens प० paragraph; same sentence also printed as the editor's lead-in before root verse 140."
+ },
+ "98": {
+  "id": 98,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opens प० paragraph; near-identical to the preceding स० paragraph."
+ },
+ "102": {
+  "id": 102,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph at top of page."
+ },
+ "106": {
+  "id": 106,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Same page-203 block as id 104: the passage 'तद्वच्च राजिका विघ्नसाधनी दीपनी परम् ॥ शूलाटोपहरा...' is visible further down the same continuous paragraph that opens 'प०--पञ्चमं पञ्चमूलमाह' above the bar (verified on c104_full.png; c106 crop shows the same block)."
+ },
+ "110": {
+  "id": 110,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "End of प० paragraph (closing colophon of Candranandana follows); same phrasing ends the स० paragraph above."
+ },
+ "114": {
+  "id": 114,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'हे०—सविषान्नामाशयप्राप्तिजान् रोगानाह...' in the preceding column (ending '...हरिद्रादीनि नावनादिषु योजयेत्') and continues across the bar ('हरिद्रे हरिद्राद्वयं...'); passage 'आहारं विनापि प्रयुक्तस्य विषस्य...' follows a few lines below, then Saṃgraha quotation."
+ },
+ "118": {
+  "id": 118,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; Saṃgraha quotation 'विस्फोटगुल्म...' also cited in the स० paragraph above."
+ },
+ "122": {
+  "id": 122,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "Passage is inside the paragraph '?०--अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्...' (ends ॥ १७ ॥). Its siglum is cut by the left scan edge; only a vertical stem before '०' survives, which fits स० or प० better than हे० (so the हे० filing looks doubtful). The preceding paragraph (top of page, also ending ॥ १७ ॥, with near-identical wording 'तथा च मुनिः परिसंख्ययैवापठत्...') has its siglum on the previous page, so the order cannot fix which commentator this is."
+ },
+ "126": {
+  "id": 126,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Opens स० paragraph after root verse 32."
+ },
+ "130": {
+  "id": 130,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph 'अथ निद्रागुणप्रसङ्गेन'."
+ },
+ "134": {
+  "id": 134,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'दिवास्वप्नस्यासम्यग्योगत्वमपवदति'; Caraka quotation precedes."
+ },
+ "138": {
+  "id": 138,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph at top of page, within a Rasāyurveda quotation; no प० siglum before it."
+ },
+ "142": {
+  "id": 142,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'अथ भोजनसम्यक्प्रयोगः'."
+ },
+ "146": {
+  "id": 146,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph 'इति परिसमाप्तौ'."
+ },
+ "150": {
+  "id": 150,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'अम्लस्कंधमाह' (Saṃgraha citation within it); no प० siglum."
+ },
+ "154": {
+  "id": 154,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'कफस्याह'."
+ },
+ "158": {
+  "id": 158,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opens प० paragraph; near-identical sentence also printed as editor's lead-in before root verse 68."
+ },
+ "162": {
+  "id": 162,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": "प्र. टी.",
+  "evidence": "seen",
+  "note": "Passage continues (flush, no indent) from the stacked paragraph which opens with an unusual siglum read as प्र. टी.—संसर्गे द्विदोषचये... (not one of स०/प०/हे०). Paragraph then runs across the bar through the verse quotation to ॥ ७ ॥. OCR filed it under प०; possible that प्र. टी. is the editors label for Candranandana or another source — needs a human look."
+ },
+ "166": {
+  "id": 166,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph 'तुशब्दो विशेषे' after root verse 10."
+ },
+ "170": {
+  "id": 170,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Opens हे० paragraph 'विरेचनगणमाह'."
+ },
+ "174": {
+  "id": 174,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'प०—मृदौ कोष्ठे नरः स्नेहमच्छं त्र्यहं...' at foot of the preceding column ('...किंतर्हि सम्यक्स्निग्') and continues across the bar ('यावत् पुमान् भवेत्...') to ॥ ३० ॥."
+ },
+ "178": {
+  "id": 178,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; quoted verse 'काकोल्यादिः ... परिकीर्तितः' also cited (as Dhanvantari) in the preceding paragraph."
+ },
+ "182": {
+  "id": 182,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph 'गुल्मादयः शकृद्ग्रहपर्यन्ता'."
+ },
+ "186": {
+  "id": 186,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'अनास्थाप्यादीनां...'; within a quoted passage (Saṃgraha?) 'अनुक्ते रिक्तकोष्ठस्य...'; no प० siglum."
+ },
+ "190": {
+  "id": 190,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Same हे० paragraph and quotation as id 186."
+ },
+ "194": {
+  "id": 194,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Same हे० paragraph and quotation as id 186."
+ },
+ "198": {
+  "id": 198,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Opens the short हे० paragraph 'मुखालेपप्रमाणमाह'."
+ },
+ "202": {
+  "id": 202,
+  "verdict": "correct",
+  "true_commentator": "candranandana",
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens प०—अस्यारम्भे प्रयोजनं यन्त्राणि प्रायः... at foot of previous page and continues across the bar to ॥ १ ॥."
+ },
+ "206": {
+  "id": 206,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph 'सम्यग्विद्धानामपि'; near-identical wording to the स० paragraph above."
+ },
+ "210": {
+  "id": 210,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opens प० paragraph on verse 25; near-identical to the स० paragraph above."
+ },
+ "214": {
+  "id": 214,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph 'क्षारगुणानाह' at top of page; no प० siglum."
+ },
+ "3": {
+  "id": 3,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "Passage at column top ends the paragraph (॥ ११ ॥); stacked preceding block (ending 'चक्रपाणिः ।') is itself mid-paragraph with no siglum visible; governing siglum not in crop."
+ },
+ "7": {
+  "id": 7,
+  "verdict": "correct",
+  "true_commentator": "candranandana",
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens प०—तस्य देहस्य... in previous column and runs without break across the bar to the passage ending ॥ २० ॥."
+ },
+ "11": {
+  "id": 11,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; same wording also in preceding (स०?) paragraph; quotes 'जाठरेणाग्निना...' verse."
+ },
+ "15": {
+  "id": 15,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Passage continues the स० paragraph directly after verse 31."
+ },
+ "19": {
+  "id": 19,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "Passage at column top (ends ॥ ३३ ॥) begins mid-word ('रप्रकाशित...'); stacked preceding block (ending 'इति मधुकोशव्याख्यायाम् ।') is mid-paragraph with no siglum and does not join syntactically, so the paragraph start is not in the crop."
+ },
+ "23": {
+  "id": 23,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; wording nearly identical to preceding स० paragraph."
+ },
+ "27": {
+  "id": 27,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; same wording ends the preceding paragraph too."
+ },
+ "31": {
+  "id": 31,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Red line at प० paragraph opening 'इमे पूर्वोक्ता...'; identical opening also in स० paragraph above."
+ },
+ "35": {
+  "id": 35,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Red line at प० paragraph 'इत्यनेन प्रकारेण...'; similar wording in स० above (chapter colophons)."
+ },
+ "39": {
+  "id": 39,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Red line at प० paragraph 'स्वस्थो नीरोगकल्पः...'; same wording in preceding paragraph."
+ },
+ "43": {
+  "id": 43,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph; passage is the quoted verse 'बाह्योऽङ्गसेकैः... नरस्य स्नानमात्रस्य दीप्यते तेन पावकः' (केचिदत्र युक्तिमाहुः)."
+ },
+ "47": {
+  "id": 47,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": "seen",
+  "note": "Unsigned lead-in दिनचर्याध्यायादनंतरमृतुचर्याया उपोद्घातः... इत्याह under chapter heading तृतीयोऽध्यायः, immediately before root verse अथात ऋतुचर्याध्यायं व्याख्यास्यामः ॥ १ ॥."
+ },
+ "51": {
+  "id": 51,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": null,
+  "evidence": "inferred",
+  "note": "Passage opens its own paragraph ('?०--सामुद्रं लक्षयति...' to ॥ ४ ॥); siglum's first glyph cut by left scan edge (remnant compatible with हे०). It directly follows a paragraph with clearly printed प० (also ending ॥ ४ ॥), itself after the स० paragraph; by the स/प/हे order it is हे०."
+ },
+ "55": {
+  "id": 55,
+  "verdict": "not_commentary",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "note": "Bold root verse 22 'तमत्यग्न्यनिद्रेभ्यो गरीयो माहिषं हिमम्' (between हे० and स०)."
+ },
+ "59": {
+  "id": 59,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Opening of स० paragraph after verse 46."
+ },
+ "63": {
+  "id": 63,
+  "verdict": "correct",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens हे०—मूत्रगुणानाह... in previous column; Saṃgraha quotation (madya/mūtra verses) continues across the bar to इति ॥ इति मद्यमूत्रवर्गः ॥ ८३ ॥."
+ },
+ "67": {
+  "id": 67,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; quotation 'वर्षस्थितं सर्वधान्यं...' (तन्त्रान्तरेऽप्युक्तम्)."
+ },
+ "71": {
+  "id": 71,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "End of स० paragraph on verse 31 ('...गुरुरित्यादि बोध्यम् ||31||')."
+ },
+ "75": {
+  "id": 75,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph on saktu verses."
+ },
+ "79": {
+  "id": 79,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Opening of हे० paragraph 'कोशातकावल्गुजकयोर्गुणानाह'."
+ },
+ "83": {
+  "id": 83,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Opening of स० paragraph after verse 127."
+ },
+ "87": {
+  "id": 87,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; wording nearly identical to preceding स० paragraph."
+ },
+ "91": {
+  "id": 91,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; similar wording in स० above."
+ },
+ "95": {
+  "id": 95,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph; Saṃgraha quotation 'वृक्षाम्लं ग्राहि...' also in प० paragraph below."
+ },
+ "99": {
+  "id": 99,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opening of प० paragraph; wording nearly identical to स० above."
+ },
+ "103": {
+  "id": 103,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph on verse 176; similar wording in स° above."
+ },
+ "107": {
+  "id": 107,
+  "verdict": "correct",
+  "true_commentator": "candranandana",
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Same continuous paragraph as item 105: stacked column above the bar is the one following प०—पञ्चमं पञ्चमूलमाह... (siglum read in c105 crop); the Saṃgraha verse list continues across the bar with no new paragraph or siglum to the passage (…रक्तपित्तप्रसादनम्)."
+ },
+ "111": {
+  "id": 111,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Opening of स० introductory paragraph to ch.7."
+ },
+ "115": {
+  "id": 115,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": null,
+  "evidence": null,
+  "note": "Long continuous prose (rājavaidya / kitchen procedures, likely Saṃgraha-based) runs across the bar; the stacked preceding column also begins mid-paragraph at its top. No siglum anywhere in crop; right edge of lower block also cut."
+ },
+ "119": {
+  "id": 119,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph; passage is within a Saṃgraha quotation ('विस्फोट... कुर्याद्विरुद्धमशनं...')."
+ },
+ "123": {
+  "id": 123,
+  "verdict": "unclear",
+  "true_commentator": null,
+  "siglum_seen": "[cut]०—",
+  "evidence": null,
+  "note": "Paragraph अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्... ॥ १७ ॥ contains the passage; its siglum is cut by the left scan edge, leaving only a vertical stroke before ०—. A vertical stem fits स० or प० better than हे० (ह has no right stem), so the OCR filing under हे० is doubtful, but the siglum cannot be read."
+ },
+ "127": {
+  "id": 127,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; wording nearly identical to स० above."
+ },
+ "131": {
+  "id": 131,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph; passage is a verse quotation 'ग्रीष्मे वातचयादान...' (may appear in other commentaries)."
+ },
+ "135": {
+  "id": 135,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Opening of प० paragraph; wording nearly identical to स० above."
+ },
+ "139": {
+  "id": 139,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "End of हे० paragraph on verse 7 ('अलसत्वं निष्क्रियत्वम्...')."
+ },
+ "143": {
+  "id": 143,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Opening of स० paragraph after verse 2."
+ },
+ "147": {
+  "id": 147,
+  "verdict": "correct",
+  "true_commentator": "candranandana",
+  "siglum_seen": "प०",
+  "evidence": "seen",
+  "note": "Paragraph opens प०—असौ विपाकाख्यो रसो... at foot of previous column and continues across the bar to ॥ २६ ॥."
+ },
+ "151": {
+  "id": 151,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph at top of page ('ओजःक्षयं लक्षयति')."
+ },
+ "155": {
+  "id": 155,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph on verse 53."
+ },
+ "159": {
+  "id": 159,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "प०",
+  "note": "Inside प० paragraph (numbered list of saṃsarga types)."
+ },
+ "163": {
+  "id": 163,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph on verse 14."
+ },
+ "167": {
+  "id": 167,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "evidence": "seen",
+  "note": "Paragraph opens 'हे०—स्थौल्यस्य कृच्छ्रसाध्यत्वे हेतुमाह...' at foot of the preceding column ('...जिद्भेषजं') and continues across the bar ('नालं समर्थः ...') to ॥ २७ ॥."
+ },
+ "171": {
+  "id": 171,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "End of हे० paragraph (Saṃgraha list of virecana drugs)."
+ },
+ "175": {
+  "id": 175,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Opening of स० paragraph after verse 34."
+ },
+ "179": {
+  "id": 179,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph; Suśruta quotation 'काकोल्यादिः सवातघ्नः...' appears in both प० and हे०."
+ },
+ "183": {
+  "id": 183,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph on verse 8."
+ },
+ "187": {
+  "id": 187,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph; within a long verse quotation ('अनुक्ते रिक्तकोष्ठस्य...भुक्तवान्')."
+ },
+ "191": {
+  "id": 191,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Same हे० paragraph and verse quotation as id 187."
+ },
+ "195": {
+  "id": 195,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "Same हे० paragraph and verse quotation as ids 187/191."
+ },
+ "199": {
+  "id": 199,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph at top of page ('यानि यानि स्थूलानि यथास्थूलम्। यथाऽसादृश्ये...')."
+ },
+ "203": {
+  "id": 203,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "हे०",
+  "note": "Inside हे० paragraph ('शस्त्राणां सामान्यलक्षणमाह')."
+ },
+ "207": {
+  "id": 207,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
+  "siglum_seen": "स० (faint)",
+  "evidence": "seen",
+  "note": "Passage is in the paragraph opening '?०—रक्ते स्राविते अन्नपानं नात्युष्णशीतं हितम्...' (ends ॥ ६८ ॥). The siglum is faintly printed but its shape reads as स०, not प०. Pass1 also places it after a हे० paragraph, which fits स० on the next verse."
+ },
+ "211": {
+  "id": 211,
+  "verdict": "correct",
+  "true_commentator": null,
+  "siglum_seen": "स०",
+  "note": "Inside स० paragraph on verse 45."
+ },
+ "215": {
+  "id": 215,
+  "verdict": "misfiled",
+  "true_commentator": "hemadri",
+  "siglum_seen": "हे०",
+  "note": "End of हे० paragraph on verse 17 ('घ्राणार्बुदेषु विशेषमाह')."
+ }
+}

@@ -13,10 +13,10 @@ BOOK = sys.argv[1]
 P = "/mnt2/kengo/ocr-ahs-tika1928"
 DE = "/mnt2/kengo/E-texts/1_sanskr/6_sastra/7_ayur/vagbhata_astangahrdaya.txt"
 STH = {"sūtrasthāna": "Sū", "śārīrasthāna": "Śā", "nidānasthāna": "Ni", "cikitsāsthāna": "Ci", "kalpasthāna": "Ka", "uttarasthāna": "U"}
-COMM = {"स": "arunadatta", "म": "arunadatta", "हे": "hemadri", "ह": "hemadri", "आर": "hemadri",
+COMM = {"स": "arunadatta", "म": "arunadatta", "हे": "hemadri", "ह": "hemadri", "हृ": "hemadri", "ह्": "hemadri", "आर": "hemadri",
         "प": "candranandana", "ष": "candranandana",       # म, ह, ष: frequent OCR misreads of स, हे, प
         "आ२": "hemadri",                                 # आ० र० read as आ० २०
-        "पचं": "candranandana"}                          # parad: प० चं० = Padārthacandrikā (edition's abbreviations)
+        "पचं": "candranandana", "पच": "candranandana"}   # प० च० = OCR of प० चं०                          # parad: प० चं० = Padārthacandrikā (edition's abbreviations)
 NAMES = {"arunadatta": "Aruṇadatta, Sarvāṅgasundarā", "hemadri": "Hemādri, Āyurvedarasāyana",
          "candranandana": "Candranandana, Padārthacandrikā"}
 
@@ -202,8 +202,10 @@ for k, v in enumerate(units):
     p = hit[1]
 
 # ---------------------------------------------------------------- segment commentary
-SIG = re.compile(r"(?:(?<=[\s।॥”\"'])|^)(प\s*[०o0.]\s*चं|स|म|हे|ह|प|ष|आ\s*[०o0.]?\s*[र२])\s*[०o0.]\s*[-—–~=]+\s*")
-SIG_WEAK = re.compile(r"(?:^\s*|॥\s*[०-९0-9]+\s*॥\s*)(स्|सू)\s*[०o0.]\s*[-—–~=]+\s*")
+SIG = re.compile(r"(?:(?<=[\s।॥”\"'\uE001])|^)(प\s*[०o0.]\s*चं?|स|म|हे|हृ|ह्|ह|प|ष|आ\s*[०o0.]?\s*[र२])\s*[०o0.]\s*[-—–~=]+\s*")
+# Weak variants, accepted only right after a closing verse number, at the top of a page or at region start:
+# स्०/सू० for स०; and a siglum missing either its ० (हे--) or its dash (स० इत्यनया …).
+SIG_WEAK = re.compile(r"(?:^\s*|\uE001\s*|॥\s*[०-९0-9]+\s*॥\s*)(स्|सू|हे|हृ|ह्|स|प)(?:\s*[०o0.]\s*[-—–~=]*|\s*[-—–~=]+)\s*")
 VEND = re.compile(r"॥\s*[०-९0-9]+(?:\s*[-–,]\s*[०-९0-9]+)*\s*॥")
 segs = []
 segs.append({"type": "frontmatter", "ref": None, "start": 0, "end": found[0]["start"] if found else len(text)})
@@ -215,7 +217,10 @@ for k, f in enumerate(found):
     # weak siglum variants (स्०, सू० for स०) only right after a closing verse number or at region start
     for m in SIG_WEAK.finditer(region):
         if not any(a <= m.start() < b for a, b, _ in cuts):
-            cuts.append((m.start(1), m.end(), "arunadatta"))
+            cuts.append((m.start(1), m.end(), "arunadatta" if m.group(1) in ("स्", "सू") else COMM[m.group(1)]))
+    # "प्र. टी." (t1928, Sū.13.15 only): a further gloss printed beside the three commentaries; kept apart
+    for m in re.finditer(r"(?<=[\s।॥])प्र\s*[.०]\s*टी\s*[.०]\s*[-—–]+\s*", region):
+        cuts.append((m.start(), m.end(), "pratika-tika"))
     cuts.sort()
     if not cuts:
         if region.strip(): segs.append({"type": "lead", "ref": f["key"], "start": r0, "end": r1})
@@ -235,6 +240,7 @@ for k, f in enumerate(found):
                 continue
         segs.append(seg)
 for s in segs:
+    if s.get("who") == "pratika-tika": s["type"], s["siglum"] = "unassigned", "प्र. टी."; del s["who"]
     s["text"] = strip_marks(text[s["start"]:s["end"]])
     if s["type"] == "lead" and len(s["text"]) > 300:
         s["type"] = "unassigned"          # editor's ṭippaṇī or commentary whose siglum OCR lost
@@ -248,6 +254,21 @@ for k in range(2, len(segs)):
     if s["type"] == "unassigned" and m["type"] == "mula" and c["type"] == "comm" and not VEND.search(c["text"][-40:]):
         m["type"], m["who"], m["quote"] = "comm", c["who"], True
         s["type"], s["who"] = "comm", c["who"]
+# Manual corrections from the page-image check of misfiling suspects (siglcheck/, 2026-10-31): where the
+# siglum is unreadable in the OCR, the passage starting at `anchor` (on `page` ±1) is given to `who` up to the
+# end of its paragraph (the next closing verse number) or of the segment.
+for o in json.load(open(f"{P}/check/sigla_overrides.json")):
+    if o["book"] != BOOK: continue
+    for k, s in enumerate(segs):
+        a = s["text"].find(o["anchor"]) if s["type"] == "comm" and abs(s["page"] - o["page"]) <= 1 else -1
+        if a < 0: continue
+        m = VEND.search(s["text"], a); e = m.end() if m else len(s["text"])
+        parts = [dict(s, text=s["text"][:a].strip()), dict(s, text=s["text"][a:e].strip(), who=o["who"], override=True),
+                 dict(s, text=s["text"][e:].strip())]
+        segs[k:k + 1] = [x for x in parts if x["text"]]
+        break
+    else:
+        print("override not applied:", o["anchor"])
 # parad prints Aruṇadatta without a siglum where he is the only commentator (e.g. most of Śārīrasthāna,
 # where Hemādri is lost); its editor's notes are footnotes, already set aside. So unmarked commentary
 # in the main text is Aruṇadatta's there.
@@ -259,7 +280,7 @@ if BOOK == "parad":
 import os
 os.makedirs(f"{P}/etext", exist_ok=True); os.makedirs(f"{P}/check", exist_ok=True)
 with open(f"{P}/etext/{BOOK}_structure.jsonl", "w") as fo:
-    for s in segs: fo.write(json.dumps({k: s[k] for k in ("type", "who", "ref", "page", "quote", "nosig", "text") if k in s}, ensure_ascii=False) + "\n")
+    for s in segs: fo.write(json.dumps({k: s[k] for k in ("type", "who", "ref", "page", "quote", "nosig", "override", "siglum", "text") if k in s}, ensure_ascii=False) + "\n")
 
 def write(name, items, head):
     with open(f"{P}/etext/{BOOK}_{name}.txt", "w") as fd, open(f"{P}/etext/{BOOK}_{name}.iast.txt", "w") as fi:
