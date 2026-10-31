@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Install the AHS commentary e-texts into the E-text library (IAST + _deva), log in catalog/.
-Never overwrites: refuses if a target exists.   Usage: python3 -P install.py"""
-import datetime, json, re
+Never overwrites: refuses if a target exists.   Usage: python3 -P install.py [BOOK ...]   (default: all)"""
+import datetime, json, re, sys
 from pathlib import Path
 
 P = Path("/mnt2/kengo/ocr-ahs-tika1928")
@@ -50,7 +50,9 @@ def body(book, who, enc):
 
 ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 log = [("src", "dest", "reason")]
+BOOKS = set(sys.argv[1:]) or {"t1928", "parad"}
 for book, who, name, title, ed, extra in JOBS:
+    if book not in BOOKS: continue
     for enc, suffix in (("iast", ""), ("deva", "_deva")):
         dest = D / f"{name}{suffix}.txt"
         if dest.exists(): raise SystemExit(f"refusing to overwrite {dest}")
@@ -59,7 +61,7 @@ for book, who, name, title, ed, extra in JOBS:
         src = P / "etext" / f"{book}_{who}{'.iast' if enc == 'iast' else ''}.txt"
         log.append((str(src), str(dest.relative_to(LIB)),
                     "new OCR e-text (Surya OCR 2; mūla located via Das & Emmerick, commentaries split by sigla; "
-                    "see /mnt2/kengo/ocr-ahs-tika1928/README.md), user-requested 2026-10-30"))
+                    "see /mnt2/kengo/ocr-ahs-tika1928/README.md), user-requested " + datetime.date.today().isoformat()))
         print("installed", dest.relative_to(LIB), dest.stat().st_size)
 (LIB / "catalog" / f"move_log_{ts}_ahs_commentaries_ocr.tsv").write_text("\n".join("\t".join(r) for r in log) + "\n")
 print("log:", f"catalog/move_log_{ts}_ahs_commentaries_ocr.tsv")

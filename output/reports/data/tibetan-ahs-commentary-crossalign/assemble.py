@@ -99,20 +99,25 @@ for pno, pg in pages():
     H = pg.get("image_bbox", [0, 0, 0, 3600])[3]
     bl = sorted(pg["blocks"], key=lambda b: int(b.get("reading_order", 0)))
     headers[pno] = " ".join(block_text(b) for b in bl if b["label"] == "PageHeader")
-    fn_y = None
     if BOOK == "parad":                                   # variant-reading footnotes
-        seeds = [b["bbox"][1] for b in bl if b["label"] not in SKIP and b["bbox"][1] > 0.45 * H
+        seeds = [b["bbox"] for b in bl if b["label"] not in SKIP and b["bbox"][1] > 0.45 * H
                  and (b["label"] == "Footnote" or (FN_SEED.search(block_text(b)) and FN_MS.search(block_text(b))))]
-        fn_y = min(seeds) - 15 if seeds else None
     else:                                                 # t1928: the editor's notes, "( १ ) …"
-        seeds = [b["bbox"][1] for b in bl if b["label"] not in SKIP and b["bbox"][1] > 0.3 * H
+        seeds = [b["bbox"] for b in bl if b["label"] not in SKIP and b["bbox"][1] > 0.3 * H
                  and (b["label"] == "Footnote" or re.match(r"\s*\(\s*[०-९]{1,2}\s*\)", block_text(b)))]
-        fn_y = min(seeds) - 15 if seeds else None
+    # t1928: the notes can start lower in one column than in the other (p. 33: right column only), so a
+    # block is a note only if it lies below a seed that overlaps it horizontally (same column, or a
+    # full-width seed).
+    def is_note(bb):
+        if BOOK == "parad":                               # parad's notes run across both columns at the foot
+            return bool(seeds) and bb[1] >= min(sd[1] for sd in seeds) - 15
+        return any(bb[1] >= sd[1] - 15 and min(bb[2], sd[2]) - max(bb[0], sd[0]) > 0.3 * min(bb[2] - bb[0], sd[2] - sd[0])
+                   for sd in seeds)
     for b in bl:
         if b["label"] in SKIP: continue
         t = block_text(b)
         if not t: continue
-        if fn_y is not None and b["bbox"][1] >= fn_y:
+        if is_note(b["bbox"]):
             footnotes.append((pno, t)); continue
         if pno != last_p:
             stream.append(f"\uE000{pno}\uE001")              # exact page marker (ignored by matching)

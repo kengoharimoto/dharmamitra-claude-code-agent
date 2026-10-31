@@ -437,9 +437,9 @@ How much do the three Sanskrit commentaries share with each other, and how much 
 | Aruṇadatta ← Candranandana | **11.3%** | 6.1% | 0.9% |
 | Candranandana ← Aruṇadatta | **10.3%** | 5.6% | 0.8% |
 | Hemādri ← Candranandana | 2.4% | 0.9% | 0.8% |
-| Hemādri ← Aruṇadatta | 1.8% | 0.5% | 0.7% |
+| Hemādri ← Aruṇadatta | 1.7% | 0.5% | 0.7% |
 | Aruṇadatta (Parāḍkar's independent text) ← Candranandana | **10.6%** | | |
-| Hemādri (Parāḍkar) ← Candranandana | 5.7% | | |
+| Hemādri (Parāḍkar) ← Candranandana | 5.5% (2.9% without suspect passages) | | |
 
 Outside the Sūtrasthāna (Parāḍkar edition, the 22 Śā/Ni/Ci/Ka chapters where Hemādri is printed), Aruṇadatta and Hemādri share 0.3–0.4% of sentences.
 
@@ -447,12 +447,13 @@ Outside the Sūtrasthāna (Parāḍkar edition, the 22 Śā/Ni/Ci/Ka chapters wh
 
 | Chapter | Sū.1 | Sū.6 | Sū.7 | Sū.30 | Sū.10 | Sū.12 | Sū.29 | the other 23 chapters |
 |---|---|---|---|---|---|---|---|---|
-| 1928 Aruṇadatta | 40.5% | 40.0% | 72.2% | 14.1% | 6.6% | 4.1% | 4.2% | 0–4% |
+| 1928 Aruṇadatta | 40.5% | 40.0% | 72.2% | 14.6% | 6.6% | 4.1% | 4.2% | 0–4% |
 | Parāḍkar Aruṇadatta | 41.4% | 33.0% | 32.0% | 11.9% | 4.9% | 4.5% | 3.7% | 0–5% |
+| Parāḍkar Aruṇadatta, suspect passages removed | 26.1% | 27.7% | 26.0% | 11.6% | | | | 1.7% (all 26) |
 
 **Findings.**
 - **Aruṇadatta did copy Candranandana, but in blocks, not throughout.**
-  - In Sū.1 (the list of contents and the basic doctrine), Sū.6 (foods and drugs) and Sū.7 (poisoned food and incompatible diet), a third to two fifths of his sentences are Candranandana's. Sū.30 adds about an eighth.
+  - In Sū.1 (the list of contents and the basic doctrine), Sū.6 (foods and drugs) and Sū.7 (poisoned food and incompatible diet), a quarter to two fifths of his sentences are Candranandana's (the lower figures exclude passages possibly misfiled in the 1928 split; see below). Sū.30 adds about an eighth.
   - In the other 26 chapters the overlap is 0–7%, close to the paraphrase baseline: Hemādri, who does not depend on Candranandana, shares 2.4% with him.
   - Candranandana's commentary was already being translated into Tibetan in the 11th century, so the borrowing runs from him to Aruṇadatta.
   - Meulenbeld's "large parts literally reproduced" thus holds for these chapters and overstates the Sūtrasthāna as a whole: about a tenth of it is shared.
@@ -460,7 +461,12 @@ Outside the Sūtrasthāna (Parāḍkar edition, the 22 Śā/Ni/Ci/Ka chapters wh
   - Parāḍkar's text of Aruṇadatta comes from different manuscripts and shows the same chapters and similar rates.
   - Only Sū.7 differs: there the 1928 "Aruṇadatta" is close to Candranandana throughout (72%), e.g. at Sū.7.4 it reproduces Candranandana's gloss on the poisoned rice, while Parāḍkar's Aruṇadatta has a different, fuller note.
 - **The 1928 Candranandana in the copied chapters is genuine where this can be tested.** In Sū.1 and Sū.30 it matches the Tibetan D4312 (§11) nearly as often as elsewhere (20.9% and 17.1% clear matches, against 24.9% in the other chapters). In Sū.1 it also matches better than Aruṇadatta (14.9%); in Sū.30, with only about 40 chunks, Aruṇadatta is slightly ahead (20.9%). So there is no sign that the 1928 Candranandana was filled in from Aruṇadatta in these chapters. The §11 anchoring left no Candranandana comparison for Sū.6–7, so those two chapters are untested.
-- **Hemādri borrows from neither.** He shares at most 2.4% of sentences with either predecessor, and almost nothing with Aruṇadatta outside the Sūtrasthāna. Parāḍkar's Hemādri shares more with Candranandana (5.7%, e.g. 12–16% in Sū.1, 17, 18) than the 1928 Hemādri does. This may come from material Parāḍkar adds or from passages misassigned in the OCR split; it has not been checked.
+- **Hemādri borrows from neither.** He shares at most 2.4% of sentences with either predecessor, and almost nothing with Aruṇadatta outside the Sūtrasthāna. Parāḍkar's Hemādri at first seemed closer to Candranandana (5.5%) than the 1928 Hemādri (2.4%). This turned out to be an error in splitting the 1928 edition, not a difference between the editions (next point).
+- **Misfiled passages in the 1928 split.** Some of Hemādri's text had been filed under Candranandana, so Parāḍkar's Hemādri was matching Hemādri's own words. There were two causes:
+  - *Note detection.* On p. 33 the editor's notes begin halfway down the right column. The page-wide cut also dropped Hemādri's note on Sū.1.6 in the left column, siglum included, so its continuation was attached to Candranandana. Notes are now cut column by column in this edition, and the 1928 e-texts have been re-assembled and re-installed. This recovered about 2,400 characters; the figures in this section changed by at most 0.1%.
+  - *Misread or lost sigla.* Some passages carry the wrong siglum from the start (Sū.1.24, Sū.5.43), and some overlong segments have lost one (a 15,000-character "Hemādri" segment at Sū.7.26). These are not fixed.
+
+  A sentence is treated as a suspect when it matches the other commentator's Parāḍkar text (≥ 90) but neither its own Parāḍkar text nor the other commentator's 1928 text. That flags 2.4–6.3% of each 1928 commentary. It is an upper bound, because it also catches verses that both commentators quote. Without the suspects, Parāḍkar's Hemādri shares 2.9% with Candranandana, as the 1928 Hemādri does. Aruṇadatta's copying stays where it was: Sū.1 26%, Sū.6 28%, Sū.7 26%, Sū.30 12%, the other chapters 1.7%. The true Sū.1 figure lies between 26% and 41%.
 - **Parāḍkar's `प० चं०` excerpts share nothing with Aruṇadatta's notes on the same verses (0 of 55 sentences).** This fits Parāḍkar printing them as additional Padārthacandrikā material.
 
 **Quotations of earlier works** (share of letters in exact runs of ≥ 40 letters found in the source; OCR noise makes these lower bounds, perhaps half the true figure):
@@ -476,7 +482,7 @@ Outside the Sūtrasthāna (Parāḍkar edition, the 22 Śā/Ni/Ci/Ka chapters wh
 - **Hemādri's commentary is about one-eighth *Aṣṭāṅgasaṃgraha*,** matching his stated aim of setting the *Hṛdaya* beside the *Saṃgraha*.
 - **All three often quote the same *Saṃgraha* passage on the same verse:** 16–21 verses per pair in the Sūtrasthāna. They also share a few Caraka and Suśruta quotations. This is common use of a source, not borrowing from each other.
 
-**Files.** Scripts are in `/mnt2/kengo/ocr-ahs-tika1928`: `reuse.py` (exact matching) and `reuse2.py` (sentence-level fuzzy matching). Results, per-chapter figures and the longest shared passages are in `output/reports/data/tibetan-ahs-commentary-reuse/`.
+**Files.** Scripts are in `/mnt2/kengo/ocr-ahs-tika1928`: `reuse.py` (exact matching), `reuse2.py` (sentence-level fuzzy matching), and `check/misfile3.py` and `check/robust.py` (misfiling suspects and the figures without them). Results, per-chapter figures and the longest shared passages are in `output/reports/data/tibetan-ahs-commentary-reuse/`.
 
 ## 13. Bibliography (core)
 
