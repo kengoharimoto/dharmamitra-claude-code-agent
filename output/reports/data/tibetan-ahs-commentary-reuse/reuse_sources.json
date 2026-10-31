@@ -1,0 +1,143 @@
+{
+ "K": 20,
+ "minrun": 40,
+ "pct_letters_quoting": {
+  "Candranandana Sū (1928)": {
+   "Caraka": 0.48,
+   "Suśruta": 0.32,
+   "Aṣṭāṅgasaṃgraha": 1.42,
+   "Cakrapāṇi (Āyurvedadīpikā)": 0.28,
+   "Jejjaṭa (Nirantarapadavyākhyā)": 0.0,
+   "Mādhavanidāna": 0.02,
+   "Nighaṇṭus": 0.0,
+   "AHS root": 0.33
+  },
+  "Aruṇadatta Sū (1928)": {
+   "Caraka": 1.45,
+   "Suśruta": 0.28,
+   "Aṣṭāṅgasaṃgraha": 1.8,
+   "Cakrapāṇi (Āyurvedadīpikā)": 0.23,
+   "Jejjaṭa (Nirantarapadavyākhyā)": 0.0,
+   "Mādhavanidāna": 0.01,
+   "Nighaṇṭus": 0.04,
+   "AHS root": 0.47
+  },
+  "Hemādri Sū (1928)": {
+   "Caraka": 1.2,
+   "Suśruta": 0.48,
+   "Aṣṭāṅgasaṃgraha": 13.03,
+   "Cakrapāṇi (Āyurvedadīpikā)": 0.32,
+   "Jejjaṭa (Nirantarapadavyākhyā)": 0.01,
+   "Mādhavanidāna": 0.06,
+   "Nighaṇṭus": 0.0,
+   "AHS root": 0.62
+  },
+  "Aruṇadatta Ni/Ci/Ka/Śā (Parāḍkar, Hemādri's chapters)": {
+   "Caraka": 0.52,
+   "Suśruta": 0.04,
+   "Aṣṭāṅgasaṃgraha": 2.8,
+   "Cakrapāṇi (Āyurvedadīpikā)": 0.44,
+   "Jejjaṭa (Nirantarapadavyākhyā)": 0.0,
+   "Mādhavanidāna": 0.01,
+   "Nighaṇṭus": 0.0,
+   "AHS root": 0.81
+  },
+  "Hemādri Ni/Ci/Ka/Śā (Parāḍkar)": {
+   "Caraka": 3.15,
+   "Suśruta": 0.92,
+   "Aṣṭāṅgasaṃgraha": 11.43,
+   "Cakrapāṇi (Āyurvedadīpikā)": 0.23,
+   "Jejjaṭa (Nirantarapadavyākhyā)": 0.0,
+   "Mādhavanidāna": 1.45,
+   "Nighaṇṭus": 0.0,
+   "AHS root": 1.01
+  },
+  "Aruṇadatta whole (Parāḍkar)": {
+   "Caraka": 0.73,
+   "Suśruta": 0.18,
+   "Aṣṭāṅgasaṃgraha": 3.14,
+   "Cakrapāṇi (Āyurvedadīpikā)": 0.33,
+   "Jejjaṭa (Nirantarapadavyākhyā)": 0.0,
+   "Mādhavanidāna": 0.02,
+   "Nighaṇṭus": 0.0,
+   "AHS root": 0.8
+  }
+ },
+ "same_verse_same_source": {
+  "Caraka: Candranandana∩Aruṇadatta": [
+   13,
+   29,
+   2
+  ],
+  "Caraka: Candranandana∩Hemādri": [
+   13,
+   33,
+   2
+  ],
+  "Caraka: Aruṇadatta∩Hemādri": [
+   29,
+   33,
+   1
+  ],
+  "Suśruta: Candranandana∩Aruṇadatta": [
+   10,
+   13,
+   4
+  ],
+  "Suśruta: Candranandana∩Hemādri": [
+   10,
+   25,
+   0
+  ],
+  "Suśruta: Aruṇadatta∩Hemādri": [
+   13,
+   25,
+   0
+  ],
+  "Aṣṭāṅgasaṃgraha: Candranandana∩Aruṇadatta": [
+   55,
+   64,
+   16
+  ],
+  "Aṣṭāṅgasaṃgraha: Candranandana∩Hemādri": [
+   55,
+   148,
+   17
+  ],
+  "Aṣṭāṅgasaṃgraha: Aruṇadatta∩Hemādri": [
+   64,
+   148,
+   21
+  ],
+  "Cakrapāṇi (Āyurvedadīpikā): Candranandana∩Aruṇadatta": [
+   6,
+   10,
+   1
+  ],
+  "Cakrapāṇi (Āyurvedadīpikā): Candranandana∩Hemādri": [
+   6,
+   13,
+   0
+  ],
+  "Cakrapāṇi (Āyurvedadīpikā): Aruṇadatta∩Hemādri": [
+   10,
+   13,
+   0
+  ],
+  "Mādhavanidāna: Candranandana∩Aruṇadatta": [
+   2,
+   1,
+   0
+  ],
+  "Mādhavanidāna: Candranandana∩Hemādri": [
+   2,
+   4,
+   0
+  ],
+  "Mādhavanidāna: Aruṇadatta∩Hemādri": [
+   1,
+   4,
+   0
+  ]
+ }
+}

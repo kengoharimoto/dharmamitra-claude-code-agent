@@ -1,0 +1,2629 @@
+{
+ "params": {
+  "MINLEN": 30,
+  "WIN": 3,
+  "T_SHARED": 85,
+  "T_VERB": 95,
+  "KQ": 16
+ },
+ "pairs": [
+  {
+   "A": "Aruṇadatta Sū 1928",
+   "B": "Aruṇadatta Sū Parāḍkar",
+   "sentences": 7193,
+   "letters": 428251,
+   "pct_shared": 73.5,
+   "pct_verbatim": 32.8,
+   "pct_shared_commentary_only": 70.3,
+   "pct_shared_quotation": 3.2,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 67.3,
+    "Sū.10": 79.0,
+    "Sū.11": 70.2,
+    "Sū.12": 73.3,
+    "Sū.13": 74.3,
+    "Sū.14": 70.2,
+    "Sū.15": 59.1,
+    "Sū.16": 74.1,
+    "Sū.17": 46.5,
+    "Sū.18": 57.9,
+    "Sū.19": 72.9,
+    "Sū.2": 81.7,
+    "Sū.20": 55.8,
+    "Sū.21": 62.9,
+    "Sū.22": 76.3,
+    "Sū.23": 63.0,
+    "Sū.24": 80.2,
+    "Sū.25": 76.3,
+    "Sū.26": 74.0,
+    "Sū.27": 64.3,
+    "Sū.28": 64.6,
+    "Sū.29": 70.4,
+    "Sū.3": 85.3,
+    "Sū.30": 66.5,
+    "Sū.4": 73.0,
+    "Sū.5": 66.9,
+    "Sū.6": 67.2,
+    "Sū.7": 72.9,
+    "Sū.8": 81.1,
+    "Sū.9": 77.4
+   },
+   "examples": [
+    {
+     "verse": "Sū.16.16",
+     "score": 92.12253829321662,
+     "quote": false,
+     "text": "rasabhedainaikaikahīnānityādipraṃthanirdiṣṭena triṣaṣṭisaṃkhyāvacchinnena sahopayuktasya snehasya tathaikakatvenā'sahāyena kevalena snehena sahā'sya catuḥṣaṣṭivicāraṇāḥ snehaprayogakalpanā yā etā makṣyādyannena tathā rasabhedena mūrdhakarṇākṣitarpaṇena ca yā etāḥ kramādyathākramaṃ nirdiṣṭāstāḥ kalpanāḥ snehasyā'nyābhibhūtatvādanyena makṣyādinā bahunā tathā rasabhedena sahopayuktasyā'bhibhūtatvātta"
+    },
+    {
+     "verse": "Sū.1.39",
+     "score": 94.83146067415731,
+     "quote": false,
+     "text": "īhā caryā ceṣṭetyeko'rthaḥ   tena āyuṣkāmīyo dina-caryā ṛtucaryā rogānutpādanīyo dravadravyavijñānīyo'nna-svarūpavijñānīyo'nnasaṃrakṣā mātrāśitīyo dravyādivijñānīyo rasabhedīyo doṣādivijñānīyo doṣabhedīyo doṣo-pakramaṇīyo dvividhopakramaṇīyaḥ śodhanādigaṇasaṃgrahaḥ snehavidhiḥ svedavidhirvamanavirecanavidhirvastividhirnṛtya-vidhirdhūmavidhirgaṅgavidhirāścotanāṃjanavidhistarpaṇapuṭapā-kavidhiryaṃtr"
+    },
+    {
+     "verse": "Sū.16.19",
+     "score": 89.13043478260869,
+     "quote": false,
+     "text": "śamano yo rogasya śamanayopayujyate sne sa kṣudrato jātabubhukṣasya śasyate jātāyāṃ bubhukṣāyāṃ jīrṇamātra evānne śodhana iva śamanaḥ sneho tra tatrasthaṃ doṣaṃ kupitaṃ sarvaśarīravyāpitvāt śamayati yadi punarjīrṇamātra evānne sneho'yamabubhukṣitasaṃ vopayujyate tadānīṃ srotasāṃ kaphādyupaṭepārvartanāttatsaṃpṛkto'sau sneho na sarvaṃ śarīraṃ vyāpa anyāpnuvaṃśca na doṣaṃ śamayet"
+    },
+    {
+     "verse": "Sū.12.73",
+     "score": 95.75163398692811,
+     "quote": false,
+     "text": "yasmāccaivaṃ rogāṇāṃ durvijñeyā gatirato'smādvetoḥ satatamabhiyuktaḥ sadā''yurvedapāṭhāvabodhānuṣṭhānaro vaidyaḥ sarvaṃ dūṣyādivastujātamālocya sarvathā sarveṇa prakāreṇā''yurvedānusāriṇyā svamanīṣayā tadvidyasaṃbhāvātaḥ saṃbhavayā ca tathā karmābhyāsato'pi nipuṇaṃ nirūpya tathā tena prakāreṇa doṣadūṣyadeśādyanuguṇena bhaiṣajyaṃ yuṃjīta bheṣajaṃ yujyāt"
+    },
+    {
+     "verse": "Sū.12.66",
+     "score": 90.78498293515358,
+     "quote": false,
+     "text": "vikārasya jvarādeḥ prakṛtaya upādāna ṇāni vātādidoṣāstā vikāraprakṛtī rogahetu ṣān budadhvā jñātvā tathā'dhiṣṭhānāṃtarāṇi sthānaviśeṣa buddhvā tathā hetubiśeṣānadhiṣṭhānanidānabhedāṃśca buddhvā yathā kimayaṃ kupitaḥ pavano rūkṣeṇa hetunā laghunā śītena cetyādi jñātvā śīghramevopakramaṃ cikitsāṃ kuryānna tu vikārānabhijña iti na cikitset"
+    },
+    {
+     "verse": "Sū.12.12",
+     "score": 93.15068493150685,
+     "quote": false,
+     "text": "tatra teṣu pañcamu madhye pakvāmāśayayormadhyasya tathā pañcabhūtātmakatve'pi sati yattaijasaguṇodayādāgneyaguṇotkarṣātkṣapitasomaguṇatvena tyaktadravatvaṃ saṃjātakāṭinya tathā sahakārikāraṇaiḥ pācanakriyāṃ prati savyāpāraivātvādibhiranugrahādupakārātpākadāhādikriyayā'nalaśaditamagniśabdavācyaṃ yatpittaṃ tatpācakamucyate"
+    },
+    {
+     "verse": "Sū.29.17",
+     "score": 93.1899641577061,
+     "quote": false,
+     "text": "yathā sumuhūrte ca dadhyakṣatānnapānarukmaratnārcitavipraṃ praṇateṣṭadevatamityādi āhataṃ daukitaṃ samīpānītamupakaraṇaṃ tatkālayogyaṃ yaṃtraśastrāgnijāṃbavauṣṭapicuṣlotasnehanamadhukalkādikaṃ yasya tamāturaṃ prāṅmukhaṃ pūrvābhimukhaṃ vaidyaḥ saṃmukhaḥ pratyaṅmukho yaṃtrayitvā śastramāśu na vilaṃbitaṃ nyasyennikṣipet"
+    },
+    {
+     "verse": "Sū.12.31",
+     "score": 86.64259927797833,
+     "quote": false,
+     "text": "yasmānānārūpairanekaprakārairasaṃkhyeyairgaṇanāṃ samatītairvikārairudhairramelā vātapittaśleṣmāṇaḥ kupitāstanuṃ dehaṃ tāpayaṃti duḥkhayaṃti tasmāttaddhetvākṛtisādhanaṃ śakyaṃ naikaikaśo vaktumayamasya vikārasya heturiyamākṛtiridaṃ lakṣaṇamidamasya sādhanaṃ cikitsitamiti ekaikaśaḥ vaktuṃ na śakyamataḥ sāmānyamucyate"
+    },
+    {
+     "verse": "Sū.1.26",
+     "score": 92.09486166007905,
+     "quote": false,
+     "text": "śarīrajānāṃ vātādīnāṃ krameṇa yathāsaṃkhyāparipādyodeśanirdeśena paramauṣadhaṃ pradhānauṣadhaṃ vastradivamanāṃtaṃ śodhanarūpaṃ tailādimadhvaṃtaṃ śamanarūpam tena vātasya vastirgudapraṇidheyasnehakāthādi paramauṣadham pittasya vireko mukhapītaṃ gudamārgeṇāṃtaḥsthitaniḥsāraṇaṃ paramauṣadham"
+    },
+    {
+     "verse": "Sū.6.28",
+     "score": 89.38775510204083,
+     "quote": false,
+     "text": "amanuṣyakartṛke cetyatra ṭhak   viditavamanasya vihitavirecanasya vā kiñciccheṣo yo doṣastasya bhāvo doṣaśeṣatā vacanajñāpakāt kṛtavamanavireccanasya doṣaśeṣakaraṇaṃ tena ca vamanakarmaṇi virecanakarmaṇi vā kartavye'tiyogabhayāttadoṣaśeṣaḥ kāryaṃ ityayamartho yuktyā pratipāditaḥ"
+    },
+    {
+     "verse": "Sū.29.72",
+     "score": 88.16326530612245,
+     "quote": false,
+     "text": "sthirāṇāṃ traṇādīnāṃ dīrghakālānurbāṃ tathā'lpamāsānāmanupacitapallānāmata eva hetos raukṣyādanuparohatāṃ rūḍhimagacchatāmauṣadhaṃ kalkasnehā yadupayujyate tatpatraiḥ kṣīribhūrjārjunakadaṃbajaiḥ praccha sthagitavyaṃ yathādoṣaṃ doṣānatikrameṇa ṛtvanatikra ca tadvaśādyathāyogam"
+    },
+    {
+     "verse": "Sū.30.32",
+     "score": 90.3765690376569,
+     "quote": false,
+     "text": "anu paścāt śrāralepadānaniyamitātkālādanaṃtaraṃ śrāraṃ pramājanena cailādinā parimṛjya śodhayitvā sudagdhaṃ śrārasthānamaśau'rbudādyadhiṣṭhānamavagamya samyagdāhalakṣaṇena jñātvā tatkṣāradagdhasthānaṃ ghṛtamadhulepitaṃ kṛtvā payaḥprabhṛtibhiḥ sājyaiḥ svaghṛtairlepayet"
+    },
+    {
+     "verse": "Sū.12.35",
+     "score": 94.32314410480349,
+     "quote": false,
+     "text": "teṣāṃ vātādīnāṃ kope kāraṇamasātmyairanucitairarthaiḥ śabdasparśarūparasagaṃdhākhyaiḥ śrotratvakcakṣūrasanaghrāṇākhyānāmidriyāṇāṃ yaḥ saṃyogastathā kālaḥ śītoṣṇavarṣalakṣaṇo duṣṭastathā karma caihikamanyajanmajaṃ ca yad duṣkṛtamaśubhametatrayaṃ doṣāṇāṃ kope hetuḥ"
+    },
+    {
+     "verse": "Sū.29.54",
+     "score": 95.63318777292577,
+     "quote": false,
+     "text": "sthānāccalitamasthyapanīya nirasya tathā śuṣkaraktaṃ tṛṇāni romāṇi cā'pāsya tathā śastrādinā prakarṣeṇa laṃbi vraṇe yadvidyate māṃsaṃ tatsvaniveśanaṃ ātmīye sthāne niveśya saṃsthāpya saṃdhyasthi sve sthāne saṃsthāpya sthite rakte'sravadrūpatvaṃ prāpte sati vraṇaṃ sīvyet"
+    },
+    {
+     "verse": "Sū.19.72",
+     "score": 95.15418502202643,
+     "quote": false,
+     "text": "netraṃ daśāṃgulaṃ mudgapraveśamiti   tatra vṛttaṃ vartulaṃ gopucchākṛti tathā mūle madhye cotpāditakarṇikaṃ tathā siddhārthakaḥ praviśayasminniti siddhārthakapraveśaṃ tādṛśamagraṃ prāṃto yasya netrasya tat siddhārthakapraveśāgraṃ tathā ślakṣṇamatikomalaṃ tathā hemādijam"
+    },
+    {
+     "verse": "Sū.20.6",
+     "score": 92.07048458149781,
+     "quote": true,
+     "text": "tastu nasya deyaṃ vātābhibhūte śirasi dantakeśaśamaśruprapātadāruṇakarṇaśūlakarṇakṣevetimirasvaropaghātanāsārogāsyaśoṣāpabāhukā'kālajabalīpalitaprādurbhāvadāruṇaprabodheṣu vātapauttikeṣu cānyeṣu mukharogeṣu vātapittaharadravyasiddhena sneheneti"
+    },
+    {
+     "verse": "Sū.3.16",
+     "score": 93.77777777777779,
+     "quote": false,
+     "text": "aṃgārāṇāṃ tāpo'ṃgāratāpastena saṃtaptaṃ ca tadbha-bheṃḍabhyaṃtare bhūveśma ca tattasmiṃścaraṃti nityaṃ yastasyāṃgāratāpasaṃtaptagarbhabhūveśmacāriṇaḥ puṃso yataḥ śītapāruṣyaja-nito doṣo duḥkhaṃ na jātu kadācijjāyate tato'ṃgāra-tāpasaṃtaptagarbhabhūveśmacārī syāditi bhāvaḥ"
+    },
+    {
+     "verse": "Sū.27.47",
+     "score": 87.1559633027523,
+     "quote": false,
+     "text": "athavā śītopacāreṇa pittāraktakriyayā śuddhayā vamanavirecanādirūpayā viśoṣaṇena leghanarūpeṇa tad duṣṭaṃ raktamanudriktameva prasādayetkaluṣatāṃ parityajya tasya prasannatvamabhyupapādayena tu kevalaṃ srutaśeṣaṃ rudhiraṃ śītopacāreṇa prasādayet"
+    },
+    {
+     "verse": "Sū.14.37",
+     "score": 93.48837209302326,
+     "quote": false,
+     "text": "doṣāṇāṃ pṛthagrūpāṇāṃ saṃsargasannipātataratamabhedenā''naṃtyaṃ yātānāṃ yā gatistathā teṣāmeva sthānavṛddhikṣayalakṣaṇāyā gatistiryagūrdhvādholakṣaṇā yā gatistathā śākhākoṣṭhāsthisaṃdhilakṣaṇā ca yā gatistathā'tiricyate vahayo bhavatyupakramāḥ"
+    },
+    {
+     "verse": "Sū.9.3",
+     "score": 91.58878504672897,
+     "quote": false,
+     "text": "atro-nyate   paṇyāmapi rasānāṃ yonirudakaṃ tataścaikasyaiva mahābhūtasyodakasaṃjñasya rasakāraṇatvaṃ prāptaṃ nānyeṣāṃ nīrasatvāditi kṛtvā na bhūtasaṃbhavatvaṃ rasasyetyevaṃ vidhā-māśaṃkāmapanirnāpurbhūtasaṃghātasaṃbhavatvaṃ rasasya caikenaiva prathamaṃ"
+    },
+    {
+     "verse": "Sū.3.20",
+     "score": 95.73459715639811,
+     "quote": false,
+     "text": "yasmāt śiśire madhurasnigdhādinā''hāreṇa kālasvabhāvācca śleṣmā saṃcito'tiśayena syānatvādatikupito vasaṃte ṛtāvarkāśutāpitaḥ sūryaprabhābhirvilāyito dravasvarūpatvājalamiva viparītaṃ jāṭharāgniṃ hatvā hi yasmādrogānvikārān kurute janayati"
+    },
+    {
+     "verse": "Sū.4.35",
+     "score": 88.88888888888889,
+     "quote": false,
+     "text": "taṃ vasaṃte viśodhayannirharan grīṣmajamabhrakāle varṣākāle doṣacayaṃ viśodhayastathā vārṣikaṃ ghanātyaye śaradi cāśu yathoktaṃ kālamanulṛpyan samyagyathāvatrividhamapi doṣacayaṃ viśodhayannutujān rogān na jātu kadācitprāpnotyāsādadhati"
+    },
+    {
+     "verse": "Sū.17.7",
+     "score": 93.71980676328502,
+     "quote": false,
+     "text": "athavairaṃḍādidravyayuktāni yavādīni pāyāni sāmlakādīni gṛhītvā pihitamukhāyāṃ muṣāyāṃ namyagupasvedya nivāte gṛhe śayanasthe kilitre prastīrvā'vikakauśeyavātaharapatrānyatamottarapracchande gairavājinaprāvārādiṣvavacchannaṃ svedayet"
+    },
+    {
+     "verse": "Sū.20.36",
+     "score": 85.02415458937197,
+     "quote": false,
+     "text": "pratimarśaviśeṣaprakṛṣṭatāvinaśca khyau snehau śīghrakāritvādinā viśeṣeṇa nirdiśet tathā kuṭīpraveśasthityā yadrasāyanamupayujyeta yatra tāva tapādyaparihārasthityā rasāyanaṃ kriyate te bhavediti prati tathaiva viśeṣeṇa nirdiśet"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 94.1747572815534,
+     "quote": false,
+     "text": "pratyākhyeya iti yāvat   ko'sāvanupakramo yo'tyaṃtaviparyaye sthitaḥ yo'rthādyāpyalakṣaṇādavaśiṣṭāyuḥśeṣarūpādatyaṃtaviparyaye sthitaḥ sarvakriyāpathātikrāṃto majjāśukrādigamīradhātugato marmasaṃdhisamāśritaḥ so'nupakrama evācikitsyaḥ"
+    },
+    {
+     "verse": "Sū.21.21",
+     "score": 96.60194174757282,
+     "quote": false,
+     "text": "tadayamatrā'rthaḥ   apagatadhūmakhadirabadirā-didārusthirāṃgāraprakharapūrṇaśarāve kāsaharacūrṇaṃ sasnehaṃ gulikāṃ vā nyasya madhyakṛtacchidraśarāveṇa pidhāya nāḍīmaṣṭāṃgulāṃ daśāṃgulaṃ vā niveśya kāsavān kāsī vakreṇa mukhena dhūmaṃ pivediti"
+    },
+    {
+     "verse": "Sū.5.44",
+     "score": 93.13725490196079,
+     "quote": false,
+     "text": "mūlaṃ cāgraṃ ca jantujagdhādayaśca mūlāgrajantujagdhādayasteṣāṃ tathāvidhānāmikṣūṇāṃ pīḍanaṃ tasmānmūlāgrajantujagdhādipīḍanāttathā malasaṃkarānmalamiśraṇāttathā kiñcitkālaṃ vidhṛtyā ca yāṃtrike rase svalpakālaṃ vidhṛtirvilaṃbaśca dṛṣṭaḥ"
+    },
+    {
+     "verse": "Sū.19.43",
+     "score": 94.55445544554455,
+     "quote": false,
+     "text": "tadetatsarvamauṣadhamekata ekasmin kṛtvā bheṣajapākātikrāṃtiparihārārthamuṣṇāṃbu kuṃbhībāṣpeṇa taptaṃ khajena darbhyā hananakāṣṭhena samāhatamāloḍitaṃ tathā brahmadakṣetyādinā cā'bhimaṃtritaṃ bastau prakṣipya pāyau gude praṇayet"
+    },
+    {
+     "verse": "Sū.4.36",
+     "score": 85.0,
+     "quote": false,
+     "text": "tatrāpi paṃcavargasvabhāvalpavaktavyatvātprādravadravyavijñānīyasvarūpaṃ nirdeṣṭuṃ yunnasya dravasvabhāvatvena bhūyastvādityāha— athātodravadravyavijñānīyamadhyāyaṃvyākhyāsyāmaḥ apāmevāyaṃ svābhāviko guṇo yat dravasvam"
+    },
+    {
+     "verse": "Sū.8.11",
+     "score": 97.48743718592965,
+     "quote": false,
+     "text": "durbalatvādiyuktasya yanmārutena viśeṣādannaṃ pīḍitamaṃtarā''māśayamadhya eva śleṣmaṇā ruddhamalasībhūtaṃ tathā doṣaiḥ kṣobhitamākulitamata evā'tipīḍākāritvācchalyarūpata eva sthitaṃ tīvrān duḥsahān śūlādīn chardhādivarjitān kurute"
+    },
+    {
+     "verse": "Sū.16.37",
+     "score": 97.9381443298969,
+     "quote": false,
+     "text": "vamanaṃ punariti   yadā tu snehādanaṃtaraṃ vamanamevopayukte tadaikāhamanenaiva prakāreṇa snigdhadravoṣṇadhanvottharasabhuk svedamācaran sthito'nyacca dinaṃ dvitīyamahaḥ kaphamutkleśya sthānāt pracyāvyā'vasthito vamanaṃ kuryāt"
+    },
+    {
+     "verse": "Sū.12.34",
+     "score": 97.39583333333334,
+     "quote": false,
+     "text": "tathā'nyadapi nidarśanamāha   yathā vetyādi yathā vā kṛtsnaṃ niravaśeṣametadvikārajātaṃ sthāvarajaṃ gamādibhedabhinnaṃ jarāyujāṃḍajādibhedabhinnaṃ vā vividhaṃ nānāprakāraṃ trīn guṇān sattvarajamattamaḥ sattvānnā'tivartate nātyeti"
+    },
+    {
+     "verse": "Sū.29.21",
+     "score": 91.66666666666666,
+     "quote": false,
+     "text": "na kevalameṣiṇyā ya vadaṃgulyā nālena padmotpalādijena vālairvā varāhā saṃbaṃdhibhiranveṣya yathādeśaṃ yathāśayaṃ vraṇaṃ kuryāt taṃ ca pradeśaṃ darśayitumāha-yato yasminprade gatāṃ dūrayātāṃ gatiṃ nāḍīṃ jānīyāttasi pradeśaṃ vraṇaṃ kuryāt"
+    },
+    {
+     "verse": "Sū.12.72",
+     "score": 94.24083769633508,
+     "quote": false,
+     "text": "viparyaye ca laghuvyādhau viparītaṃ śodhanaṃ tu yojitaṃ kasmādviparītamalpavīryāt saṃśodhanādatimātrakṛṣṭavīryaṃ ca bahudoṣākalanayā'tiyogena prayojitaṃ na tvalaṃ malān kṣiṇuyāt kṣapayedyāvadvapurasyati śarīramapi syāt"
+    },
+    {
+     "verse": "Sū.14.7",
+     "score": 93.6842105263158,
+     "quote": false,
+     "text": "yadīṣadhaṃ doṣān vātādīn śodhayati nāṃtaḥsthitānbahirniṣkāsayati tathā samān svapramāṇasthānodīrayati notkleśayati viṣamāṃśca svapramāṇāddhīnādhikabhāvāvasthitān samīkaroti svapramāṇasthān vidadhāti tacchamanamucyate"
+    },
+    {
+     "verse": "Sū.28.30",
+     "score": 93.12169312169311,
+     "quote": false,
+     "text": "tathāpyaśakya evamapi śalya āhartumaśakye vāraṃgaṃ śastrādimayasya śalyasya śikhākāraṃ tadvaktrīkṛtya kuṭilatāṃ prāpayya tato dhanurjyayā srādhvādimayyā mubaddhaṃ kṛtvā'naṃtaraṃ vājino'śvasya vakrakaṭake badhnīyādvaidhaḥ"
+    },
+    {
+     "verse": "Sū.9.24",
+     "score": 91.89189189189189,
+     "quote": false,
+     "text": "rasādīnāṃ rasavīryavipākaprabhāvānāṃ madhye rasādivastu raso vīryaṃ vā vipāko vā prabhāvo vā gvaccena baliṣṭhatayā dravyaṃ vartate'vatiṣṭhate tattadvastutamitarānabaliṣṭhānabhibhūya viphalīkṛtya kāraṇatvaṃ dyate"
+    },
+    {
+     "verse": "Sū.22.29",
+     "score": 97.2972972972973,
+     "quote": false,
+     "text": "kadā   dināṃte'parāhṇe vibhāvaryā vā   carmapaṭṭaṃ gavyaṃ māhiṣaṃ vā tathā dvādaśāṃgulavistīrṇaṃ tathā śirastulyaṃ tathā'karṇaṃ karṇaṃ yāvadvadhanasthānaṃ yasya tadevaṃvidhaṃ carmapaṭṭaṃ cailaveṇikayā saṃyamya māṣakalkena lepayet"
+    },
+    {
+     "verse": "Sū.12.75",
+     "score": 92.89617486338798,
+     "quote": false,
+     "text": "te sannipātasthadoṣāstrayaḥ ṣoḍhā bhavati kathamityāha vṛddhiśca samatā ca kṣayaśca vṛddhisamatākṣayāḥ ekaikasya vātādyanyatamasya vṛddhisamatākṣayā ekaikavṛddhisamatākṣayāstairekaikavṛddhisamatākṣayaiḥ ṣaṭ"
+    },
+    {
+     "verse": "Sū.29.11",
+     "score": 93.44262295081968,
+     "quote": false,
+     "text": "alpasattve sati tathā durvale tathā bāla eteṣu jāte śvayathau tathā pākādvātyarthamuddhate'tikrānte ca śvayathau dāraṇaṃ kāryaṃ vraṇapratiṣedhadṛṣṭerdāraṇadravyaiḥ yathā gugulvatasigodaṃtasvarṇakṣīrīkapotaviṭ"
+    }
+   ]
+  },
+  {
+   "A": "Hemādri Sū 1928",
+   "B": "Hemādri Sū Parāḍkar",
+   "sentences": 6115,
+   "letters": 407443,
+   "pct_shared": 68.1,
+   "pct_verbatim": 24.4,
+   "pct_shared_commentary_only": 55.1,
+   "pct_shared_quotation": 13.0,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 66.1,
+    "Sū.10": 69.0,
+    "Sū.11": 68.8,
+    "Sū.12": 52.2,
+    "Sū.13": 42.1,
+    "Sū.14": 56.0,
+    "Sū.15": 46.7,
+    "Sū.16": 50.0,
+    "Sū.17": 44.3,
+    "Sū.18": 69.3,
+    "Sū.19": 58.8,
+    "Sū.2": 50.3,
+    "Sū.20": 60.7,
+    "Sū.21": 45.8,
+    "Sū.22": 51.3,
+    "Sū.23": 57.3,
+    "Sū.24": 69.9,
+    "Sū.25": 73.9,
+    "Sū.26": 62.5,
+    "Sū.27": 68.8,
+    "Sū.28": 67.9,
+    "Sū.29": 53.0,
+    "Sū.3": 74.8,
+    "Sū.30": 69.8,
+    "Sū.4": 43.1,
+    "Sū.5": 53.3,
+    "Sū.6": 55.4,
+    "Sū.7": 33.2,
+    "Sū.8": 52.4,
+    "Sū.9": 57.7
+   },
+   "examples": [
+    {
+     "verse": "Sū.10.42",
+     "score": 92.45837414299706,
+     "quote": false,
+     "text": "tadyathā— madhurāmlau, madhuralavaṇau, madhuratiktau, madhurakaṭukau, madhurakapāyau, amlalavaṇau, amlatiktau, amlakaṭukau, amlakapāyau, lavaṇatiktau, lavaṇakaṭukau, lavaṇakapāyau, tiktakaṭukau, tiktakapāyau, madhurāmlalavaṇāḥ, madhurāmlatiktāḥ, madhurāmlakaṭukāḥ, madhurāmlakapāyāḥ, madhuralavaṇatiktāḥ, madhuralavaṇakaṭukāḥ, madhuralavaṇakapāyāḥ, madhuratiktakaṭukāḥ, madhuratiktakapāyāḥ, madhuraka"
+    },
+    {
+     "verse": "Sū.12.55",
+     "score": 88.88888888888889,
+     "quote": true,
+     "text": "tatra vātavikārāstadyathā— nakhabhedo, vipādikā, pādaśūlaṃ, pādabhraṃśaḥ, muptapādatā, vātakhuḍatā, guruprahaḥ, piḍikodveṣṭanaṃ, grahasī, jānubhedo jānuviśleṣaḥ, ūrusādaḥ, urastaṃbhaḥ, paṃgutvaṃ, gudabhraṃśo, gudārtirvṛṣaṇākṣepo, bhedastaṃbho, vakṣaṇānāhaḥ, śroṇībhedo, viḍbheda, udāvartaḥ, khaṃjatvaṃ, kubjatvaṃ, vāmanatvaṃ, trikagrahaḥ, pṛṣṭhagrahaḥ, pārśvavasardanam, udarāveṣṭo, hṛnmoho, hṛddravo"
+    },
+    {
+     "verse": "Sū.15.4",
+     "score": 86.11111111111111,
+     "quote": false,
+     "text": "nāvanagaṇamāha—vellāpāmārgati   surālā—śresarjarasaḥ, śirīṣabṛhatīśigrūṇo bījaṃ madhūkasya sāra tārkṣyaśailaṃ—rasāṃjanaṃ, truṭyau—elādvayaṃ, pṛthvīkā—vāṣpiva saṃgrahetvadhikamuktam—apāmārgaviḍaṃgasaricapippalīśi— rīpavitvājājamodāvārtākapṛthvīkailāhareṇuphalāni, tāra satamālatakīrīharītakavargapatrāṇi, sarpapaphalapattrāṇi, śi latvacaḥ, haridrāmūlakalpanatagarakaṃdapatrāṇi, ativipādaḥ, kuṣṭhavacāb"
+    },
+    {
+     "verse": "Sū.2.47",
+     "score": 93.32344213649851,
+     "quote": true,
+     "text": "matsyāḥ, hayāḥ, haṃsacāpī, vṛṣaḥ, kesarī, dakṣiṇāvartaśaṃkhābjasiddhārthakā rocanā, svastikastoraṇaṃ, kīcakā veṇavaḥ, varuṇamadhumadāsikagaṃḍo gajastoyalaṃśo'budaḥ, pūrṇakuṃbho'dviridraḥ, phalanyāmamāṃsaṃ, sita cāmaraṃ, gauḥ, savatsāṅganā putriṇī, mānuṣaṃ varddhamānaṃ, sahasraṃ narāṇāṃ, prayuktāni yānāni, dhanvaṃtarirvāmanau, bhūmirabhyuddhṛtā, siddhamannaṃ, varāhaśca toyotthaḥ, trinayanamadhusūda"
+    },
+    {
+     "verse": "Sū.15.1",
+     "score": 87.04379562043796,
+     "quote": false,
+     "text": "vastitarpaṇakovidārakarbudārakallulāviduraviṃbīvaṃdhujīvakaśvetāśaṇapuṣpīsadāpuṣpīvacācitrācitrakamṛgairvārṣakaiṃdravāruṇīsupa vīcaturaṃgulasvādukaṃṭakapāṭhāpāṭalīśārṅgeṣṭāmadhukamūrvāsattaparṇasaumavalkadripaśiyusumanassaumanasyāyavānīvṛścīvapunanevāmahāsahākṣudrāsahekṣusahākāṇḍekṣukāṃḍakatakapippalīmūlakadaṃbacavikānaladeśīhvīvairamūlāni śālmalīśālukāmadrapaṇyairāvaṇyupodakauddālakadhanvanarasaṃ"
+    },
+    {
+     "verse": "Sū.3.22",
+     "score": 97.01195219123507,
+     "quote": false,
+     "text": "purāṇatvaṃ yavagodhūmakṣaudrāṇāṃ, jāṃgalaṃ-mṛgādi-māṃsaṃ tasya śūlyaṃ-bhaṭitram, sahakāro'tisurabhirāmraḥ tasya rasaḥ tatphalavṛntaniryāsaḥ tena unmiśrān adhivāsi-tān, priyayā rasaviśeṣajñānārthaṃ svayamāsvādyārpitān, gandhaviśeṣajñānārthaṃ saṃge gatena sahajasurabhiṇā priyāmukhena surabhīkṛtān, vaimatyādijñānārthamavalokayanyāḥ priyāyāḥ pratibimbitābhyāṃ netrābhyāmutpalaiśca sākṣānniścitairaṃkitā"
+    },
+    {
+     "verse": "Sū.15.7",
+     "score": 92.0086393088553,
+     "quote": false,
+     "text": "atrāpi punaruktāni dviguṇāni       saṃgrahe tu—dūrvānaṃtāmocarasamaṃjiṣṭhāparipelavakālāvalīyakakadalīkaṃdalīpathasyātmaguptānālikerakharjaradrākṣāvi vidārivalānāgavalānāgapuṣpāśatāvarīśītapāvayodanapākīnṛṇaśūlyāṃśumatīdvayāriṣṭakārūpaketkaṭapriyaṃgudhātakīdhavadhanvanasyadanakhadirakadarapriyālatālaśālasarjatiniśāśvaparṇaguṃjāvānīrapadmāpadmakapadmavījamṛṇālakumudanalinasaugaṃdhikapuṃḍarīka--śata"
+    },
+    {
+     "verse": "Sū.29.17",
+     "score": 90.56179775280899,
+     "quote": true,
+     "text": "śastrakarmavidhimāha-athoti   saṃgrahe tu athopahṛtayantraśastrakṣārāgnijāmbavoṣṭapicuṣlotapaddhamadhusnehakaṣāyalepakalkasekodakakumbhaśītoṣṇodakakaṭāhavyajanādivraṇopayogisarvopakaraṇamāstṛtaśayanīyamupasthitasthirastehavalavadavalaṃbakapuruṣamiṣṭe'hani śubhe muhūrte ca dadhyakṣatānnapānarukmaratnārcitavipraṃ praṇateṣṭadevatāmuktavantamāturaṃ prāṅmukhamupavedya saṃvedya vā yaṃtrayitvā pratyaṅmuk"
+    },
+    {
+     "verse": "Sū.1.5",
+     "score": 94.14414414414415,
+     "quote": false,
+     "text": "nanu pūrvaśāstrāṇyapi krāntirekena krāntikārtsnyeneti sarvatra sārataroccayarūpāṇītyata āha—nātisaṃkṣiptavistṛtamitisaṃkṣepātivistararahitaṃ sarvatra saṃpūrṇaṃ, nanu nyūnapūraṇasya nirmūlatvādaprāmāṇyamityata āha—tebhyo'gniveśādiśāstrebhya evoccayaḥ kriyate nanvevaṃ cetkimanenetyeta āha— ativiprakīrṇebhyaḥ yatra prakaraṇārthāḥ vicchidya vicchidya sarvatra kīrthante tāni viprakīrṇāni yatra vākyārth"
+    },
+    {
+     "verse": "Sū.15.1",
+     "score": 94.1588785046729,
+     "quote": false,
+     "text": "madanaṃ gālaḥ, madhukaṃ yaṣṭīmadhu, laṃbā kaṭutuṃbī, nivaḥ-picumandaḥ, viṃbīkaṭutuṃbikairī, viśālā-iṃdravāruṇī, trapusaṃ-kaṭuvālukaṃ, kuṭajo-vatsakaḥ, mūrvā-madhurasā, devadālī-jīmūtakaḥ, kṛmighnaṃ-viḍaṃgaṃ, vidulo-vetasaḥ, dahanaḥ-citrakaḥ, citrā-cillāṅakā, kaṭupaṭolāphalaṃ, patrakaṃ ca, kośavatyau-kaṭukośātakī, rājakośātakī, karaṃjo-naktamālaḥ, kaṇāpippalī, lavaṇaṃ-saindhavaṃ, vacā-ubhā, elā-tru"
+    },
+    {
+     "verse": "Sū.30.44",
+     "score": 91.46341463414635,
+     "quote": false,
+     "text": "tathā—atha dāhārhamāturaṃ kṛtasvastrayanamupahṛtaṃ sarvopakaraṇaṃ prākṛśiraḥsaṃviṣṭamāsāvalaṃbitaṃ kṛtvā vaidyo nirdhūmavṛhatsthiradīptakhādiravādarātraṃgarirayodhaṭanaprakāreṇa bhastrānilādhmātairbyajanena cordhvanirgacchajjālatayā āpāditāpādyamānabhāsurābhivarṇejāvaiṣṭhādibhirbyādhipradeśavaśādvaladhārdhaccaṃdrasvastikāṣṭāpadabiṃdurekhāpratisāraṇavikalpairmuhurdhurhitopahitābhirbābhiradbhiścātur"
+    },
+    {
+     "verse": "Sū.8.55",
+     "score": 93.92405063291139,
+     "quote": false,
+     "text": "pratyavekṣya cāśritopāśritānapi tiraścaḥ parigṛhītān, paśastadeśakālopakaraṇayuktaḥ, svāgvabhūṣitaḥ, sugaṃdhirādrapāṇipādaḥ, suviśudvanadano'bhimatasahāyaḥ, keśamakṣikādyajuṣṭamanidyamaniditaṃ, punarnoṣṇīkṛtaṃ, nātyuṣṇamanupadagdhaṃ, susiddhamalo nāsātmyaṃ, nāviditaṃ, nāviditāgamaṃ, nātiprage, nātisāyaṃ, nākāśe, nātape, nāṃdhakāre, nādho vṛkṣasya, na śayyāstho, nonnaramyapradeśinīṃ, na pātre bhinn"
+    },
+    {
+     "verse": "Sū.20.23",
+     "score": 86.88946015424165,
+     "quote": false,
+     "text": "uttānaśayanānantaraṃ dhūmagaṇḍrapāvāha—dhārayedisaṃgrahe tu atha nasyāha naramavyāhatavegaṃ dhautāṃtarbahinātikṣudhitaṃ prāyogikadhūmapānaviśuddhastotasaṃ tataḥ karajatatāmrādyanyatamamuktisthitaṃ pradeyauṣadhatribhāgaṃ vāmahaguṣṭhakaniṣṭhikāgramākṛṣya nayanapracchādanaṃ caturguṇaṃ ca madhyamayā nāsāgramunnamayya pradeśinyanāmikābhyāṃ caināsāpuṭaṃ paryāyeṇa pidhāyetarasminnapi dakṣiṇahastena praḍa"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 86.30490956072352,
+     "quote": true,
+     "text": "snehādipītapātukāmānāmakṣināsāsyaspadopadehatimiraśirogadān, śiraḥsnātasya śiro'kṣikarṇaśūlakaṃṭharogapīnasahanumanyāstaṃbhārdvitaśiraḥkaṃpān, snātukāmasya mūrddhastaimityajāḍyārucipīnasān, srutaraktasya kṣāmatāmarucimamisādaṃ ca, mūtritoccāritayormṛśataraṃ vegadhāraṇajān vikārān, abhihatasya tīvratarāṃ rujaṃ, kṛtavamanādīnāṃ śvāsakāsasvaraidriyahāniśirorogagauravakaṃḍūkramidoṣān, garbhiṇyā bhakta"
+    },
+    {
+     "verse": "Sū.1.35",
+     "score": 95.85492227979275,
+     "quote": false,
+     "text": "bhiṣajaśca bhūpāśca bhiṣagbhūpāḥ tairdviṣṭaṃ te yaṃ dviṣaṃti teṣāṃ dviṣaṃ bhiṣagbhūpānyo dveṣṭi, dviṣamātmānaṃ yo dveṣṭi, hīnopakaraṇam-aupadhasāmagrīrahitaṃ, vyagraṃ kāryātarāsyākulam, avidheyaṃ vaidyasyānadhīnaṃ, gatāyuṣamutpannasvariṣṭam, caṃḍaṃ kopanaṃ, śokāturamiṣṭajanaviyogajanitaśokapīḍitaṃ, bhīruṃ vyāpadbhayāt tyaktauṣadhaṃ, kṛtaghnamupakāro'pyapakāriṇaṃ, vaidyamāninam-avaidyo'pi ya ātmāna"
+    },
+    {
+     "verse": "Sū.12.55",
+     "score": 88.94736842105263,
+     "quote": false,
+     "text": "pittavikārāḥ-punaroṣaḥ ploṣo, davo davadhuḥ, vidāhaḥ, sadāhastvagdāhau'tadāhaḥ, dhūmako'ṅgalaka, ūṣmādhikyamatisvedau'gargadho'gāvayavaśaraṇaṃ, śoṇitakledo, māṃsakledastvaṅmāṃsadaraṇaṃ, carmadaraṇaṃ, raktakoṭo, raktacidastoṭo, raktamaṇḍalāni, raktapittaṃ, haritatvaṃ, hāritvaṃ, nītikāśā, kāmalā, tiktāsthatā lohitagandhāsthanā, pūtimukhatvaṃ, tṛpādhikyamatṛptirāsyapāko'kṣipākaḥ, pāyuṣāko, bhedapāko,"
+    },
+    {
+     "verse": "Sū.5.2",
+     "score": 93.47826086956522,
+     "quote": false,
+     "text": "tatra gāṅgāguṇānāha-jīvanaṃ-prāṇadhāraṇaṃ, tarpaṇaṃ-tṛtijananaṃ, hṛdyaṃ-hṛdayasya priyaṃ tatprasādakaratvāt, hyādi-mukhajanakaṃ, buddhiprabodhanaṃ-prajñāvikāśajananaṃ, tanu-sarvebhyo viralam, avyaktarasaṃ-rasavadyanamivyaktamadhurādirasaviśeṣaṃ, mṛṣṭaṃ-jihvendriyapriyaṃ, śītaṃ sparśavīryābhyāṃ, laghu śīmapākam, amṛtopamaṃ-devānāmamṛtamivedaṃ manuṣyāṇāṃ gaṅgāṃbu-ākāśagaṅgātoyaṃ meghairānītaṃ, nabha"
+    },
+    {
+     "verse": "Sū.13.9",
+     "score": 90.65934065934066,
+     "quote": false,
+     "text": "uśīraṃ vīraṇaṃ, pradoṣaścaṃdraṃ vināpi, ayaṃ traṇamukhaṃ yanmukhena niyaṃtraṇāṃ na karoti buddhyā tu karoti, mugdhā mṛdulā, udyānadīrghikā krīḍāvanavāpī, sutīrthaḥ sugamapraveśamārgaḥ vipulaḥ svacchaścayaḥ salilāśayastasya saikate sikatāmayapradeśe sāṃbhojajalatīrāṃtastīrajalāśayayoḥ saṃdhirthasminsaikate tattathā kāyamānaṃ tṛṇādiracitāgāraṃ, saumyā bhāvā manaḥprasādanāḥ padārthāḥ payaḥ sarpirvire"
+    },
+    {
+     "verse": "Sū.17.7",
+     "score": 94.23076923076923,
+     "quote": true,
+     "text": "pūrvavadevopasvedyokhāmukhenāmukhāṃ nāḍīmūlacchidrapramāṇapārśvacchidrāmabhisaṃdhāyopalipya ca pārśvacchidrasthayā nāḍayā śarīrepīkāvaṃśadalakalijakaraṃjapatrānyatamakṛtayā gajāgrahastasaṃsthānayā vyāmadīrghayā'dhyarddhyāmadīrghayā vā svāyāmacaturbhāgāṣṭabhāgapariṇāhamūlāgrahotasā sarvatovātaharapatramasaṃvṛttacchidrayā dvistrirvā vinamitayā mukhopaviṣṭasya svamyaktaprāvṛttai'go vāpyamupaharet"
+    },
+    {
+     "verse": "Sū.29.61",
+     "score": 89.51841359773371,
+     "quote": false,
+     "text": "dāma saṃbādhe, utsaṃgaṃ vilaṃbini, svastikaṃ sandhikūrcabhrūstanāṃtarakakṣākṣikapolakarṇeṣu, anuvellitaṃ śākhāmu, muttolīṃ grīvāmeḍhyoḥ, maṃḍalaṃ vṛtte'ṃge, sthagikāmaṃguṣṭhāṃgulimeḍhyamūtravṛddhiṣu, yamakaṃ yamalatraṇayoḥ, khaṭvāṃ hanuśaṃkhagaṇḍeṣu, cīnamapāṃgāṃsayoḥ, vivandhamudaroruṣṭreṣu, vitānaṃ mūrdhādau pṛthulāṃge, gophaṇaṃ nāsauṣṭacibukasakthiṣu, pañcāṅgīṃ jatrūrdhaṃ, na tu vaṇasyoṣari kur"
+    },
+    {
+     "verse": "Sū.6.46",
+     "score": 89.01734104046243,
+     "quote": false,
+     "text": "” cakoro—raktākṣaḥ, kuruvāhunīlagrīvo raktaśikhaḥ śvetapakṣaḥ, vartako vartīrādalpaḥ, tatsadṛśavartikā, tato'pyalpā tittiriścitrapakṣaḥ, krakaraḥ—kukśabdakārī, pītaḥ, kṛṣṇagalaḥ, kṛṣṇacañcucaraṇo, raktapṛṣṭhaśikhī—mayūraḥ, tāmracūḍākhyaḥ—kukkuṭaḥ, bakaraḥ bakaraḥ, gonado—gokṣeḍaḥ, girivartikā—girikāṇḍāvartikābhedaḥ, sārapadaḥ—kaṃkasadṛśaścāstaniḥ, iṃdrābhaḥ— kaṃkasadṛśo vividhavarṇaḥ, varaṭaḥ—haṃs"
+    },
+    {
+     "verse": "Sū.24.6",
+     "score": 94.9367088607595,
+     "quote": false,
+     "text": "saṃghrahe tu atha divasasyāṣṭame bhāge gate śeṣe vā nirvātātaparajodhūme kṛtanīlapītānyatarajayanike veśamani jīrṇabhaktasya sukhaśayanagatasyottānasya sumṛditamāṣapiṣṭakalakena netrakośādvahirdvāgulocchrāyāvādhārī parimaṃḍalāvasaṃvādhau samāvaparisrāviṇau kṛtvā tatroṣṇodakapravilīnaṃ nimīlite netre yathāhauṣadhavipakvaṃ kṣīraṃ sarpimaṅkaṃ vā saṃcayet"
+    },
+    {
+     "verse": "Sū.6.71",
+     "score": 94.53376205787781,
+     "quote": false,
+     "text": "balapramāṇajñānārthaṃ sārāṇyuktāni dehinām” iti satyaṃ, kiṃtu tvaksārasyāmāṃsatvenānupayogāt sattvasāratiryakṣvasaṃbhavādagrahaṇaṃ, raktādidhātūnāmeva yathottaraṃ gurutve vyākhyāyamāne kī dīpa iti cet tatra, māṃsaprastāve teṣāmaprastutatvāt, suśrute'pi sthānādikṛtaṃ tu māṃsasya gurulāghavamupadeśyāmaḥ tadyathā-“raktādiśukrānteṣu dhātupūttarottarā guravaḥ” ityuktam"
+    },
+    {
+     "verse": "Sū.10.44",
+     "score": 92.88135593220339,
+     "quote": false,
+     "text": "atha yaḥ śiśirapavanadharaṇidharavividhavana-gahananadītaḍāgapallavodapānakamalakumudakuvalayākīrṇoramyā-sthirastrigdhabhūmirbhūriharitanuṇo'tidūravistṛtapratānapravālopa-saṃghanapādapaḥ matsyasarīsṛpasvagavahulaḥ śleṣmapittaprāyo gurvā-padhisaślīpadagalarogāpacījvarādyāmayopadrutajanapadaḥ so-'nūpo madhurarasayoniḥ"
+    },
+    {
+     "verse": "Sū.6.64",
+     "score": 87.03071672354949,
+     "quote": false,
+     "text": "āvikamāṃsaguṇānāha—viparītamiti     ājamāṃsādviparītamatiśītaguru, strigdhaṃ, tridoṣakaramā pyadi ca viparītatvātkarśane prāpta āha—ajāvyoḥ prasa prastāve guṇakathanamaniścitatve'pi prāyaḥ prasahatvajñāpanārtha ataeva suśrutena grāmyeṣu paṭhitau—“ aśvāśvataragaṃ kharoṣṭravastorabhramedaḥpuṣṭaprabhṛtayo” grāmyā iti grāmyāśca prasaheṣūktāḥ"
+    },
+    {
+     "verse": "Sū.8.55",
+     "score": 94.4636678200692,
+     "quote": true,
+     "text": "ajīrṇaṃ hi pūrvasyāhārasyāpīraṇatī rasa uttareṇopasṛjyamānaḥ sarvān doṣān prakopayatyāśu jīrṇaṃ tu svasthānastheṣu doṣeṣu vātānulobhye sṛṣṭeṣu vātamūtrapurīparvaṇeṣu viśuddheṣu dvārahṛdayasrotomukheṣu viśadakaraṇe laghuni śarīre'gnāvudīrṇe jātāyāṃ bubhukṣāyāmabhyavahṛtamannamapradūṣayan doṣānāyurvalavarṇānābhivarddhayati"
+    },
+    {
+     "verse": "Sū.8.6",
+     "score": 91.57894736842105,
+     "quote": false,
+     "text": "kena tenātimātreṇānnena   atimātratvādevāṃ pākakālātikrame'pyapakena, ata eva duṣṭena vikṛtena ta vāviśya tathāvidhamevānnamadhiṣṭhāya evaṃbhūtāstadanaṃ viṣṭaṃbhanto'lasakaṃ kurvate, cyāvayaṃtaḥ punarvisūcikāṃ kābhyāṃ cyayaṃtaḥ adhauttaramārgābhyām, sahasaiva vegena, ajitātmagraṇamannalolupasyaivālasakādyutpattiriti jñāpanārtham"
+    },
+    {
+     "verse": "Sū.19.3",
+     "score": 94.58483754512635,
+     "quote": false,
+     "text": "āsthāpyā eva cetyanuvādācca   khuḍaṃ vātaraktaṃ, śuddhātīsāro nirāmātīsāraḥ rajonāśastrīṇāṃ puṣpanāśaḥ, saṃgrahe tu hṛdayakukṣipārśvagrahaparvābhitāpapārśvayoniśūlāṃgasutiśoṣakaṃ pagauravātilāghavāṃtrakūjanaśarkarāśukrārtavastanyanāśarajaḥ kṣayonmādatoṣakumilakoṣṭhaviṣamāgnisaśabdānalpogragaṃdhotthānādaya ita"
+    },
+    {
+     "verse": "Sū.1.18",
+     "score": 94.56521739130434,
+     "quote": false,
+     "text": "dravyasya bṛhaṇe karmaṇi śaktirguruḥ, leghane laghuḥ, śamane maṃdaḥ, śodhane tīkṣṇaḥ, staṃbhane himaḥ, svedane uṣṇaḥ, kledane strigdhaḥ, śoṣaṇe rūkṣaḥ, ropaṇe ślakṣaṇaḥ, lekhane kharaḥ, prasādane sāṃdraḥ, viloḍane dravaḥ, ślayane mṛduḥ, dṛḍhane kaṭhinaḥ, dhāraṇe sthiraḥ, preraṇe calaḥ, vivaraṇe pūkṣamaḥ, saṃvaraṇe sthūlaḥ, kṣālane viśadaḥ, lepane picchila iti"
+    },
+    {
+     "verse": "Sū.3.58",
+     "score": 94.56521739130434,
+     "quote": false,
+     "text": "ṛtusaṃdheḥ prathame dine pūrvasyāhārasya trayaḥ pāda uttarasyaikaḥ, dvitīye pūrva evāhāraḥ, tṛtīye prathamavat, caturpūrvasya dvau pādau, uttarasya dvau, paṃcamapaṣṭhayoḥ prathamavat saptame caturthavat, aṣṭame pūrvasyaika uttarasya trayaḥ, nava daśamaikādaśeṣu caturthavat, dvādaśe'ṣṭamavat, trayoḥ uttarāhāra eva, caturdaśe'ṣṭamavat"
+    },
+    {
+     "verse": "Sū.15.39",
+     "score": 88.64468864468864,
+     "quote": false,
+     "text": "priyaṃgvebaṣṭhādigaṇāvāha—puṣpāṃjanayugmaṃ—srotaujanaṃ rasāṃjanaṃ ca, padmā bhārṅgī, padmādrajaḥ padmakeśaraṃ, yojanavallī maṃjiṣṭhā, anaṃtā durālabhā, sāradrumaḥ śālmalī, mocarasastanniryāsaḥ, samaṃgā lajjikā, punnāga puṃnāga, śītaṃ caṃdanaṃ, madanīyaheturdhātukī, aṃbaṣṭhā mayūraśikhā, namaskārī lajjikā, bilvapeśikā śuṣkavilvapeśikā"
+    },
+    {
+     "verse": "Sū.2.22",
+     "score": 86.66666666666667,
+     "quote": false,
+     "text": "pāpaṃ niṣedhati-taddaśāvidham   tatra hiṃsā-prāṇivadhaḥ, steyaṃ cāryam, anyathākāmo'gamyāgamanaṃ, paiśunyaṃ-parasya granthaṃ tadoṣakīrtanaṃ, granthaṃ tu paruṣam, anṛtamasatyam, saṃbhinnālāpo'stvapralāpaḥ, vyāpādaḥ-parāniṣṭhaciṃtā, abhidhyā-parasvāpaharaṇecchā, dṛṣṭiviparyayaḥ-āptavākyeṣvaprāmāṇyabuddhiḥ, dṛkśabdenātra dṛṣṭo'rtha ucyata"
+    },
+    {
+     "verse": "Sū.3.58",
+     "score": 98.88888888888889,
+     "quote": false,
+     "text": "hetutvaṃ, ya utpanneṣu te bheṣajaskaṃdhe teṣāmeva hyapramādādanukūladaivādvā sati samyag yoge bheṣajatvaṃ, pūrvayoruttareṣāṃ ca praṇāmadhyāyānāmanenaivābhiprāyeṇa hetuskaṃdhe praṇidhānamiti sakalamanākulaṃ rogānutpādanīyatvaṃ ca yadyapi sarveṣāmevādhyāyānāṃ tathāpyasyaiva saṃjñākaraṇamatiśayadyotanārtham"
+    },
+    {
+     "verse": "Sū.6.50",
+     "score": 93.63295880149812,
+     "quote": false,
+     "text": "tatra gauḥ prasiddhā   tvaro-gardabhaḥ, aśvataro'śvāyāṃ gardabhājātaḥ, uṣṭraḥ karabhaḥ, aśvoghoṭakaḥ, dvīpī-citravyāghraḥ, siṃhaḥ kesarī, kaścelomaśo markaṭasadṛśaḥ, vānaro-markaṭaḥ, mārjāroviḍālaḥ, mūṣaka-uṃdaraḥ, vyāghro-mahāvyāghraḥ, dṛkovatsabhakṣaḥ, vabhruracchabhatlaḥ, tarabhurmṛgādanaḥ, lopākolomaśo jaṃbūkasadṛśaḥ, jaṃbūkaḥ-śṛgālaḥ"
+    },
+    {
+     "verse": "Sū.4.2",
+     "score": 87.45247148288973,
+     "quote": false,
+     "text": "tatra niṣedhātikrame doṣaṃ darśayan vegādharaṇajān rogānāha—tatrādhovātajān rogānāha—ruk—koṣṭhaśūlaṃ, vātādīnāṃ saṃgaḥ—svābhāvikapravṛttirodhaḥ, dṛṣṭivadhastimiram, agnivadho'gnimāṃśca, hṛdgado—hṛdrogaḥ, adhovātajānantaramūrdhvavātarodhajeṣu vācyeṣu śaktamūtrarodhajānāṃ vacanaṃ vātarodhajanulyayogakṣematvāt"
+    },
+    {
+     "verse": "Sū.8.55",
+     "score": 95.0381679389313,
+     "quote": true,
+     "text": "viśeṣatastu madhvāsavagrāmyeṣu, tīkṣṇān phalāsavān vanyeṣu, nyagrodhādiphalāsavān viṣkireṣu, arddhaśeluśiropakāpitthāsavān vileśayeṣu, digdhahateṣu ca amlaphalāsavān, prasaheṣu kāsekṣupadmabījaśṛṃgāṭakaserukamudrīkāmādirāsavān, kṣaudrayuktaṃ vā śītamudakamudasviddhā mahāmṛgeṣvaudakeṣu ca, surāṃ pratudeṣu"
+    },
+    {
+     "verse": "Sū.3.25",
+     "score": 96.53846153846153,
+     "quote": false,
+     "text": "sukhī avyākulaḥ san goṣṭhyo lokavārtāḥ, kathāḥ śāstravārtāḥ, jalavāhiṣu-jalaśayayukteṣu, adṛṣṭasūryeṣu-ghanacchāyeṣu, anaṣṭasūryeṣu-prakāśavatsu, maṇimayairvadbhabhūmikaiḥ kāntimatsu, parapuṣṭaiḥ kokilairvāditeṣu kāmakarmamadanavyāpāramantantibadhnanti svasauṃdaryeṇottarottaraṃ varddhayatīti kāmakamātāḥ"
+    },
+    {
+     "verse": "Sū.12.51",
+     "score": 96.53846153846153,
+     "quote": false,
+     "text": "bhaṃgo vakratā, saṃkoco'prasāryatvaṃ vartaḥ piṃḍitatvaṃ, harṣaṇaṃ kaṃṭakitatvaṃ, tarṣaṇaṃ pipāsā, kaṃpa ścalanaṃ, pāruṣyaṃ rūkṣatvaṃ, sauṣiryaṃ saraṃdhratvaṃ, śopaḥ śuṣkatvaṃ spaṃdanaṃ sphuraṇaṃ, veṣṭanaṃ valanaṃ, staṃbhaḥ niṣkriyatvaṃ, kaṣāya rasatā—rasāṃtare'pi kaṣāyagrahaṇaṃ, śyāvaḥ kapiśaḥ, aru haṃpadraktaḥ, saṃsādīni kupitavāyoḥ karmāṇi"
+    },
+    {
+     "verse": "Sū.15.3",
+     "score": 85.0,
+     "quote": false,
+     "text": "madanakuṭajajīmūtakaṃśvākukośātakīdvayavapusasiddhārthakaśatāhlāphalāni, valādaśamūlaṃ itrivṛddhavṛddhadāruyaṣṭrayāhlakuṣṭharāsnāpunarnavākanūṇamūlāni, saralavevadārupupāhiṃgurasāṃjanavyopapatrailāmūtāyavakollakulatthasvakraguḍyavaṇamastudhānyāmlamūtrasnehakṣīraścaudrāṇi ceti"
+    },
+    {
+     "verse": "Sū.3.58",
+     "score": 86.43410852713178,
+     "quote": false,
+     "text": "ataḥ parasu evāhāraḥ  amuṃ ca kramaṃ pādenāpathyamityatropapādayiṣyām suśrutasvahorātre ṣaḍṛtūnāha—tatra pūrvāhṇe vasanta liṅgaṃ, madhyāhṇe grīṣmasya, aparāhṇe prāvṛṣaḥ, pradoṣe vārṣi śāradamarddharātre, pratyupāsi haimantamupalakṣayeta evamahorātram śītoṣṇavarṣadoṣopacayaprakopopaśamairjānīyāditi"
+    }
+   ]
+  },
+  {
+   "A": "Aruṇadatta Sū",
+   "B": "Candranandana Sū",
+   "sentences": 7193,
+   "letters": 428251,
+   "pct_shared": 11.3,
+   "pct_verbatim": 6.1,
+   "pct_shared_commentary_only": 10.4,
+   "pct_shared_quotation": 0.9,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 37.7,
+    "Sū.10": 3.4,
+    "Sū.11": 2.9,
+    "Sū.12": 4.1,
+    "Sū.13": 0.9,
+    "Sū.14": 3.2,
+    "Sū.15": 3.9,
+    "Sū.16": 1.4,
+    "Sū.17": 0.5,
+    "Sū.18": 1.7,
+    "Sū.19": 1.0,
+    "Sū.2": 1.8,
+    "Sū.20": 0.4,
+    "Sū.21": 1.0,
+    "Sū.22": 0.7,
+    "Sū.23": 1.6,
+    "Sū.24": 0.0,
+    "Sū.25": 0.0,
+    "Sū.26": 0.7,
+    "Sū.27": 3.3,
+    "Sū.28": 1.0,
+    "Sū.29": 4.2,
+    "Sū.3": 0.6,
+    "Sū.30": 13.7,
+    "Sū.4": 1.7,
+    "Sū.5": 0.9,
+    "Sū.6": 35.2,
+    "Sū.7": 70.5,
+    "Sū.8": 0.0,
+    "Sū.9": 0.6
+   },
+   "examples": [
+    {
+     "verse": "Sū.1.39",
+     "score": 93.70786516853933,
+     "quote": false,
+     "text": "īhā caryā ceṣṭetyeko'rthaḥ   tena āyuṣkāmīyo dina-caryā ṛtucaryā rogānutpādanīyo dravadravyavijñānīyo'nna-svarūpavijñānīyo'nnasaṃrakṣā mātrāśitīyo dravyādivijñānīyo rasabhedīyo doṣādivijñānīyo doṣabhedīyo doṣo-pakramaṇīyo dvividhopakramaṇīyaḥ śodhanādigaṇasaṃgrahaḥ snehavidhiḥ svedavidhirvamanavirecanavidhirvastividhirnṛtya-vidhirdhūmavidhirgaṅgavidhirāścotanāṃjanavidhistarpaṇapuṭapā-kavidhiryaṃtr"
+    },
+    {
+     "verse": "Sū.1.26",
+     "score": 91.30434782608697,
+     "quote": false,
+     "text": "śarīrajānāṃ vātādīnāṃ krameṇa yathāsaṃkhyāparipādyodeśanirdeśena paramauṣadhaṃ pradhānauṣadhaṃ vastradivamanāṃtaṃ śodhanarūpaṃ tailādimadhvaṃtaṃ śamanarūpam tena vātasya vastirgudapraṇidheyasnehakāthādi paramauṣadham pittasya vireko mukhapītaṃ gudamārgeṇāṃtaḥsthitaniḥsāraṇaṃ paramauṣadham"
+    },
+    {
+     "verse": "Sū.7.50",
+     "score": 93.82022471910112,
+     "quote": false,
+     "text": "doṣā apathyābhyāsajāḥ krameṇa pūrvoktenāpacitāḥ kṣayaṃ nītāḥ guṇāśca pathyopayogajāḥ krameṇa pūrvoktenaivopacitāḥ vṛddhiṃ nītāḥ saṃtaḥ puruṣāṇāṃ yathāsaṃkhyamapunarbhāvaṃ yānti doṣāḥ guṇāścāprakapyāḥ sthirā bhavati"
+    },
+    {
+     "verse": "Sū.5.44",
+     "score": 88.30409356725146,
+     "quote": false,
+     "text": "vidāhī jaṭharāgnisaṃyogādyaḥ pākaṃ gacchanmadhyamāyāmevāvasthāyāṃ vidahyamānaḥ pittaṃ kurvaścirakālamavatiṣṭate na drāgeva jarāṃ yāti gurutvādathavā vastusvabhāvātsa vidāhaguṇayuktoktyā vitanyate"
+    },
+    {
+     "verse": "Sū.1.22",
+     "score": 87.57396449704143,
+     "quote": true,
+     "text": "praśnena pṛcchayā śūlārocakacchardipradarśatvaṃ succhaṃdaduśchaṃdatvaṃ mṛdukrūrakoṣṭhatāṃ svapnadarśanamabhiprāyaṃ janmāmayapravṛttinakṣatradviṣṭeṣṭasukhaduḥkhāni cetyāturamukhātparīkṣeta"
+    },
+    {
+     "verse": "Sū.7.4",
+     "score": 95.83333333333334,
+     "quote": false,
+     "text": "viṣavānodanaḥ sāṃdro vilepyākāraḥ visrāvayituṃ śakyate yataḥ pṛthaksikyo na bhavet tathā cireṇa pacyate bahunā kālena pākaṃ yāti ca pakvo niṣpannapākaḥ sadya eva paryuṣitopamo ditarito'tikrāṃtāhorātraḥ"
+    },
+    {
+     "verse": "Sū.6.145",
+     "score": 94.01197604790418,
+     "quote": false,
+     "text": "tatra teṣu lavaṇeṣu madhye saindhavaṃ sasvādu īṣadhuraṃ vṛṣyaṃ hṛdyaṃ tridoṣanaṃ tathā kiñciduṣṇaṃ dṛṣṭeḥ pathyaṃ taccidvidāhyagnidīpanaṃ ca sāmānyaguṇāśca viṣyantisūkṣmaṣṭamalatvarocanānyasya satyeva"
+    },
+    {
+     "verse": "Sū.6.104",
+     "score": 95.67901234567901,
+     "quote": false,
+     "text": "avyaktarasādilakṣaṇāvasthāṃ vihāya yāvadyaktarasādyavasthaṃ tatsaṃpadyate tato'nantaraṃ krameṇa rasavipākayoḥ kaṭukamuṣṇavīryaṃ tanmūlakaṃ mahaddṛdvaṃ tridoṣakṛt gurvabhiṣyadi ca bhavati"
+    },
+    {
+     "verse": "Sū.7.65",
+     "score": 94.03973509933775,
+     "quote": false,
+     "text": "na sarvasya rātrāvasuprasya jāgaraṇakālādardhena divāsvapna iṣyate kiṃ tarhi yo yāvantaṃ kālamucitaṃ svapiti tasmātkālādyāvantaṃ kālaṃ niśi jāgṛyāttāvato'rdhenāsau prātaḥ svapyāt"
+    },
+    {
+     "verse": "Sū.1.15",
+     "score": 93.95973154362416,
+     "quote": false,
+     "text": "ṣaḍiti ṣaḍeva na nyūnā adhikā vā   yadyapi te rasā guṇāḥ svādvādibhedatastathā saṃsargatastathā'nurasatastāratamyaparikalpanāvaśato'pi bhidyamānarūpā api ṣaṭtvaṃ nātivartate"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 98.63945578231292,
+     "quote": false,
+     "text": "atulyaprakṛtiryathā—pittaprakṛteḥ śleṣmodbhavo vyādhiḥ nanvatulyadūṣyadeśartuprakṛtitvādasau kṛcchrasādhyo yathā vā yāpyo na sukhasādhyo'nekasukhopakramasādhyatvāt"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 100.0,
+     "quote": false,
+     "text": "bāhulyena viparyaye sādhyalakṣaṇaviparītatve satyāyuṣo jīvitasya śeṣatvādakṣīṇatvānmārayitumasamarthapathyairāhāravihārairyāpyo yāpanīyo nāsau pratyākhyeyaḥ"
+    },
+    {
+     "verse": "Sū.1.20",
+     "score": 96.52777777777779,
+     "quote": false,
+     "text": "doṣāṇāṃ vātādīnāṃ svapramāṇādekasya dvayostrayāṇāṃ vā vṛddhiḥ kṣayo vā rujākaratvādroga eva vaiṣamyaṃ viṣamatā svarūpāccyāvaḥ tataḥ kāryakāraṇayorabhedena paṭhito roga iti"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 96.45390070921985,
+     "quote": false,
+     "text": "adhunaitadeva spaṣṭīkṛtyocyate   apathyātpāṭalatrīhyāderabhyastātpādamekaṃ tyaktvā'nucitātpathyādvaktaśālyādestameva pādaṃ dattvā catuṣpāttvaṃ saṃpādya yojyam"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 95.71428571428572,
+     "quote": false,
+     "text": "etāvānevāsya pratyākhyeyādyādherviśeṣo yadāyuḥśeṣatvaṃ yāpyasya vyādherāyuḥśeṣamātraṃ varjayitvā yadanyattatsarvaṃ samānaṃ prāyeṇāsya ca pratyākhyeyasya vyādheḥ"
+    },
+    {
+     "verse": "Sū.30.50",
+     "score": 93.5251798561151,
+     "quote": false,
+     "text": "yato hi tutthadagdhe tvavaśyaṃ styānamasṛgbhavatīti yuktyā pratipādayannāha— lohite styāne satyatiśayena rugbhavati vilīne rakte pīḍāyā maṃdatā maṃdatvaṃ bhavati"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 94.8905109489051,
+     "quote": false,
+     "text": "tatra tasmin dravye vīryaṃ dvividham viṃśaterguṇānāṃ madhyādvāvuṣṇaśītau tadutkarṣādvīryamiti sarvāyurvedaprasiddhau dvāveva guṇau śītoṣṇau vīryakaraṇahetū"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 92.5925925925926,
+     "quote": false,
+     "text": "viṣayābhilāṣaṃ pariharataḥ   amarmago'marmasthaḥ marmāṇi śirohṛdayabastiprabhṛtīni teṣu gacchatīti marmagaḥ na mamago'marmago hṛtkaṃṭhādipīḍākaraṇāsamarthaḥ"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 97.77777777777777,
+     "quote": false,
+     "text": "na vidyate upadravo yasyotpannasya vyādheranaṃtaraṃ jāyate yo'nyo vyādhirna tallakṣaṇabhūto'pradhāno na yathāsvalakṣaṇastadupakramanirodhakaḥ sa upadravaḥ"
+    },
+    {
+     "verse": "Sū.7.4",
+     "score": 91.66666666666666,
+     "quote": false,
+     "text": "paryuṣitaiti   yathā paryuṣitaṃ bhaktaṃ nirūpya stabdhaṃ ca bhavatathā viṣadūṣitaṃ sadyo'vatāritamapi tādṛśameva bhavasa copayukto mohamūlāprasekānkaroti"
+    },
+    {
+     "verse": "Sū.7.26",
+     "score": 93.07692307692308,
+     "quote": false,
+     "text": "taṃdrādayaśca bhavati   tayorāmapada śayagatayorviṣayorvartamānasya puṃso yathāyogaṃ vāṃtavi ktasya haridre kaṭabhītyādikamauṣadhaṃ nāvanādiṣu yo yet"
+    },
+    {
+     "verse": "Sū.6.163",
+     "score": 89.84375,
+     "quote": false,
+     "text": "tathā anilādīn heti sarā ca evavidhāmapi tāṃ pippalīmatyarthaṃ na yujīta rasāyanavidhiṃ vināpipalī vardhamānādirasāyanavidhāna evātiśayenopayujīta"
+    },
+    {
+     "verse": "Sū.1.27",
+     "score": 100.0,
+     "quote": false,
+     "text": "cikitsitasya rogopaśamalakṣaṇasya pādacatuṣṭayamaṃ gacatuṣṭayamuktaṃ pratyekaṃ taccaturguṇamevaṃ ṣoḍaśaguṇaṃ cikitsitaṃ bheṣajaṃ bhiṣajo bhāṣante"
+    },
+    {
+     "verse": "Sū.7.46",
+     "score": 97.6,
+     "quote": false,
+     "text": "yathā mākṣikaharītakyādinā pittaśleṣmaharaṇauṣadhena satataśīlanādabhisaṃskṛte dehe pittaśleṣmakaraṃ viruddhamupayuktaṃ sadvikartumaśaktam"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 100.0,
+     "quote": false,
+     "text": "apathyamahitamannaṃ pānaṃ vā yallaṃghanaplavanajāgaraṇasvapnādikaṃ vā ceṣṭitamahitamabhyastaṃ tatpādena caturthāśena tyajedahitaphalatvāt"
+    },
+    {
+     "verse": "Sū.1.21",
+     "score": 95.04132231404958,
+     "quote": false,
+     "text": "samaye hi ṣaḍunmādā bhavati vātapittakaphasannipātādvividhanimittā udāhṛtā ityudāharaṇamātramuddeśamātraṃ vacanamātramāyurvedaśāstre"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 95.83333333333334,
+     "quote": false,
+     "text": "tenaikena vātādīnāmanyatamena doṣeṇa yo jāto na dvābhyāṃ tribhirvā tathaikenāpi mārgeṇa bāhyena madhyenābhyatareṇa vā jāto navo na jaraṭhaḥ"
+    },
+    {
+     "verse": "Sū.7.46",
+     "score": 99.16666666666667,
+     "quote": false,
+     "text": "taireva vairodhikakupitadoṣapratipakṣabhūtairdravyaiḥ pūrvaṃ prathamaṃ yā śarīrasyā'bhisaṃskṛtiḥ sā ca viruddhāhārakṛte vikāre praśasteti"
+    },
+    {
+     "verse": "Sū.12.43",
+     "score": 90.83333333333333,
+     "quote": false,
+     "text": "vegodīraṇadhāraṇamityārabhya yāvatpatanaskhalanādikaṃ yadetat kāyikaṃ karma tasya karmaṇa evaṃrūpasya yā vṛttiḥ sa kāyakarmaṇo mithyāyogaḥ"
+    },
+    {
+     "verse": "Sū.7.1",
+     "score": 93.22033898305084,
+     "quote": false,
+     "text": "sarvadā sarvakālaṃ rātrau divā vā nṛpabhavanasamīpasthitaḥ sa vaidyaḥ sarvatrānnapānaśayanamākhyādau pratijāgṛvidettāvadhāno bhavati"
+    },
+    {
+     "verse": "Sū.30.46",
+     "score": 86.20689655172413,
+     "quote": false,
+     "text": "avimṛśyadagdhaṃ hi kadācitsamyagdagdhalakṣaṇaṃ kadācidurdagdhalakṣaṇaṃ kadācidatidagdhalakṣaṇaṃ kadācicca tutthadagdhalakṣaṇaṃ syāt"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 99.1304347826087,
+     "quote": false,
+     "text": "tatastṛtīye'pyucitādapathyātpādadvayamapāsyānucitātpathyātpādadvayamupayujya tataścaturthaṃ sarvamapathyaṃ bhojyaṃ paṃcame ca"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 97.3913043478261,
+     "quote": false,
+     "text": "tataḥ ṣaṣṭhe'nnakāle pādamucitādapathyātpādatrayamanucitātpathyādbhuktvā saptamāṣṭamanavamānnakāleṣu sarvamapathyaṃ bhojyam"
+    },
+    {
+     "verse": "Sū.7.18",
+     "score": 93.85964912280701,
+     "quote": false,
+     "text": "taditi saviṣānnaparāmarśaḥ   dṛṣṭvaityuccartamāne'pi punardṛṣṭvaiti vacanaṃ sarvatra madhye saṃpratyayārthamādyaṃtābhyāṃ gṛhītatvāt"
+    },
+    {
+     "verse": "Sū.7.59",
+     "score": 92.10526315789474,
+     "quote": false,
+     "text": "atrocyate   divāsvapnenājīrṇināṃ dhātusāmyaṃ bhavati dhātusāmye ca sati svasthānasthitairdoṣairanupahato bahviḥ pacanakṣamo bhavati"
+    },
+    {
+     "verse": "Sū.1.10",
+     "score": 93.80530973451327,
+     "quote": false,
+     "text": "śukraṃ cārtavaṃ ca tatra tiṣṭhatīti śukrārtavasthāstaistathāvidhairjanmādau garbhādhānakāle janmaprāraṃbhe garbhādāvityarthaḥ"
+    },
+    {
+     "verse": "Sū.7.4",
+     "score": 88.49557522123894,
+     "quote": false,
+     "text": "moho ratyam   mūlāṃ saṃjñābhraṃśaḥ   prasekaḥ śleṣmaniṣṭhīvahīyate varṇagaṃdhādyairityādiśabdena rasasparśādipariprapraklino bhavati"
+    },
+    {
+     "verse": "Sū.7.46",
+     "score": 100.0,
+     "quote": false,
+     "text": "etaduktaṃ bhavati   viruddhapratipakṣaguṇavatā dravyeṇa dehastathā dāḍhardhaṃ prāhito yathā viruddhamapi dravyaṃ vikāraṃ kartuṃ nālam"
+    },
+    {
+     "verse": "Sū.14.31",
+     "score": 93.69369369369369,
+     "quote": false,
+     "text": "na kāśyamātraṃ sthaulyamātraṃ vā   yasmādatis lātikṛśāveva laṃghanabṛṃhaṇābhyāmupakramyāyatra vivakṣitau na sthūlakṛśau sāmānyena"
+    },
+    {
+     "verse": "Sū.1.1",
+     "score": 90.9090909090909,
+     "quote": false,
+     "text": "” iti   ato'dhikāre   āyuṣkāmīyaṃ śāstramadhikriyate yāvadat ūrdhvaṃ pratanyate ātantraparisamāptestatsarvamāyuṣkāmīyaṃ veditavyam"
+    }
+   ]
+  },
+  {
+   "A": "Candranandana Sū",
+   "B": "Aruṇadatta Sū",
+   "sentences": 6535,
+   "letters": 436624,
+   "pct_shared": 10.3,
+   "pct_verbatim": 5.6,
+   "pct_shared_commentary_only": 9.5,
+   "pct_shared_quotation": 0.8,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 32.6,
+    "Sū.10": 1.9,
+    "Sū.11": 2.2,
+    "Sū.12": 5.1,
+    "Sū.13": 0.8,
+    "Sū.14": 1.2,
+    "Sū.15": 5.1,
+    "Sū.16": 2.0,
+    "Sū.17": 0.5,
+    "Sū.18": 0.5,
+    "Sū.19": 0.2,
+    "Sū.2": 0.5,
+    "Sū.20": 0.0,
+    "Sū.21": 0.0,
+    "Sū.22": 0.0,
+    "Sū.23": 0.0,
+    "Sū.24": 1.1,
+    "Sū.25": 0.0,
+    "Sū.26": 0.3,
+    "Sū.27": 2.7,
+    "Sū.28": 0.4,
+    "Sū.29": 2.3,
+    "Sū.3": 0.0,
+    "Sū.30": 15.4,
+    "Sū.4": 0.7,
+    "Sū.5": 0.9,
+    "Sū.6": 30.0,
+    "Sū.7": 46.1,
+    "Sū.8": 1.1,
+    "Sū.9": 0.8
+   },
+   "examples": [
+    {
+     "verse": "Sū.1.39",
+     "score": 93.63636363636364,
+     "quote": false,
+     "text": "īhā caryā ceṣṭetyekārthaḥ   tenāyuṣkāmīyaḥ, dinacaryā, ṛtucaryā, rogānutpādanīyaḥ, dravadravyavijñānīyaḥ, annasya rūpavijñānīyaḥ, annasaṃrakṣā, mātrāśitīyaḥ, dravyādivijñānīyaḥ, rasabhedīyaḥ, doṣādivijñānīyaḥ, doṣabhedīyaḥ, doṣopakramaṇīyaḥ dvividhopakramaṇīyaḥ, śodhanādigaṇasaṃgrahaḥ, snehavidhiḥ, sveda-vidhiḥ, vamanavirekavidhiḥ, bastividhiḥ, nṛtya-vidhiḥ, dhūmavidhiḥ, gaṇḍūṣādividhiḥ, āścotanā-"
+    },
+    {
+     "verse": "Sū.1.41",
+     "score": 95.28985507246377,
+     "quote": false,
+     "text": "nidānamucyate—sarvaroganidānaṃ, jvaranidānam, raktapittakāsanidānam, śvāsahikrānidānam, rājayakṣmādinidānam, madātyayādinidānam, aśonidānam, atisāragrahaṇīdoṣanidānam, mūtrāghātanidānam, pramehanidānam, vidradhigulmanidānam, udaranidānam, pāṇḍuśophavisarpanidānam, kuṣṭhaśvi kuminidānam, vātavyādhinidānam, vātaśoṇitādānam"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 96.61654135338345,
+     "quote": false,
+     "text": "etāvānevāsya pratyākhyeyādvayāveviśeṣo yadāyuḥśeṣatvaṃ yāpyasya vyādherāyuḥ śeṣamātraṃ varjayitvā tadanyatsarvaṃ samānaṃ prāyeṇāsya ca pratyākhyeyasya ca vyādheḥ kasya viparyaye sati prakṛtatvātsukhasādhyasya pathyairāhāravihārairabhyasanamabhyāsaḥ punaḥ punaḥ karaṇaṃ tasmādvitāhāravihārasevāto yāpyaḥ"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 87.5,
+     "quote": false,
+     "text": "evamanayā diśā sarvamapyūhyam       yāpya ucyate-bāhulyena viparyaye sādhyalakṣaṇa-viparītatve satyāyuṣo jīvitasya śeṣatvādakṣīṇatvānmārayitumasamarthaḥ pathyairāhāravihārairyāpyo yāpanīyo nāsau pratyākhyeyaḥ"
+    },
+    {
+     "verse": "Sū.16.16",
+     "score": 86.12716763005781,
+     "quote": false,
+     "text": "rasabhedairaikaikahīnenetyādipranthanirdiṣṭena triṣaṣṭisaṃkhyāvacchinnena sahopayogasya snehasya tathaikakatvopayogenāsahāyena kevalena snehena satāsya snehasya catuḥṣaṣṭivicāraṇā bhavanti"
+    },
+    {
+     "verse": "Sū.1.10",
+     "score": 94.73684210526316,
+     "quote": false,
+     "text": "yathā—viṣeṇa jīvitanāśahetunā asya viṣakrimeḥ janmaprakṛtisambhavo dṛśyate tathaivaitairdūṣaṇasvabhāvairapi svapramāṇādhikadoṣaiḥ śukrārtavasthaireva janmādau śarīrasya niṣpattirbhavatīti"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 86.3905325443787,
+     "quote": false,
+     "text": "yadi tu tadapathyamabhyastaṃ tathā sātmībhūtaṃ yasminnaturthāśenāpi tyajyamāne śarīrocitamadhyapathyatvādudvādhā śakyate vahnimādyādvā tadā pādapādena vā ṣoḍaśāṃśena tyajediti vāśabdārthaḥ"
+    },
+    {
+     "verse": "Sū.7.31",
+     "score": 89.74358974358975,
+     "quote": false,
+     "text": "tadeva viruddhabhojanamāha—āmiṣaṃ māṃsamānūpaṃ mahāmṛgavāricaravāriśayākhyaṃ māṣādibhiḥ saptabhiḥ saha virudhyate ānūpeṣvapi madhye viśeṣādatiśayena payasā saha matsyā virudhyante"
+    },
+    {
+     "verse": "Sū.1.26",
+     "score": 93.5483870967742,
+     "quote": false,
+     "text": "pittasya virekamukhapītaṃ gudamārgeṇāntaḥsthitasya niḥsāraṇaṃ paramauṣadham kaphasya vamanaṃ mukhena patitaṃ tailaṃ doṣasya niḥsāraṇaṃ paramauṣadhamiti śodhanarūpeṇa doṣāṇāmauṣadham"
+    },
+    {
+     "verse": "Sū.7.26",
+     "score": 86.27450980392157,
+     "quote": false,
+     "text": "viṣānna āmāśayaṃ prāpte tandrādayaśca bhavanti tayorāmapakāśayayorgatayorviṣayorvartamānasya puṃ yathāyogaṃ vāntaviriktasya haridre kaṭabhītyādi mauṣadhaṃ nāvanādiṣu yojayet"
+    },
+    {
+     "verse": "Sū.1.15",
+     "score": 94.03973509933775,
+     "quote": false,
+     "text": "ṣaḍiti ṣaḍeva na nyūnāḥ samadhikā vā   yadyapi te rasaguṇāḥ svādvādibhedatastathā saṃsargataḥ tathānurasataḥ tāratamyaparikalpanāvaśato'pi bhidyamānāstathāpi ṣaṭtvaṃ nātivartante"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 99.33774834437085,
+     "quote": false,
+     "text": "evamekenānnakālenāpathyapādo'ntarīkṛtaḥ tatastṛtīye'pyucitādapathyātpādadvayamapāsyānucitātpathyātpādadvayamupayujya tataścaturthe sarvamapathyaṃ bhojyam, pañcame ca"
+    },
+    {
+     "verse": "Sū.1.22",
+     "score": 87.91946308724832,
+     "quote": true,
+     "text": "praśnena pṛcchayā śūlārocakasucchandaduḥkhandatvaṃ mṛdukrūkoṣṭhatāṃ svapnadarśanamabhiprāyaṃ janmāmayapravṛttinakṣatradviṣṭeṣṭasukhaduḥkhāni cetyāturamukhātparīkṣeta"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 96.5034965034965,
+     "quote": false,
+     "text": "tenaikena vātādīnāmanyatamena doṣeṇa yo jāto na dvābhyāṃ tribhirvā tathā tenaikenāpi mārgeṇa bāhyena madhyenābhyantareṇa vā jātaḥ navo na jaraṭhaḥ acirotpanna ityarthaḥ"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 96.42857142857143,
+     "quote": false,
+     "text": "adhunaitadeva spaṣṭīkṛtyocyate   apathyātpādalabdhīhyāderabhyastāt pādamekaṃ tyaktvā'nucitātpathyādktaśālyādestameva pādaṃ dattvā catuṣpāttvaṃ sampādya yojyam"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 97.76119402985076,
+     "quote": false,
+     "text": "na vidyate upadravo yasya utpannasya vyādheranantaraṃ jāyate yo'nyo vyādhina talakṣaṇabhūto'pradhāno na yathāsvalakṣaṇastadupakramanirodhakaḥ sa upadravaḥ"
+    },
+    {
+     "verse": "Sū.7.29",
+     "score": 94.61538461538461,
+     "quote": false,
+     "text": "vi garavadviruddhāhārā api vyādhimṛtyuhetava ityarthaḥ tathācoktaṃ saṃgrahe-“visphoṭagulmamadavidradhimehayakṣame jobalasmṛtimatīndriyacittanāśam"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 99.2248062015504,
+     "quote": false,
+     "text": "ekasukhopakramaḥ sukhasādhyo vyādhirata eva sādhyayāpyaparityājyā mehāḥ śleṣmapittavātotthāḥ samāsamakriyatayā mahātyayatayāpi cetyevaṃ nirdiśati"
+    },
+    {
+     "verse": "Sū.7.31",
+     "score": 100.0,
+     "quote": false,
+     "text": "yato matsyakṣīre svādurasavipākitvānmahābhiṣyadinī śītoṣṇayogācca parasparaviruddhe matsyeṣvapi cilīcimākhyo matsyaḥ payasā sahātyantaviruddhaḥ"
+    },
+    {
+     "verse": "Sū.7.65",
+     "score": 98.41269841269842,
+     "quote": false,
+     "text": "yataśca samyaksevitāyā nidrāyā asamyaksevitāyāśca anantaroktā guṇā doṣāḥ, ato'smāddhetoḥ kālānatikrameṇa sātmyato yāmadvayaṃ trayaṃ vā niśi nidrāṃ bhajet"
+    },
+    {
+     "verse": "Sū.12.43",
+     "score": 89.68253968253968,
+     "quote": false,
+     "text": "mithyāyogastu vegodīraṇadhāraṇamityārabhya yāvat patanaskhalanādikaṃ yatkarma tasya karmaṇa evaṃrūpasya yā pravṛttiḥ sā kāyakarmaṇo mithyāyogaḥ"
+    },
+    {
+     "verse": "Sū.1.21",
+     "score": 95.08196721311475,
+     "quote": false,
+     "text": "samaye hi ṣaṭ unmādā bhavanti vātapittakaphasannipātādhiviṣayanimittā udāhṛtā iti udāharaṇamātramuddeśamātraṃ vacanamātramāyurvedaśāstre"
+    },
+    {
+     "verse": "Sū.1.39",
+     "score": 95.7983193277311,
+     "quote": false,
+     "text": "tasyeti garbhasya parāmarśaḥ garbhavyā-pacchārīram, aṅgavibhāgaṃ śārīraṃ, marmavibhāgaṃ śārīraṃ, vikṛtivijñānīyaṃ śārīraṃ, dūtavijñānīyaṃ śārīram"
+    },
+    {
+     "verse": "Sū.7.32",
+     "score": 86.20689655172413,
+     "quote": false,
+     "text": "haritakatvaṃ, śākatvaṃ ca   tathā mūlakādīnāṃ yadi śākatvaprasiddhirevābhaviṣyat tato haritakaṃ mūlakādi bhakṣayitveti tantrakṛnnāvakṣyat"
+    },
+    {
+     "verse": "Sū.1.19",
+     "score": 88.69565217391305,
+     "quote": false,
+     "text": "atiyosvarūpātiśayaḥ   mithyāyogaḥ svarūpādvaiparītyam yathā—hīnaśīlatā hīnoṣṇatā hīnavarṣatā hīnayogayathā—śītakālāvasare'tyuṣṇam"
+    },
+    {
+     "verse": "Sū.7.1",
+     "score": 93.04347826086956,
+     "quote": false,
+     "text": "sarvadā sarvakālaṃ rātrau divā nṛpabhavanasamīpe sthitaḥ sa vaidyaḥ sarvatrālapānaśayanamālyādau pratijāgṛvirdattāvadhāno bhavati"
+    },
+    {
+     "verse": "Sū.12.75",
+     "score": 90.43478260869566,
+     "quote": false,
+     "text": "ṣaṭ vṛddhiśca samatā ca kṣayaśca vṛddhisamatākṣayāḥ ekaikasya vātāderanyatamasya vṛddhisamatākṣayāḥ tairekaikasya vṛddhisamatākṣayaiḥ"
+    },
+    {
+     "verse": "Sū.7.18",
+     "score": 90.2654867256637,
+     "quote": false,
+     "text": "tameva prayatnaṃ darśayan yathā yena prakāreṇa tyajyamānena kṣudrajantavo ma kādayo'pi tena viṣeṇa na vipadyeran na na yustathā tyajet"
+    },
+    {
+     "verse": "Sū.1.1",
+     "score": 91.07142857142857,
+     "quote": false,
+     "text": "adhikāraḥ, āyuṣkāmīyaṃ śāstramadhikriyate yāvadat ūrdhvaṃ prakramyate, ātantraparisamāptestatsarvamāyuṣkāmebhyo hitaṃ veditavyam"
+    },
+    {
+     "verse": "Sū.7.48",
+     "score": 97.32142857142857,
+     "quote": false,
+     "text": "tataḥ ṣaṣṭhe'nakāle pādamucitādapathyātpādatrayamanucitātpathyādbuktvā saptamāṣṭamanavamānakāleṣu sarvamapathyaṃ bhojyam"
+    },
+    {
+     "verse": "Sū.1.31",
+     "score": 94.54545454545455,
+     "quote": false,
+     "text": "sarvāṇyauṣadhāni yaḥ kṣamate sahate tīkṣṇamadhyamṛdurūpāṇi nānādeśajāni śamanāni tathā śodhanarūpāṇi tathā viṣakṣārādīni ca"
+    },
+    {
+     "verse": "Sū.5.44",
+     "score": 92.72727272727272,
+     "quote": false,
+     "text": "jaṭharāgnisaṃyogādyaḥ pākaṃ gacchan madhyamāyāmeva pākāvasthāyāṃ vidahyamānaḥ pittaṃ kurvan cirakālamavatiṣṭate na śīghraṃ jarāṃ yāti"
+    },
+    {
+     "verse": "Sū.7.46",
+     "score": 99.07407407407408,
+     "quote": false,
+     "text": "yathā---mākṣikaharītakyādinā pittaśleṣmaharaṇauṣadhena satataśīlanādabhisaṃskṛte dehe pittaśleṣmakaraṃ viruddhamupayuktam"
+    },
+    {
+     "verse": "Sū.7.47",
+     "score": 92.5233644859813,
+     "quote": false,
+     "text": "tathā viruddhamapyannaṃ yada bhyāsāt sātmyaṃ sātmībhūtaṃ tathā alpamātrayā ca yadbhojanaṃ tacca viruddhamapi na pīḍāyai iti yojyam"
+    },
+    {
+     "verse": "Sū.12.75",
+     "score": 90.65420560747664,
+     "quote": false,
+     "text": "taratamayorbhāvastāratamyam   tacca tāratamyaṃ prakṛtatvāt sannipātadoṣāṇāṃ tāratamyasya vikalpanaṃ bhedatāratamyasya kalpanam"
+    },
+    {
+     "verse": "Sū.1.28",
+     "score": 98.05825242718447,
+     "quote": false,
+     "text": "śuciḥ kāyavāṅmanovyāpārairmalīmasairaparāmṛṣṭaḥ alipsāvān arthopajīvikāhetorna karoti paraṃ dharmopājaneneti śuciḥ"
+    },
+    {
+     "verse": "Sū.6.166",
+     "score": 91.2621359223301,
+     "quote": false,
+     "text": "tathā śophādīn hanti       etacca pūrvoktaṃ maricarahitaṃ pippalīppalīmūlacavyacitrakaśuṭhayākhyaṃ paṃcakolasaṃjñaṃ smṛtaṃ ke tantre"
+    },
+    {
+     "verse": "Sū.11.43",
+     "score": 86.40776699029126,
+     "quote": false,
+     "text": "kiṃbhūtāḥ santo vṛddhāḥ, kṣīṇāśca   yathākramaṃ vṛddhāḥ santaḥ svaguṇebhyo yadviparītaguṇamannaṃ tadviṣayāṃ ruciṃ prītimutpādayanti"
+    },
+    {
+     "verse": "Sū.1.45",
+     "score": 95.09803921568627,
+     "quote": false,
+     "text": "tatra kalpe vamanakalpaḥ, virecanakalpaḥ, vamanavirecanavyāpatsiddhiḥ, vastikalpaḥ, vastivyāpatsiddhiḥ, ṣaṣṭho dravyakalpaḥ"
+    },
+    {
+     "verse": "Sū.7.2",
+     "score": 93.13725490196079,
+     "quote": false,
+     "text": "yogo'nnavastrādibhiḥ samyagvyaḥ   kṣemasteṣāmannādīnāṃ caurādyupadravarakṣaṇādvāvapyetau tadāyattau nṛpāyattau syātām"
+    }
+   ]
+  },
+  {
+   "A": "Hemādri Sū",
+   "B": "Candranandana Sū",
+   "sentences": 6115,
+   "letters": 407443,
+   "pct_shared": 2.4,
+   "pct_verbatim": 0.9,
+   "pct_shared_commentary_only": 1.6,
+   "pct_shared_quotation": 0.8,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 5.6,
+    "Sū.10": 0.9,
+    "Sū.11": 0.4,
+    "Sū.12": 0.0,
+    "Sū.13": 1.7,
+    "Sū.14": 0.0,
+    "Sū.15": 0.0,
+    "Sū.16": 0.0,
+    "Sū.17": 0.0,
+    "Sū.18": 2.0,
+    "Sū.19": 2.1,
+    "Sū.2": 0.7,
+    "Sū.20": 0.0,
+    "Sū.21": 0.0,
+    "Sū.22": 0.0,
+    "Sū.23": 0.0,
+    "Sū.24": 1.7,
+    "Sū.25": 0.8,
+    "Sū.26": 0.0,
+    "Sū.27": 0.0,
+    "Sū.28": 0.6,
+    "Sū.29": 0.8,
+    "Sū.3": 0.7,
+    "Sū.30": 0.0,
+    "Sū.4": 0.0,
+    "Sū.5": 0.3,
+    "Sū.6": 5.9,
+    "Sū.7": 0.0,
+    "Sū.8": 0.4,
+    "Sū.9": 0.3
+   },
+   "examples": [
+    {
+     "verse": "Sū.1.17",
+     "score": 95.81151832460732,
+     "quote": false,
+     "text": "’ evaṃ karmaniṣṭhānumata ekarūpāvastho jāṭharāgnisaṃyogādyo rasānāṃ rasāṃtarodbhavaḥ sa eva vipāko na yo jāṭharāgnisaṃyogamātrādrasānāmanekāvasthaḥ prāṅmadhuro'naṃtaraṃ sa eva pacyamāno'mlastato vipacyamānaḥ sa eva kaṭuvipākaḥ"
+    },
+    {
+     "verse": "Sū.6.127",
+     "score": 91.37931034482759,
+     "quote": false,
+     "text": "tathā āmakaphityaguṇakathaṃ tathāvidhāni kaṣāpāmlasvabhāvāni vividha kaphityāni sadaivāmakaphityaguṇāni vedyāni pakvakaphi guṇakathanena ca tathāvidhāni mādhuryānuvidhāni pakvaguṇāni vedyāni"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 96.3855421686747,
+     "quote": false,
+     "text": "yathā—yavakapāṭalamāṣamatsyāmamūlakasarpapamaṇḍakadadhikilāṭaviruddhamatsyapayaḥprabhṛtidoṣādīnāṃ malaparyatānāṃ svapramāṇasthinānāṃ sāmyāttu vṛddhiheturyadravyaṃ tatsvasthebhyo hitam"
+    },
+    {
+     "verse": "Sū.18.11",
+     "score": 88.28125,
+     "quote": true,
+     "text": "atistrigdhasyātiyogo bhavet   krūrakoṣṭhasyauṣadhoddhatā doṣā hyapravartamānā hṛdayaśūlaparvabhedānāha—pradigurukriyamān janayitvā prāṇān hanyuḥ"
+    },
+    {
+     "verse": "Sū.3.2",
+     "score": 92.74193548387096,
+     "quote": false,
+     "text": "tatra māghaphālgunau-śiśiraḥ, caitravaiśākhau-vasantaḥ, jyeṣṭhāṣāḍhauprīṣmaḥ, śrāvaṇabhādrapadau-varṣāḥ, āśvinakārtikau-śarat, mārgapauṣau-hemantaḥ"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 97.0873786407767,
+     "quote": false,
+     "text": "vipākastrividhaḥ sarvadravyāṇāṃ pariṇāmakālabhāvī kāryānumeyo jāṭharāgnisaṃbaṃdhādrasasya svarūpāṃtaraprādurbhāvaḥ"
+    },
+    {
+     "verse": "Sū.8.55",
+     "score": 87.75510204081633,
+     "quote": false,
+     "text": "teṣāṃ hi pradūṣyāmādyayamuraskaṃṭhasthitamāhārajaṃ snehamāsādya tadabhiṣyadāmisādaccharyādīnāmayān vidadhyāt"
+    },
+    {
+     "verse": "Sū.2.1",
+     "score": 100.0,
+     "quote": false,
+     "text": "svastho nīrogaḥ kalpaḥ sa āyuṣo yathopacaritasya jīvitasya rakṣārthaṃ brāhme muhūrte uttiṣṭhedabhyutthānaṃ kuryāt"
+    },
+    {
+     "verse": "Sū.6.82",
+     "score": 87.91208791208791,
+     "quote": false,
+     "text": "saṃgrahe cānye'pyuktāḥ yathā—“satarūḍhaṃ kaṃdakaṃ ca cakṣurmāhi himaṃ guru kumārī jīvaloṇikā nalinī gucchuparṇikā"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "tadeva vibhītakasya phalaṃ yatkarṣapramāṇaṃ tadgrāhyamityavatiṣṭhate harītakyā api pramāṇaṃ niyatameva"
+    },
+    {
+     "verse": "Sū.1.26",
+     "score": 90.0,
+     "quote": false,
+     "text": "iti rogauṣadham   evaṃ tāvadanena sakalacikitsitamuktaṃ, tacca pādacatuṣṭayayuktaṃ kāryakaraṃ tadarthamāha"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "tadevamāmalakānāmardhakarṣapramāṇatvamavatiṣṭhate tasmānniyatapramāṇatvaṃ triphalāyāḥ sthitam"
+    },
+    {
+     "verse": "Sū.18.34",
+     "score": 85.0574712643678,
+     "quote": false,
+     "text": "saṃgrahe tu ityurasāmyatakamastuguḍakṛśarāsarpirnavamaśoṣṇodakapīludrākṣāpūgaphalādibhiriti"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "nanu harītakyādīnāṃ sthūlasūkṣmādibhedenāniyatasvarūpatvātkathamivopayogaḥ kriyatāmiti kecit"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 100.0,
+     "quote": false,
+     "text": "tathā mātrāśitīye'dhyāye raktaśāliṣaṣṭikayavagodhūmajāṃgalamāṃsajīvantīśākadivyodakakṣīrādi"
+    },
+    {
+     "verse": "Sū.19.6",
+     "score": 86.74698795180723,
+     "quote": false,
+     "text": "saṃghrahe tu tatrātisnigdhotkilaṣṭadoṣayordoṣānutkaleśyodaraṃ mūrchāṃ śvayaṃ vā nirūho janayet"
+    },
+    {
+     "verse": "Sū.1.13",
+     "score": 92.6829268292683,
+     "quote": false,
+     "text": "apicetiśabdād dūṣyāśceti   na kevalaṃ rasādaya eva dūṣyā yāvanmalāste'pi dhātvādibhirdūṣyata iti"
+    },
+    {
+     "verse": "Sū.18.11",
+     "score": 92.20779220779221,
+     "quote": true,
+     "text": "āśvamātasya purīṣāśaye nicito vāyurvisarpan sahasā tīvrataramādhmānaṃ maraṇaṃ vā janayet"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 88.1578947368421,
+     "quote": false,
+     "text": "yathā—tailaṃ, ghṛtaṃ, mākṣikam   tatra tailaṃ—hyeṣṭoṣṇagauravayogādvātaviparītaguṇaśamanam"
+    },
+    {
+     "verse": "Sū.2.6",
+     "score": 88.1578947368421,
+     "quote": true,
+     "text": "ajanotkaleśitaṃ nasyaiḥ kavalairnāvaneritam dhūmena kavalotthaṃ ca kramādvātakaphaṃ jayet"
+    },
+    {
+     "verse": "Sū.1.13",
+     "score": 94.66666666666667,
+     "quote": false,
+     "text": "tathā viṣmūtrādīnāṃ malasaṃjñā dūṣyasaṃjñā ceti doṣadhātumalanirdeśena deho vyākhyātaḥ"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "tatheṣattadguṇaṃ tābhyāṃ harītakīdhātrībhyāṃ, samānā guṇā yasya tattadguṇaṃ kiñcidakṣam"
+    },
+    {
+     "verse": "Sū.10.25",
+     "score": 86.11111111111111,
+     "quote": false,
+     "text": "hema suvarṇam, abhīruḥ śatāvarī, vīrā kolī, rājādanaścāraḥ, balātrayaṃ balātibalā nāga ca"
+    },
+    {
+     "verse": "Sū.19.1",
+     "score": 91.66666666666666,
+     "quote": true,
+     "text": "śarīrarohaṇādoṣanirharaṇādacityaprabhāvatayā vā asminnūhāsaṃbhavānnirūha iti"
+    },
+    {
+     "verse": "Sū.6.127",
+     "score": 88.73239436619718,
+     "quote": false,
+     "text": "s -āmaṃ kaphityaṃ kaṃṭhaṃ heti   doṣalaṃ trigopakvaṃ pakvaṃ kaphityaṃ doṣannaṃ hikkālladiharam"
+    },
+    {
+     "verse": "Sū.9.23",
+     "score": 86.76470588235294,
+     "quote": true,
+     "text": "laśuno'pi snehīṣṇyagauravaiḥ palāṃḍuśca sa tu snehagaurābhyāṃ janayati śleṣmāṇam"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 98.48484848484848,
+     "quote": true,
+     "text": "sa ca kāryānumeyaḥ   tathā ca vakṣyati—‘jāṭhareṇāgninā yogādyadudeti rasāṃtaram"
+    },
+    {
+     "verse": "Sū.19.1",
+     "score": 89.23076923076923,
+     "quote": false,
+     "text": "yataścāsau anuvasannāpi na duṣyatyanuvāsanamapi vā dīyate ityanuvāsanam"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 100.0,
+     "quote": false,
+     "text": "’ ata eva sopasargaḥ pākaśabda upāttaḥ   viśiṣṭaḥ pāko vipāko na pākamātrasvarūpaḥ"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 100.0,
+     "quote": false,
+     "text": "tathā ca bhaṭṭārakacarakamunī--‘raso vipāke dravyāṇāṃ vipākaḥ karmaniṣṭhayā"
+    },
+    {
+     "verse": "Sū.18.11",
+     "score": 88.70967741935483,
+     "quote": true,
+     "text": "rājayakṣmārtasya kṣīṇadhātutayā malabalatvāttadabhāvādehanāśaḥ syāt"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 98.27586206896551,
+     "quote": false,
+     "text": "yadvātādīn doṣān rasādīn dhātūn mūtrādīn malāṃśca kopayati tatkopanam"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "anvarthā hīyaṃ saṃjñā karṣaḥ karṣapramāṇaṃ phalaṃ yasya sa karṣaphala iti"
+    },
+    {
+     "verse": "Sū.11.39",
+     "score": 89.47368421052632,
+     "quote": true,
+     "text": "uktaṃ ca tatrāntare—“prāṇāśrayasyaujaso'ṣṭau vidavo hṛdayāśritāḥ” iti"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "taṃtrāṃtare'pyuktam navā striyā dhanā vṛttā gurvī kṣiptā tathā'bhasi"
+    },
+    {
+     "verse": "Sū.19.6",
+     "score": 94.64285714285714,
+     "quote": false,
+     "text": "kṛtanasyasyāsya vibhraṃśaṃ bhṛśavivṛtordhvasrotastathā kuryāt"
+    },
+    {
+     "verse": "Sū.6.82",
+     "score": 87.27272727272728,
+     "quote": false,
+     "text": "muninā cānye'pyuktāḥ   nyagrodhoduṃbarā'śvatthālakṣapadmādipallavāḥ"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 96.36363636363636,
+     "quote": false,
+     "text": "tathā coktaṃ taṃtrāṃtare   abhayaikā pradātavyā dvāvetu vibhītakau"
+    },
+    {
+     "verse": "Sū.13.15",
+     "score": 87.27272727272728,
+     "quote": true,
+     "text": "saṃgrahakārastvāha “ kramānmarutpittakaphān sarvatra sadṛśe bale"
+    },
+    {
+     "verse": "Sū.19.6",
+     "score": 94.54545454545455,
+     "quote": false,
+     "text": "kṣatoraskasyāpi kṛśasya ca kṣobhavyāpannaṃ śarīramāśu pīḍayet"
+    }
+   ]
+  },
+  {
+   "A": "Candranandana Sū",
+   "B": "Hemādri Sū",
+   "sentences": 6535,
+   "letters": 436624,
+   "pct_shared": 2.4,
+   "pct_verbatim": 0.9,
+   "pct_shared_commentary_only": 1.6,
+   "pct_shared_quotation": 0.8,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 4.6,
+    "Sū.10": 3.6,
+    "Sū.11": 1.2,
+    "Sū.12": 0.1,
+    "Sū.13": 1.6,
+    "Sū.14": 0.0,
+    "Sū.15": 1.7,
+    "Sū.16": 0.3,
+    "Sū.17": 0.8,
+    "Sū.18": 1.3,
+    "Sū.19": 0.8,
+    "Sū.2": 1.4,
+    "Sū.20": 0.0,
+    "Sū.21": 0.0,
+    "Sū.22": 0.0,
+    "Sū.23": 0.0,
+    "Sū.24": 0.0,
+    "Sū.25": 0.0,
+    "Sū.26": 0.0,
+    "Sū.27": 0.0,
+    "Sū.28": 0.5,
+    "Sū.29": 0.0,
+    "Sū.3": 0.5,
+    "Sū.30": 0.0,
+    "Sū.4": 0.0,
+    "Sū.5": 0.0,
+    "Sū.6": 7.3,
+    "Sū.7": 0.0,
+    "Sū.8": 0.7,
+    "Sū.9": 0.8
+   },
+   "examples": [
+    {
+     "verse": "Sū.6.127",
+     "score": 91.57303370786516,
+     "quote": false,
+     "text": "tathā āmakaphitya-kathanena tathāvidhāni kaṣāyāmlasvabhāvāni vi dhāni kaphityāni sadaivāmakaphityaguṇāni vedyāni pakvakaphityaguṇakathanena ca tathāvidhāni mādhu nuviddhāni sadā pakvaguṇāni vedyāni"
+    },
+    {
+     "verse": "Sū.19.1",
+     "score": 90.76923076923077,
+     "quote": true,
+     "text": "tathācārtheṇoktatadvayaḥsthāpanādoṣasthāpanādvā''sthāpanamityucyate śarīrarohaṇādoṣanirharaṇādacintyaprabhāvatayā'smihāsambhavānnirūha iti"
+    },
+    {
+     "verse": "Sū.18.11",
+     "score": 88.37209302325581,
+     "quote": true,
+     "text": "atistrigdhasyātiyogo bhavet   krūrakoṣṭhasyauṣadhoddhatā doṣā hyapravartamānādāhaśūlaparvabhedānāhacchādimūrdhvakṛmān janayitvā prāṇānnihanyuḥ"
+    },
+    {
+     "verse": "Sū.18.11",
+     "score": 94.21487603305785,
+     "quote": true,
+     "text": "madātyayārtasya madyakṣīṇe dehe vāyuprāṇoparodho ya ātmā tasya purīṣāśaye nicito vāyuḥ visarpan sahasā'tiprataramādhmānaṃ maraṇaṃ vā janayet"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 90.51724137931035,
+     "quote": false,
+     "text": "dravye vipākaḥ—vipākastrividhaḥ   sarvadravyāṇāṃ pariṇāmakālabhāvī kāryānumeyaḥ jāṭharāgnisambandhād dravyasya svarūpāntaraprādurbhāvaḥ"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 98.18181818181819,
+     "quote": false,
+     "text": "ṛturyādhyāye sevya-tvenoktam   tathā mātrāśitīye'dhyāye raktaśāli-ṣaṣṭikayavagodhūmajāṅgalamāṃsajīvantīśākadivyodaka-kṣīrādi"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 94.4954128440367,
+     "quote": false,
+     "text": "natu yo jāṭharāgnisaṃyogamātrāt rasānāmanekāvasthaḥ prāṅ madhuro'nantaraṃ sa eva pacyamāno'mlarūpo vipacyamānaḥ sa eva kaṭuvipākaḥ"
+    },
+    {
+     "verse": "Sū.2.1",
+     "score": 99.06542056074767,
+     "quote": false,
+     "text": "muhūrto nāḍikādvayaṃ brahmajñānaṃ tadarthamadhyayanādyapi brahma tasya yogyo muhūrto brāhmaḥ paścimayāmasya nāḍikādvayam"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 94.23076923076923,
+     "quote": false,
+     "text": "doṣādīnāṃ malaparyantānāṃ svapramāṇasthitānāṃ sāmyānuvṛttiheturyadravyaṃ tat svasthebhyo hitaṃ tacca svāsthyānuvṛttiṃ karoti"
+    },
+    {
+     "verse": "Sū.2.1",
+     "score": 100.0,
+     "quote": false,
+     "text": "svastho nīrogakalpaḥ sa āyuṣo yathopacaritasya jīvitasya rakṣārthaṃ brāhme muhūrte uttiṣṭhedabhyutthānaṃ kuryāt"
+    },
+    {
+     "verse": "Sū.1.1",
+     "score": 96.7741935483871,
+     "quote": false,
+     "text": "idamidānīṃ pṛcchayate tantrakāraḥ, yadasmintantre kiñciducyate bhavadbhistat svabuddhiparikalpitamuta netyāha"
+    },
+    {
+     "verse": "Sū.8.53",
+     "score": 86.81318681318682,
+     "quote": false,
+     "text": "teṣāṃ hi pradūṣyāmāśayoraḥkaṇṭhasthitamāhārajaṃ snehamāsādyābhiṣyandāgnisādaccharyādīnāmayān vidadhyāt"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 93.10344827586206,
+     "quote": false,
+     "text": "sa tridhaiva rasaṣaṭke'pi na ṣoḍhā   tena kiñcit svāduvipākaṃ kiñcidamlavipākaṃ kiñcitkaṭukavipākaṃ dravyam"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "nanu harītakyādīnāṃ sthūlasūkṣmādibhedenāniyatasvarūpatvāt kathamivopayogaḥ kriyatāmiti kecit"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "harītakyā api pramāṇaṃ niyatameva   taṃtrāṃtare'pyuktam “navā striyā dhanā vṛttā gurvī kṣiptā tathā'bhasi"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 98.80952380952381,
+     "quote": false,
+     "text": "yathā yavakapāṭalamāṣamatsyā-mamūlakasarṣapamaṃḍakadadhikilāṭaviruddhamatsyapayaḥ prabhṛti"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 97.59036144578313,
+     "quote": false,
+     "text": "” evaṃ karmaniṣṭhānumita ekarūpāvastho jāṭharāgnisaṃyogādyo rasānāṃ rasāntarodbhavaḥ sa eva vipākaḥ"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 85.0,
+     "quote": false,
+     "text": "yathā tailaṃ ghṛtaṃ mākṣikam   tatra tailaṃ snehauṣṇyagauravayogādvātaṃ tadviparītaguṇaṃ śamayati"
+    },
+    {
+     "verse": "Sū.13.15",
+     "score": 94.8051948051948,
+     "quote": true,
+     "text": "kaphapittānilānanye kramādāddhastayorapi yasmādāmāśayotkleśā bhūyiṣṭhaṃ tatsamudbhavaḥ"
+    },
+    {
+     "verse": "Sū.1.13",
+     "score": 94.73684210526316,
+     "quote": false,
+     "text": "apicetiśabdāddūṣyāśceti   na kevalaṃ rasādaya eva dūṣyāḥ yāvanmalāḥ te'pi vātādibhirdūṣyante"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "tatheṣattadguṇaṃ tābhyāṃ harītakīdhātrībhyāṃ samānā guṇā yasya tattadguṇaṃ kiñcidakṣam"
+    },
+    {
+     "verse": "Sū.9.23",
+     "score": 88.57142857142857,
+     "quote": false,
+     "text": "pippalī ca laśuno snehīṣṇyagauravaiḥ, palāṇḍuśca snehagauravābhyāṃ jayati śleṣmāṇam"
+    },
+    {
+     "verse": "Sū.18.11",
+     "score": 89.39393939393939,
+     "quote": true,
+     "text": "rājayakṣmārtasya kṣīṇadhātutayā svalpavalatvena tadabhāvādehanāśaḥ syāt"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 100.0,
+     "quote": false,
+     "text": "’ ata eva sopasargaḥ pākaśabda upāttaḥ   viśiṣṭaḥ pāko vipāko na pākamātrasvarūpaḥ"
+    },
+    {
+     "verse": "Sū.1.17",
+     "score": 100.0,
+     "quote": false,
+     "text": "tathāca bhaṭṭārakacarakamunī--‘raso vipāke dravyāṇāṃ vipākaḥ karmaniṣṭhayā"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "tadeva vibhītakasya phalaṃ yatkarṣapramāṇaṃ tadgrāhyamityavatiṣṭhate"
+    },
+    {
+     "verse": "Sū.10.25",
+     "score": 88.70967741935483,
+     "quote": false,
+     "text": "medā—mahāme-catasraḥ parṇinyaḥ—śāliparṇī, pṛṣṭhinaparṇī, mudgapa māṣaparṇī"
+    },
+    {
+     "verse": "Sū.19.1",
+     "score": 88.52459016393442,
+     "quote": false,
+     "text": "yataścānuvasannapi na duṣyati anuvāsanamapi vā dīyata ityanuvāsanam"
+    },
+    {
+     "verse": "Sū.13.15",
+     "score": 95.0,
+     "quote": true,
+     "text": "pūrvaṃ yataḥ svābhāvikaṃ balam   ūce parāśaro hyarthamamumeva pramāṇayan"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 98.27586206896551,
+     "quote": false,
+     "text": "yadvātādīn doṣān rasādīn dhātūn mūtrādīn malāṃśca kopa-yati tatkopanam"
+    },
+    {
+     "verse": "Sū.6.82",
+     "score": 86.20689655172413,
+     "quote": true,
+     "text": "saṃgrahe tvanye'pyuktāḥ   yathāsatarūḍhaṃ kadaṃbaṃ ca rūkṣaṃ grāhi himaṃ guru"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 100.0,
+     "quote": false,
+     "text": "anvarthā hīyaṃ saṃjñā   karṣaḥ karṣapramāṇaṃ phalaṃ yasya sa karṣaphala iti"
+    },
+    {
+     "verse": "Sū.11.41",
+     "score": 87.93103448275862,
+     "quote": false,
+     "text": "yaduktaṃ tannāntare—“prāṇāśrayasyaujaso'ṣṭau vindavo hṛdayāśrayāḥ” iti"
+    },
+    {
+     "verse": "Sū.6.158",
+     "score": 96.49122807017544,
+     "quote": false,
+     "text": "tathā coktaṃ tantrāntare--“abhayaikā pradātavyā dvāvetu tu vibhītakau"
+    },
+    {
+     "verse": "Sū.9.23",
+     "score": 91.22807017543859,
+     "quote": true,
+     "text": "lavaṇaṃ saindhavaṃ svādupākatayā pittaṃ jayati lāghavāt, kaphaṃ kaṭukāt"
+    },
+    {
+     "verse": "Sū.17.10",
+     "score": 92.72727272727272,
+     "quote": false,
+     "text": "dravasvedastu dvividhaḥ   pariṣeko'vagāhaśca tatra pariṣeka uktaḥ"
+    },
+    {
+     "verse": "Sū.6.82",
+     "score": 86.79245283018868,
+     "quote": false,
+     "text": "muninā cānye'pyuktāḥ   moghodumbarāśvatthaprakṣapadmādipallavāḥ"
+    },
+    {
+     "verse": "Sū.19.1",
+     "score": 86.79245283018868,
+     "quote": true,
+     "text": "urabastirapi snehānvāsanavacchodhanaḥ nirūhavadapi kecidāhuḥ"
+    },
+    {
+     "verse": "Sū.19.6",
+     "score": 94.33962264150944,
+     "quote": true,
+     "text": "kṣatoraskasyātikṛśasya kṣobhavyāpannaṃ śarīramāśu pīḍayet"
+    },
+    {
+     "verse": "Sū.19.6",
+     "score": 94.33962264150944,
+     "quote": false,
+     "text": "kṛtanasyasya vibhraṃśaṃ bhṛśaṃ vivṛtordhvasrotastathā kuryāt"
+    }
+   ]
+  },
+  {
+   "A": "Hemādri Sū",
+   "B": "Aruṇadatta Sū",
+   "sentences": 6115,
+   "letters": 407443,
+   "pct_shared": 1.8,
+   "pct_verbatim": 0.5,
+   "pct_shared_commentary_only": 1.0,
+   "pct_shared_quotation": 0.7,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 2.8,
+    "Sū.10": 0.0,
+    "Sū.11": 0.3,
+    "Sū.12": 0.4,
+    "Sū.13": 0.0,
+    "Sū.14": 0.0,
+    "Sū.15": 0.2,
+    "Sū.16": 2.2,
+    "Sū.17": 4.2,
+    "Sū.18": 0.3,
+    "Sū.19": 0.2,
+    "Sū.2": 0.0,
+    "Sū.20": 2.4,
+    "Sū.21": 0.0,
+    "Sū.22": 0.0,
+    "Sū.23": 0.0,
+    "Sū.24": 0.0,
+    "Sū.25": 0.0,
+    "Sū.26": 0.0,
+    "Sū.27": 0.0,
+    "Sū.28": 0.0,
+    "Sū.29": 2.2,
+    "Sū.3": 0.0,
+    "Sū.30": 0.0,
+    "Sū.4": 0.0,
+    "Sū.5": 1.8,
+    "Sū.6": 3.4,
+    "Sū.7": 0.0,
+    "Sū.8": 0.7,
+    "Sū.9": 0.0
+   },
+   "examples": [
+    {
+     "verse": "Sū.1.33",
+     "score": 96.2962962962963,
+     "quote": false,
+     "text": "pratyākhyeya iti yāvat   ko'sāvanupakramo'tyantaviparyaye sthitaḥ yo gado yāpyalakṣaṇādavaśiṣṭādāyuḥśeṣarūpādatyantaviparyaye sthitaḥ sarvakriyāpathātikrānto majjāśukrādigamīradhātugato marmasaṃdhisamāśritaḥ so'nupakrama evācikitsyaḥ sādhayitumaeśakyatvāttathautsukyakṛdapi"
+    },
+    {
+     "verse": "Sū.17.11",
+     "score": 93.43065693430657,
+     "quote": false,
+     "text": "kadetyāha—sarvaśarīravyāpini vāyau tathā arśaḥ—prabhṛtirogapīḍāsu ādiprahaṇena hastapādapīḍāsu kuṇḍaprahaṇamupalakṣaṇārthaṃ tena kūpakuṭī svedau ca vedau"
+    },
+    {
+     "verse": "Sū.20.14",
+     "score": 91.72932330827068,
+     "quote": true,
+     "text": "cale vāyau saṃgrahe tu lālāsnāvasutapralāpadaṃtakaṭakaṭāyanakrathanakṛcchronmīlanapūtimukhakarṇanādatṛṣṇārditaśirorogaśvāsonnidreṣu rātrāviti"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 86.40776699029126,
+     "quote": true,
+     "text": "akāladurdine sahasreva śaityācchirorugvepadhustaimityatālunetrakaṃḍūpākamanyāstaṃbhakaṃṭharogapratiśyāyārūpikāḥ"
+    },
+    {
+     "verse": "Sū.8.55",
+     "score": 86.73469387755102,
+     "quote": false,
+     "text": "teṣāṃ hi pradūṣyāmādyayamuraskaṃṭhasthitamāhārajaṃ snehamāsādya tadabhiṣyadāmisādaccharyādīnāmayān vidadhyāt"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 88.77551020408163,
+     "quote": true,
+     "text": "teṣu yathāsvamāyatanaṃ doṣodrekaṃ cāpekṣya snehasvedaśirovakatralepasekatīkṣṇāvapīḍadhūmagaṃḍūpādīnācaret"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 95.78947368421052,
+     "quote": true,
+     "text": "balavidāryaśumatīmedābhirvā   ebhireva ca śṛtaṃ havirvātaharaṃ siddhaśca snehaḥ śirovastau karṇapūraṇe ca yojyaḥ"
+    },
+    {
+     "verse": "Sū.30.26",
+     "score": 94.56521739130434,
+     "quote": true,
+     "text": "tathā—atyuṣṇo'tiśīto'titīkṣṇo'timṛduratitatturatidhano'tipicchilo'tivisarpī hīnauṣadho hīnapākaścetīti"
+    },
+    {
+     "verse": "Sū.9.11",
+     "score": 90.80459770114942,
+     "quote": true,
+     "text": "tathā anilātmakaṃ grāhi, analātmakaṃ dīpa napācanam, ubhayātmakaṃ lekhanaṃ, bhūsyudakātmakaṃ bṛhaṇābhiti"
+    },
+    {
+     "verse": "Sū.20.23",
+     "score": 93.97590361445783,
+     "quote": true,
+     "text": "tathāhi śirorukprati-dayāyakāsatimirakhalatipalitavyaṃgatilakālakamukhadūṣakāṇāṃ sambhavaḥ"
+    },
+    {
+     "verse": "Sū.29.27",
+     "score": 91.56626506024097,
+     "quote": false,
+     "text": "saṃgrahe tu nātibhṛṣṭayavasaktubhirghṛtāktairbhojanānte'bhasā dakṣiṇāṃgulibhiḥ sumṛditairiti"
+    },
+    {
+     "verse": "Sū.12.75",
+     "score": 85.71428571428572,
+     "quote": false,
+     "text": "yathā—vāyuḥ kṣīṇa pittakaphau vṛddhau, pittaṃ kṣīṇaṃ kaphavāyū vṛddhau, kapha kṣīṇo vāyupitte vṛddhe"
+    },
+    {
+     "verse": "Sū.16.24",
+     "score": 100.0,
+     "quote": false,
+     "text": "jaraṇāṃtaṃ pratīkṣeta tṛṣyantuṣṇātpavāripaḥ śirorubhramaniṣṭhīvamūrchādāhā'rucikramaiḥ"
+    },
+    {
+     "verse": "Sū.5.62",
+     "score": 98.66666666666667,
+     "quote": true,
+     "text": "tuvarāruṣkarotthaṃ ca tīkṣṇaṃ kaṭumlapittakṛt arśaḥkuṣṭhakṛmiśleṣmaśukramedo'nilāpaham"
+    },
+    {
+     "verse": "Sū.5.62",
+     "score": 97.33333333333334,
+     "quote": true,
+     "text": "pittaśleṣmapraśamanaṃ śrīparṇīkiśukodbhavam tilatailaṃ varaṃ teṣu kausumbhamavaraṃ param"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 85.13513513513513,
+     "quote": false,
+     "text": "kriṣeṇa tu garbhiṇī rukṣe nasyakarmaṇi varṣābhūkākolīkapikacchūbhiḥ śṛtaṃ payaḥ pitret"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 90.0,
+     "quote": false,
+     "text": "cittanāśo'jñānam   aratirna kutracidanavāsthitiḥ sthānāsanādiṣvanirvṛtiścetasaḥ"
+    },
+    {
+     "verse": "Sū.29.28",
+     "score": 89.55223880597015,
+     "quote": false,
+     "text": "” vastrakṣatarujāyāṃ tu pratatāyāṃ tu yaṣṭimadhukasarpiṣoṣṇena braṇaṃ siṃcet iti"
+    },
+    {
+     "verse": "Sū.20.23",
+     "score": 87.09677419354838,
+     "quote": false,
+     "text": "atiśītaṃ—hīna dhān atyunnataśiraso'pi samyakchiro'pratipadyamānaṃ tāneva"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 88.33333333333333,
+     "quote": false,
+     "text": "tathākṣanāśana iti   akṣāṇīndriyāṇyucyante cakṣurādīni tāni vināśayati"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 100.0,
+     "quote": false,
+     "text": "yaḥ śīghramindriyavivātakṛt   evaṃ purā parīkṣya vyādhicikitsāmārameta"
+    },
+    {
+     "verse": "Sū.20.23",
+     "score": 92.85714285714286,
+     "quote": false,
+     "text": "na ca nasye niṣicyamāne kopahārāvyāhāraspandanocchindanānyācaret"
+    },
+    {
+     "verse": "Sū.8.20",
+     "score": 96.36363636363636,
+     "quote": true,
+     "text": "tvakpatrarāsnāguruśiśukuṣṭhairamlaprapiṣṭaiḥ savacāśatāhaiḥ"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 100.0,
+     "quote": false,
+     "text": "autsukyaṃ ca mohaścāratiśca tāḥ karotītyautsukyamohāratikṛt"
+    },
+    {
+     "verse": "Sū.11.39",
+     "score": 86.53846153846155,
+     "quote": true,
+     "text": "tathā carako'pi—“hṛdi tiṣṭhati yacchuddhaṃ raktamīṣatsapītakam"
+    },
+    {
+     "verse": "Sū.29.28",
+     "score": 90.19607843137256,
+     "quote": false,
+     "text": "saṃgrahe—“vātaleṣmodbhavāṃstatra dvistriyāṃ veṣṭayedbraṇān"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 86.0,
+     "quote": true,
+     "text": "uktaṃ hi saṃgrahe—“dattvālpaṃ sukhamalpena hetunā sa pratanyate"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 90.0,
+     "quote": false,
+     "text": "tathā ca granthaḥ—“vyādhiṃ purā parīkṣeta cārameta tataḥ kriyām"
+    },
+    {
+     "verse": "Sū.8.20",
+     "score": 94.0,
+     "quote": false,
+     "text": "udvatenaṃ khalivisūcikāgnaṃ tailaṃ vipakvaṃ ca tadarthakāri"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 91.30434782608697,
+     "quote": true,
+     "text": "apatyaṃ ca vyaṃgavikalaidriyamunmādāpasmārayuktaṃ vā"
+    },
+    {
+     "verse": "Sū.20.38",
+     "score": 88.88888888888889,
+     "quote": true,
+     "text": "ghanonnataprasannatvakūrskadhaprīvā''syavakṣasaḥ"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 90.9090909090909,
+     "quote": false,
+     "text": "prapatanniva viṣkamairdhāryatetrāturo hitaiḥ” iti"
+    },
+    {
+     "verse": "Sū.17.14",
+     "score": 93.02325581395348,
+     "quote": false,
+     "text": "mudguḥ karaiśca sajalaiḥ svidyato hṛdayaṃ spṛśet” ita"
+    },
+    {
+     "verse": "Sū.5.62",
+     "score": 100.0,
+     "quote": true,
+     "text": "viśeṣātkṛmikuṣṭhaghne tathordhvādhovirecane"
+    },
+    {
+     "verse": "Sū.6.171",
+     "score": 90.47619047619048,
+     "quote": true,
+     "text": "laghu tṛṣṇāpahaṃ hṛdyaṃ vaktradaurgandhyanāśanam"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 100.0,
+     "quote": true,
+     "text": "svārthavidyāyaśohānimanyathā dhruvamāpnuyāt”"
+    },
+    {
+     "verse": "Sū.6.42",
+     "score": 92.6829268292683,
+     "quote": false,
+     "text": "pramehakṣayakuṣṭhādyā na ca syurmanthapāyinām"
+    },
+    {
+     "verse": "Sū.6.171",
+     "score": 85.36585365853658,
+     "quote": false,
+     "text": "sairyakastikamadhuraḥ striyoṣṇakaphavātajit"
+    },
+    {
+     "verse": "Sū.6.171",
+     "score": 87.8048780487805,
+     "quote": false,
+     "text": "kaphadhanamuṣṇavīryaṃ ca kuṃkumaṃ braṇaśodhanam"
+    },
+    {
+     "verse": "Sū.8.20",
+     "score": 90.2439024390244,
+     "quote": true,
+     "text": "ghṛtatailaṃ pacetsāmlaistacca khalighnamuttamam"
+    }
+   ]
+  },
+  {
+   "A": "Aruṇadatta Sū",
+   "B": "Hemādri Sū",
+   "sentences": 7193,
+   "letters": 428251,
+   "pct_shared": 1.9,
+   "pct_verbatim": 0.6,
+   "pct_shared_commentary_only": 0.9,
+   "pct_shared_quotation": 1.0,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Sū.1": 2.8,
+    "Sū.10": 1.4,
+    "Sū.11": 0.3,
+    "Sū.12": 0.2,
+    "Sū.13": 0.0,
+    "Sū.14": 0.0,
+    "Sū.15": 1.9,
+    "Sū.16": 0.5,
+    "Sū.17": 2.0,
+    "Sū.18": 0.0,
+    "Sū.19": 0.4,
+    "Sū.2": 0.0,
+    "Sū.20": 0.0,
+    "Sū.21": 0.0,
+    "Sū.22": 0.0,
+    "Sū.23": 0.0,
+    "Sū.24": 0.0,
+    "Sū.25": 0.0,
+    "Sū.26": 0.0,
+    "Sū.27": 0.0,
+    "Sū.28": 0.4,
+    "Sū.29": 0.9,
+    "Sū.3": 0.0,
+    "Sū.30": 0.0,
+    "Sū.4": 0.0,
+    "Sū.5": 0.9,
+    "Sū.6": 3.6,
+    "Sū.7": 0.0,
+    "Sū.8": 1.0,
+    "Sū.9": 0.2
+   },
+   "examples": [
+    {
+     "verse": "Sū.1.33",
+     "score": 97.0873786407767,
+     "quote": false,
+     "text": "pratyākhyeya iti yāvat   ko'sāvanupakramo yo'tyaṃtaviparyaye sthitaḥ yo'rthādyāpyalakṣaṇādavaśiṣṭāyuḥśeṣarūpādatyaṃtaviparyaye sthitaḥ sarvakriyāpathātikrāṃto majjāśukrādigamīradhātugato marmasaṃdhisamāśritaḥ so'nupakrama evācikitsyaḥ"
+    },
+    {
+     "verse": "Sū.29.40",
+     "score": 87.66233766233766,
+     "quote": true,
+     "text": "magnahe coktam   navadhānyaṃ viṣṭaṃbhi māṣakalāyakulatthaniṣpāvaśivīśītāṃbumadyeśukṣīrapiṣṭatilavikṛtiśuṣkaśākapiśitaharitakāmlalavaṇakaṭukakṣārānūpāmiṣāṇi varjayediti"
+    },
+    {
+     "verse": "Sū.20.14",
+     "score": 91.66666666666666,
+     "quote": true,
+     "text": "saṃgrahe viśeṣaḥ   lālāsnāvasutipralāpadaṃtakaṭakaṭāyanakrathanakṛcchronmīlanapūtimukhakarṇanādatṛṣṇārditaśirorogaśvāsakāsonnidreṣu rātrāviti"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 90.0,
+     "quote": false,
+     "text": "akṣāṇīndriyāṇyucyate   cakṣurādīnyapi nāśayati so'kṣanāśanaḥ indriyoparodhī rogo'nupakramo yaḥ śīghramindriyavivātakṛt"
+    },
+    {
+     "verse": "Sū.5.65",
+     "score": 86.5979381443299,
+     "quote": true,
+     "text": "” tathācalakālasātyaprakṛtisahāyāṃ mayavayāṃsi pravi-bhajya tadanurūpaṃ yaḥ pibati tataḥ pibatyamṛtaṃ tadeva madyam"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 95.78947368421052,
+     "quote": true,
+     "text": "balāvidāryaśumatīmedābhirvaibhireva ca śṛtaṃ havirvātaharasiddhaśca snehaśirobastau karṇapūraṇe ca yojyaḥ"
+    },
+    {
+     "verse": "Sū.20.21",
+     "score": 91.76470588235294,
+     "quote": true,
+     "text": "tathāhi śirorukpratiśyāyakāsatimirakhalitapalitavyaṃgatilakālakamukhadūṣakānāṃ saṃbhava iti"
+    },
+    {
+     "verse": "Sū.29.27",
+     "score": 89.1566265060241,
+     "quote": false,
+     "text": "nātibhṛṣṭayavasaktubhirghṛtāktairbhojanāṃtai'bhasā dakṣiṇāṃgulibhiḥ sumṛditairavacchādyeti"
+    },
+    {
+     "verse": "Sū.30.25",
+     "score": 96.3855421686747,
+     "quote": true,
+     "text": "atyuṣṇo'tiśīto'titīkṣṇo'timṛduratitanuratidhano'tipicchilo visarpī hīnauṣadho hīnapākaśceti"
+    },
+    {
+     "verse": "Sū.20.20",
+     "score": 86.8421052631579,
+     "quote": true,
+     "text": "tadvi doṣānutkaleśyānirharadvauravārucikāsaprasekapīnasacchardikaṃṭharogān kuryāt"
+    },
+    {
+     "verse": "Sū.17.11",
+     "score": 93.15068493150685,
+     "quote": false,
+     "text": "taireva pūrvoktaiḥ svedadravaiḥ pūrṇaṃ kuṃḍaṃ bhṛśamavagāhya praviśyā''nuro rogī tiṣṭhet"
+    },
+    {
+     "verse": "Sū.6.171",
+     "score": 86.11111111111111,
+     "quote": true,
+     "text": "tuthakaṃ kaṭukaṃ kṣāraṃ kaṣāyaṃ viṣadaṃ laghulekhanaṃ bhedi cakṣuṣyaṃ kaṇḍūkamiviṣāpaham"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 98.59154929577466,
+     "quote": true,
+     "text": "śiraḥsnātasya śiro'kṣikarṇaśūlakaṃṭharogapīnasahanumanyāstaṃbhārditaśiraḥkaṃpān"
+    },
+    {
+     "verse": "Sū.8.46",
+     "score": 100.0,
+     "quote": false,
+     "text": "kaṭuṃ lavaṇamalaṃ vā pūrvamāhāramāharet āhāro madhuro hyagre guru viṣṭamya jīryati"
+    },
+    {
+     "verse": "Sū.29.28",
+     "score": 88.57142857142857,
+     "quote": true,
+     "text": "sathoktam   śastrakṣatarujāyāṃ tu pratatāyāṃ yaṣṭīmadhukasarpiṣoṣṇena braṇaṃ siṃcet"
+    },
+    {
+     "verse": "Sū.1.16",
+     "score": 87.6923076923077,
+     "quote": false,
+     "text": "tatra teṣu raseṣu madhya ādyāstrayaḥ svādvamlalavaṇāmārutaṃ ghnaṃti śamayati"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 88.33333333333333,
+     "quote": false,
+     "text": "aratirasukhaṃ na kutracidavasthitiḥ sthānāsanādiṣvanirvṛtiścetasaḥ"
+    },
+    {
+     "verse": "Sū.6.58",
+     "score": 89.47368421052632,
+     "quote": false,
+     "text": "tathā ca saṃgrahe   dhanvānūpavicāritvāt stigdhoṣṇagururbṛṃhaṇa iti"
+    },
+    {
+     "verse": "Sū.6.104",
+     "score": 87.71929824561404,
+     "quote": false,
+     "text": "tatpāṭhe   mahatpunaḥ rūkṣoṣṇaṃ kaṭukaṃ svādu vipāke sarvadoṣakṛditi"
+    },
+    {
+     "verse": "Sū.5.13",
+     "score": 89.28571428571429,
+     "quote": false,
+     "text": "tathā ca saṃgrahe dhanvānūpamahīdhrāṇāṃ sāmīpyādgurulāghavamiti"
+    },
+    {
+     "verse": "Sū.8.17",
+     "score": 94.64285714285714,
+     "quote": true,
+     "text": "svakpatrarāsnāguruśimukuṣṭhairamlaprapiṣṭaiḥ savacāśatāhvaiḥ"
+    },
+    {
+     "verse": "Sū.17.11",
+     "score": 94.64285714285714,
+     "quote": false,
+     "text": "ādiprahaṇena hastapādapīḍāsu vā   kuṃḍaprahaṇamupalakṣaṇārtham"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 100.0,
+     "quote": false,
+     "text": "autsukyaṃ ca mohaścāratiśca tāḥ karotītyautsukyamohāratikṛt"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 86.79245283018868,
+     "quote": false,
+     "text": "autsukyaṃ garvādiviṣayotkaṃṭhā   moho vaicityaṃ cittanāśo'jñānam"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 88.46153846153845,
+     "quote": false,
+     "text": "tathā ca graṃthaḥ—“vyādhiṃ purā parīkṣyaivamārameta tataḥ kriyām"
+    },
+    {
+     "verse": "Sū.3.44",
+     "score": 86.27450980392157,
+     "quote": true,
+     "text": "vakṣyati tu   caya prakopapraśamā vāyorprīṣmādiṣu triṣviti"
+    },
+    {
+     "verse": "Sū.1.32",
+     "score": 86.0,
+     "quote": true,
+     "text": "tathā ca graṃthaḥ—“dattvālpaṃ sukhamalpena hetunā sa prajāyate"
+    },
+    {
+     "verse": "Sū.1.33",
+     "score": 86.0,
+     "quote": false,
+     "text": "na vidyata upakramaḥ pratīkāro yasya so'nupakramo'cikitsyaḥ"
+    },
+    {
+     "verse": "Sū.5.43",
+     "score": 86.0,
+     "quote": false,
+     "text": "tathā saṃgrahe bhyaḥ śītaḥ pavanajiddhuktaṃ vātaprakopana iti"
+    },
+    {
+     "verse": "Sū.12.75",
+     "score": 86.0,
+     "quote": false,
+     "text": "vātaḥ kṣīṇa pittakaphau vṛddhau   pittaṃ kṣīṇaṃ vātakaphau vṛddhau"
+    },
+    {
+     "verse": "Sū.10.42",
+     "score": 91.66666666666666,
+     "quote": true,
+     "text": "madhuralavaṇatiktakaṭukaḥ   madhuralavaṇatiktakāṣāyaḥ"
+    },
+    {
+     "verse": "Sū.20.13",
+     "score": 87.5,
+     "quote": true,
+     "text": "apaye ca vyaṃgaṃ vikaledriyamunmādāpasmārayuktaṃ vā syām"
+    },
+    {
+     "verse": "Sū.19.6",
+     "score": 97.87234042553192,
+     "quote": true,
+     "text": "kṛtavamanavirekayoḥ suriktaṃ dehaṃ kṣataṃ kṣāra iva dahet"
+    },
+    {
+     "verse": "Sū.20.38",
+     "score": 85.1063829787234,
+     "quote": true,
+     "text": "ghanonnataprasanna tvakskaṃdhaprīvāsyavakṣo yeṣāṃ te"
+    },
+    {
+     "verse": "Sū.10.42",
+     "score": 91.30434782608697,
+     "quote": true,
+     "text": "yathā   madhurāmlalavaṇatiktaḥ   madhurāmlalavaṇakaṭukaḥ"
+    },
+    {
+     "verse": "Sū.16.24",
+     "score": 92.85714285714286,
+     "quote": true,
+     "text": "anulomānilasvāsthyakṣuttṛṣṇodgāraśuddhibhiriti"
+    },
+    {
+     "verse": "Sū.29.28",
+     "score": 97.72727272727273,
+     "quote": false,
+     "text": "vātaleṣmodbhavāṃstatra dvistriyāṃ veṣṭayedbraṇān"
+    },
+    {
+     "verse": "Sū.6.171",
+     "score": 86.04651162790698,
+     "quote": true,
+     "text": "sairyakastiktamadhuraḥ snigdhoṣṇaḥ kaphavānajit"
+    },
+    {
+     "verse": "Sū.10.25",
+     "score": 90.69767441860466,
+     "quote": true,
+     "text": "śāliparṇī pṛṣṭhinaparṇī mudga-parṇī māṣaparṇī ca"
+    },
+    {
+     "verse": "Sū.15.44",
+     "score": 88.37209302325581,
+     "quote": false,
+     "text": "ātīraso bolaḥ   śuktirnakhaḥ   vyāghranakhaḥ samudrajaḥ"
+    }
+   ]
+  },
+  {
+   "A": "Hemādri Ni/Ci/Ka/Śā",
+   "B": "Aruṇadatta Ni/Ci/Ka/Śā",
+   "sentences": 4628,
+   "letters": 207367,
+   "pct_shared": 0.4,
+   "pct_verbatim": 0.2,
+   "pct_shared_commentary_only": 0.1,
+   "pct_shared_quotation": 0.2,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Ci.1": 0.0,
+    "Ci.2": 0.0,
+    "Ci.3": 0.0,
+    "Ci.4": 0.6,
+    "Ci.5": 0.0,
+    "Ci.6": 0.0,
+    "Ci.7": 0.0,
+    "Ka.1": 0.8,
+    "Ka.2": 0.7,
+    "Ka.3": 0.0,
+    "Ka.4": 0.0,
+    "Ka.5": 0.0,
+    "Ka.6": 0.0,
+    "Ni.1": 0.0,
+    "Ni.2": 0.7,
+    "Ni.3": 0.0,
+    "Ni.4": 0.0,
+    "Ni.5": 0.0,
+    "Ni.6": 0.0
+   },
+   "examples": [
+    {
+     "verse": "Ka.2.40",
+     "score": 95.65217391304348,
+     "quote": false,
+     "text": "kola-badaram, dhātrīphala-āmalakam, tayorambunī-svarasau"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 97.67441860465115,
+     "quote": true,
+     "text": "pralāpo glānirarucirasthisthe tvasthibhedanam"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 95.23809523809523,
+     "quote": true,
+     "text": "tṛd glāni sṛṣṭavarcastvamantardāho bhramastama"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 95.23809523809523,
+     "quote": true,
+     "text": "stabdhāṅga śleṣmabhūyiṣṭho bhavedvātabalāsaka"
+    },
+    {
+     "verse": "Ci.4.5",
+     "score": 88.09523809523809,
+     "quote": false,
+     "text": "dadhyuttareṇa-dadhisareṇa   vamanamāha-dadyāditi"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 90.2439024390244,
+     "quote": true,
+     "text": "dorgandhya gātravikṣepo māsasthe, medasi sthite"
+    },
+    {
+     "verse": "Ni.5.28",
+     "score": 100.0,
+     "quote": true,
+     "text": "kuryādagacchanmāṃsādīnasṛk cordhvaṃ pradhāvati"
+    },
+    {
+     "verse": "Ni.5.28",
+     "score": 97.5,
+     "quote": true,
+     "text": "vidahyamānaḥ svasthāne rasastāstānupadravān"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.3076923076923,
+     "quote": false,
+     "text": "doṣapravṛttirurdhvāva śvāso vikṣepakūjanam"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.3076923076923,
+     "quote": true,
+     "text": "śukrapravṛttirmṛtyuśca jāyate śukrasaśraye"
+    },
+    {
+     "verse": "Ka.1.25",
+     "score": 87.17948717948718,
+     "quote": false,
+     "text": "āpodhya-jarjarīkṛtya   tikottamasya-paṭolasya"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.10526315789474,
+     "quote": true,
+     "text": "khedo'titṛṣṇā vamana svagandhasyāmahiṣṇutā"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 91.89189189189189,
+     "quote": true,
+     "text": "dāharāgabhramamadapralāpā raktasaśrite"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": true,
+     "text": "tamaso darśana marmacchedana stabdhamedtā"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 91.89189189189189,
+     "quote": false,
+     "text": "uttarottaradu sādhyā pañcāntyau tu vivarjayet"
+    },
+    {
+     "verse": "Ni.1.5",
+     "score": 86.11111111111111,
+     "quote": true,
+     "text": "auṣadhānnavihārāṇāmupayogaṃ sukhāvaham"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": false,
+     "text": "antardāho bahi śailya śvāso hinmā ca majage"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": true,
+     "text": "arocako vami sāda sarvasmin rasage jvare"
+    },
+    {
+     "verse": "Ka.1.12",
+     "score": 90.32258064516128,
+     "quote": true,
+     "text": "” iti kaṃphacchardiprasekatamakeṣu tu"
+    }
+   ]
+  },
+  {
+   "A": "Aruṇadatta Ni/Ci/Ka/Śā",
+   "B": "Hemādri Ni/Ci/Ka/Śā",
+   "sentences": 5198,
+   "letters": 321182,
+   "pct_shared": 0.3,
+   "pct_verbatim": 0.1,
+   "pct_shared_commentary_only": 0.1,
+   "pct_shared_quotation": 0.2,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "Ci.1": 0.2,
+    "Ci.2": 0.0,
+    "Ci.22": 0.0,
+    "Ci.3": 0.0,
+    "Ci.4": 0.0,
+    "Ci.5": 0.0,
+    "Ci.6": 0.0,
+    "Ci.7": 0.0,
+    "Ka.1": 0.0,
+    "Ka.2": 0.6,
+    "Ka.3": 0.0,
+    "Ka.4": 0.0,
+    "Ka.5": 0.0,
+    "Ka.6": 0.0,
+    "Ni.1": 0.3,
+    "Ni.16": 0.0,
+    "Ni.2": 0.5,
+    "Ni.3": 0.0,
+    "Ni.4": 0.0,
+    "Ni.5": 0.0,
+    "Ni.6": 0.0,
+    "Śā.6": 0.0
+   },
+   "examples": [
+    {
+     "verse": "Ka.6.29",
+     "score": 93.87755102040816,
+     "quote": true,
+     "text": "] dharaṇa tu palasya daśamo bhāga   māṣakasya tu paryāyo hema"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 91.30434782608697,
+     "quote": true,
+     "text": "stabdhāṅga śleṣmabhūyiṣṭho bhavedvātabalāssaṃskṛta"
+    },
+    {
+     "verse": "Ka.2.40",
+     "score": 95.55555555555556,
+     "quote": false,
+     "text": "(kola-badaram, vātrīphala-āmalakam, tayorambunī-svarasau"
+    },
+    {
+     "verse": "Ni.1.6",
+     "score": 90.9090909090909,
+     "quote": false,
+     "text": "hetuvyādhiviparyastānā viparyastārthakāriṇā ca"
+    },
+    {
+     "verse": "Ni.5.28",
+     "score": 90.9090909090909,
+     "quote": true,
+     "text": "nanu, \"vidahyamānaḥ svasthāne rasastāstānupadravān"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 95.34883720930233,
+     "quote": true,
+     "text": "tṛṇa glāni sṛṣṭavarcastvamantardāho bhramastama"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 97.67441860465115,
+     "quote": true,
+     "text": "pralāpo glānirarucirasthisthe tvasthibhedanam"
+    },
+    {
+     "verse": "Ni.1.6",
+     "score": 100.0,
+     "quote": true,
+     "text": "hetuvyādhiviparyastaviparyastārthakāriṇām"
+    },
+    {
+     "verse": "Ni.5.28",
+     "score": 100.0,
+     "quote": true,
+     "text": "kuryādagacchanmāsādīnasṛk cordhvaṃ pradhāvati"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 85.0,
+     "quote": false,
+     "text": "asthisthe tvasthimedana doṣapravṛttirityādi"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.3076923076923,
+     "quote": false,
+     "text": "doṣapravṛttirurdhvāva śvāsāṅgākṣepakūjanam"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.10526315789474,
+     "quote": true,
+     "text": "dāharāgabhramamadapralāpā raktasaṃsthite"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 94.73684210526316,
+     "quote": true,
+     "text": "dāhanya gātravikṣepo māsasthe, medasi sthite"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.10526315789474,
+     "quote": false,
+     "text": "śukrapravṛttirmṛtyuśca agate śukrasaśraye"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 92.10526315789474,
+     "quote": true,
+     "text": "uttarottaradu sādhyā pañcātrāntyau tu varjayet"
+    },
+    {
+     "verse": "Ci.1.92",
+     "score": 86.8421052631579,
+     "quote": false,
+     "text": "paittike jvare tiktaka-kuṣṭhacikitsitokta (a"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 91.89189189189189,
+     "quote": false,
+     "text": "khedo'titṛṇā vanana svagandhasyāsahiṣṇutā"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": true,
+     "text": "tamaso darśana marmacchedana stabdhamedtā"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": true,
+     "text": "kaphavātau samau yasya hīnapittasya dehina"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": false,
+     "text": "antardāho bahi śailya śvāso hinmā ca majage"
+    },
+    {
+     "verse": "Ci.1.92",
+     "score": 86.11111111111111,
+     "quote": false,
+     "text": "tailvaka ghṛta-vātavyādhicikitsitokta (a"
+    },
+    {
+     "verse": "Ci.1.92",
+     "score": 88.88888888888889,
+     "quote": true,
+     "text": "), tathā vṛṣaghṛta-raktapittacikitsitokta (a"
+    },
+    {
+     "verse": "Ni.2.76",
+     "score": 100.0,
+     "quote": true,
+     "text": "arocako vami sāda sarvasmin rasage jvare"
+    }
+   ]
+  },
+  {
+   "A": "Candranandana (Parāḍkar excerpts)",
+   "B": "Aruṇadatta same chapters",
+   "sentences": 55,
+   "letters": 3110,
+   "pct_shared": 0.0,
+   "pct_verbatim": 0.0,
+   "pct_shared_commentary_only": 0.0,
+   "pct_shared_quotation": 0.0,
+   "null_pct_shared": 0.0,
+   "per_chapter_pct_commentary_only": {
+    "U.21": 0.0
+   },
+   "examples": []
+  }
+ ]
+}
