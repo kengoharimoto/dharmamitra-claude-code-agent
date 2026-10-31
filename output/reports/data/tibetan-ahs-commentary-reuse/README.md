@@ -21,5 +21,5 @@ Run with the system python: `python3 -P <script>`. `reuse_ch.py`, `reuse_dist.py
 Page-image check of the misfiling suspects (§12): `siglcheck/` — `clusters.py` (suspects → runs),
 `crops.py` / `crops2.py` (page-image crops; the PNGs themselves stay in `/mnt2/kengo/ocr-ahs-tika1928/siglcheck/`),
 `clusters.json` (runs with crop paths), `verdicts_final.json` (siglum read off the page per run).
-`sigla_overrides.json`: the three hand corrections applied by `assemble.py`.
+`sigla_overrides.json`: the eight hand corrections applied by `assemble.py`. `siglcheck/walkback.py`: third pass (walks back through the page images to the last legible siglum).
 `cakrapani_overlap.py`: locates Aruṇadatta passages shared with Cakrapāṇi's Āyurvedadīpikā.

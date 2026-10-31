@@ -63,8 +63,9 @@
   "verdict": "misfiled",
   "true_commentator": "hemadri",
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "New crop shows only the one line; siglum cut by left scan edge (only '०—' remnant). In first_crop it is the third short paragraph on ॥ ५४ ॥, after two paragraphs (second with a siglum remnant resembling प०); by the स/प/हे order it is हे०."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "New crop shows only the one line; siglum cut by left scan edge (only '०—' remnant). In first_crop it is the third short paragraph on ॥ ५४ ॥, after two paragraphs (second with a siglum remnant resembling प०); by the स/प/हे order it is हे०.",
+  "pass3": true
  },
  "36": {
   "id": 36,
@@ -99,8 +100,9 @@
   "verdict": "misfiled",
   "true_commentator": "hemadri",
   "siglum_seen": "[cut]०—",
-  "evidence": "inferred",
-  "note": "Paragraph सामुद्रं लक्षयति... ending ॥ ४ ॥ opens with a siglum whose first glyph is cut by the left scan edge (only a fragment + ०— visible). Per pass 1 it follows the प० paragraph, so third slot = हे०; विधत्ते/लक्षयति style agrees. Passage is inside the Saṃgraha quotation in this paragraph."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Paragraph सामुद्रं लक्षयति... ending ॥ ४ ॥ opens with a siglum whose first glyph is cut by the left scan edge (only a fragment + ०— visible). Per pass 1 it follows the प० paragraph, so third slot = हे०; विधत्ते/लक्षयति style agrees. Passage is inside the Saṃgraha quotation in this paragraph.",
+  "pass3": true
  },
  "56": {
   "id": 56,
@@ -212,11 +214,12 @@
  },
  "116": {
   "id": 116,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "Passage sits in a long unbroken block (añjana preparation); the stacked preceding column is also mid-paragraph with no siglum visible. Content is a continuous Saṃgraha-style viṣa/rājarakṣā quotation that appears to continue the हे० paragraph seen on p.214 (id 114), which would make it हे० (= correct), but the intervening column is not in the crop, so the siglum is not verified."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage sits in a long unbroken block (añjana preparation); the stacked preceding column is also mid-paragraph with no siglum visible. Content is a continuous Saṃgraha-style viṣa/rājarakṣā quotation that appears to continue the हे० paragraph seen on p.214 (id 114), which would make it हे० (= correct), but the intervening column is not in the crop, so the siglum is not verified.",
+  "pass3": true
  },
  "120": {
   "id": 120,
@@ -314,11 +317,12 @@
  },
  "172": {
   "id": 172,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": null,
-  "note": "Long Caraka agrya-list quotation runs across the bar; stacked preceding column also begins mid-list at its top. Paragraph ends ...इति ॥ ३४ ॥. No siglum in crop."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Long Caraka agrya-list quotation runs across the bar; stacked preceding column also begins mid-list at its top. Paragraph ends ...इति ॥ ३४ ॥. No siglum in crop.",
+  "pass3": true
  },
  "176": {
   "id": 176,
@@ -392,11 +396,12 @@
  },
  "1": {
   "id": 1,
-  "verdict": "unclear",
-  "true_commentator": null,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
   "siglum_seen": null,
-  "evidence": null,
-  "note": "Paragraph continues from previous column, which itself begins mid-paragraph at column top; governing siglum not in crop."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Paragraph continues from previous column, which itself begins mid-paragraph at column top; governing siglum not in crop.",
+  "pass3": true
  },
  "5": {
   "id": 5,
@@ -491,8 +496,9 @@
   "verdict": "misfiled",
   "true_commentator": "arunadatta",
   "siglum_seen": "स० (partly cut)",
-  "evidence": "inferred",
-  "note": "Passage opens its own paragraph ('?०-ऐन्द्रमांतरिक्षं जलं...'). Left half of the siglum is cut by scan edge; the visible remnant is the त-like right half of स, not प or हे. Pass1 placed it as first commentary after root verse ॥ ५ ॥, consistent with स०."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage opens its own paragraph ('?०-ऐन्द्रमांतरिक्षं जलं...'). Left half of the siglum is cut by scan edge; the visible remnant is the त-like right half of स, not प or हे. Pass1 placed it as first commentary after root verse ॥ ५ ॥, consistent with स०.",
+  "pass3": true
  },
  "57": {
   "id": 57,
@@ -589,11 +595,12 @@
  },
  "109": {
   "id": 109,
-  "verdict": "misfiled",
-  "true_commentator": "arunadatta",
+  "verdict": "unresolved",
+  "true_commentator": null,
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "Siglum not visible (paragraph starts above the stacked column). This is a DIFFERENT typesetting of the same Saṃgraha verse list as items 105/107 (different line breaks; reads कषायतिक्तमधुरं vs प० कषायमधुरं तिक्तं). The paragraph ends यामाग्न्यपोहतीति ॥ १८० ॥ at the foot of a left column; the right-edge fragments in this crop match the line starts of the प०—पञ्चमं पञ्चमूलमाह column seen in c105, and c105 shows the प० paragraph beginning at the foot of the column that this paragraph ends. So this paragraph immediately precedes the प० paragraph on the same verse, i.e. first slot = स०. Inferred from layout across crops."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Siglum not visible (paragraph starts above the stacked column). This is a DIFFERENT typesetting of the same Saṃgraha verse list as items 105/107 (different line breaks; reads कषायतिक्तमधुरं vs प० कषायमधुरं तिक्तं). The paragraph ends यामाग्न्यपोहतीति ॥ १८० ॥ at the foot of a left column; the right-edge fragments in this crop match the line starts of the प०—पञ्चमं पञ्चमूलमाह column seen in c105, and c105 shows the प० paragraph beginning at the foot of the column that this paragraph ends. So this paragraph immediately precedes the प० paragraph on the same verse, i.e. first slot = स०. Inferred from layout across crops.",
+  "pass3": true
  },
  "113": {
   "id": 113,
@@ -604,18 +611,21 @@
  },
  "117": {
   "id": 117,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": null,
-  "note": "Long continuous quotation-like prose (poison signs, then añjana preparation with Atharva brahmin, elephant procession) across the bar; stacked preceding column also starts mid-paragraph. No siglum in crop."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Long continuous quotation-like prose (poison signs, then añjana preparation with Atharva brahmin, elephant procession) across the bar; stacked preceding column also starts mid-paragraph. No siglum in crop.",
+  "pass3": true
  },
  "121": {
   "id": 121,
-  "verdict": "correct",
-  "true_commentator": null,
+  "verdict": "misfiled",
+  "true_commentator": "arunadatta",
   "siglum_seen": "स०",
-  "note": "Within स० paragraph on verse 17 (स०—अम्लं द्रव्यं...), includes Saṃgraha citation."
+  "note": "Within स० paragraph on verse 17 (स०—अम्लं द्रव्यं...), includes Saṃgraha citation.",
+  "pass3": true,
+  "evidence": "seen (agent note: within स० paragraph; verdict field corrected)"
  },
  "125": {
   "id": 125,
@@ -641,10 +651,12 @@
  },
  "137": {
   "id": 137,
-  "verdict": "misfiled",
+  "verdict": "both",
   "true_commentator": "arunadatta",
   "siglum_seen": "स०",
-  "note": "Within स० paragraph (स०—ग्राम्यधर्मे...) at top of page."
+  "note": "Within स० paragraph (स०—ग्राम्यधर्मे...) at top of page.",
+  "pass3": true,
+  "evidence": "text present in both commentaries (copying)"
  },
  "141": {
   "id": 141,
@@ -803,11 +815,12 @@
  },
  "14": {
   "id": 14,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": null,
-  "note": "Passage continues (flush, no indent) from previous page, whose stacked segment begins with an indented line मानसास्त्वित्यादि । क्रोधः... with no siglum visible; that paragraph ends with bold निबन्धसङ्ग्रहे. Cannot tell whether this indented line is an unsigned paragraph start or the siglum lies above the stacked segment."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage continues (flush, no indent) from previous page, whose stacked segment begins with an indented line मानसास्त्वित्यादि । क्रोधः... with no siglum visible; that paragraph ends with bold निबन्धसङ्ग्रहे. Cannot tell whether this indented line is an unsigned paragraph start or the siglum lies above the stacked segment.",
+  "pass3": true
  },
  "18": {
   "id": 18,
@@ -999,11 +1012,12 @@
  },
  "122": {
   "id": 122,
-  "verdict": "unclear",
-  "true_commentator": null,
+  "verdict": "misfiled",
+  "true_commentator": "candranandana",
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "Passage is inside the paragraph '?०--अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्...' (ends ॥ १७ ॥). Its siglum is cut by the left scan edge; only a vertical stem before '०' survives, which fits स० or प० better than हे० (so the हे० filing looks doubtful). The preceding paragraph (top of page, also ending ॥ १७ ॥, with near-identical wording 'तथा च मुनिः परिसंख्ययैवापठत्...') has its siglum on the previous page, so the order cannot fix which commentator this is."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage is inside the paragraph '?०--अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्...' (ends ॥ १७ ॥). Its siglum is cut by the left scan edge; only a vertical stem before '०' survives, which fits स० or प० better than हे० (so the हे० filing looks doubtful). The preceding paragraph (top of page, also ending ॥ १७ ॥, with near-identical wording 'तथा च मुनिः परिसंख्ययैवापठत्...') has its siglum on the previous page, so the order cannot fix which commentator this is.",
+  "pass3": true
  },
  "126": {
   "id": 126,
@@ -1070,11 +1084,12 @@
  },
  "162": {
   "id": 162,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": "प्र. टी.",
-  "evidence": "seen",
-  "note": "Passage continues (flush, no indent) from the stacked paragraph which opens with an unusual siglum read as प्र. टी.—संसर्गे द्विदोषचये... (not one of स०/प०/हे०). Paragraph then runs across the bar through the verse quotation to ॥ ७ ॥. OCR filed it under प०; possible that प्र. टी. is the editors label for Candranandana or another source — needs a human look."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage continues (flush, no indent) from the stacked paragraph which opens with an unusual siglum read as प्र. टी.—संसर्गे द्विदोषचये... (not one of स०/प०/हे०). Paragraph then runs across the bar through the verse quotation to ॥ ७ ॥. OCR filed it under प०; possible that प्र. टी. is the editors label for Candranandana or another source — needs a human look.",
+  "pass3": true
  },
  "166": {
   "id": 166,
@@ -1171,11 +1186,12 @@
  },
  "3": {
   "id": 3,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "Passage at column top ends the paragraph (॥ ११ ॥); stacked preceding block (ending 'चक्रपाणिः ।') is itself mid-paragraph with no siglum visible; governing siglum not in crop."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage at column top ends the paragraph (॥ ११ ॥); stacked preceding block (ending 'चक्रपाणिः ।') is itself mid-paragraph with no siglum visible; governing siglum not in crop.",
+  "pass3": true
  },
  "7": {
   "id": 7,
@@ -1194,18 +1210,21 @@
  },
  "15": {
   "id": 15,
-  "verdict": "misfiled",
+  "verdict": "both",
   "true_commentator": "arunadatta",
   "siglum_seen": "स०",
-  "note": "Passage continues the स० paragraph directly after verse 31."
+  "note": "Passage continues the स० paragraph directly after verse 31.",
+  "pass3": true,
+  "evidence": "text present in both commentaries (copying)"
  },
  "19": {
   "id": 19,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "Passage at column top (ends ॥ ३३ ॥) begins mid-word ('रप्रकाशित...'); stacked preceding block (ending 'इति मधुकोशव्याख्यायाम् ।') is mid-paragraph with no siglum and does not join syntactically, so the paragraph start is not in the crop."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage at column top (ends ॥ ३३ ॥) begins mid-word ('रप्रकाशित...'); stacked preceding block (ending 'इति मधुकोशव्याख्यायाम् ।') is mid-paragraph with no siglum and does not join syntactically, so the paragraph start is not in the crop.",
+  "pass3": true
  },
  "23": {
   "id": 23,
@@ -1262,8 +1281,9 @@
   "verdict": "misfiled",
   "true_commentator": "hemadri",
   "siglum_seen": null,
-  "evidence": "inferred",
-  "note": "Passage opens its own paragraph ('?०--सामुद्रं लक्षयति...' to ॥ ४ ॥); siglum's first glyph cut by left scan edge (remnant compatible with हे०). It directly follows a paragraph with clearly printed प० (also ending ॥ ४ ॥), itself after the स० paragraph; by the स/प/हे order it is हे०."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Passage opens its own paragraph ('?०--सामुद्रं लक्षयति...' to ॥ ४ ॥); siglum's first glyph cut by left scan edge (remnant compatible with हे०). It directly follows a paragraph with clearly printed प० (also ending ॥ ४ ॥), itself after the स० paragraph; by the स/प/हे order it is हे०.",
+  "pass3": true
  },
  "55": {
   "id": 55,
@@ -1374,11 +1394,12 @@
  },
  "115": {
   "id": 115,
-  "verdict": "unclear",
+  "verdict": "correct",
   "true_commentator": null,
   "siglum_seen": null,
-  "evidence": null,
-  "note": "Long continuous prose (rājavaidya / kitchen procedures, likely Saṃgraha-based) runs across the bar; the stacked preceding column also begins mid-paragraph at its top. No siglum anywhere in crop; right edge of lower block also cut."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Long continuous prose (rājavaidya / kitchen procedures, likely Saṃgraha-based) runs across the bar; the stacked preceding column also begins mid-paragraph at its top. No siglum anywhere in crop; right edge of lower block also cut.",
+  "pass3": true
  },
  "119": {
   "id": 119,
@@ -1389,11 +1410,12 @@
  },
  "123": {
   "id": 123,
-  "verdict": "unclear",
-  "true_commentator": null,
+  "verdict": "misfiled",
+  "true_commentator": "candranandana",
   "siglum_seen": "[cut]०—",
-  "evidence": null,
-  "note": "Paragraph अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्... ॥ १७ ॥ contains the passage; its siglum is cut by the left scan edge, leaving only a vertical stroke before ०—. A vertical stem fits स० or प० better than हे० (ह has no right stem), so the OCR filing under हे० is doubtful, but the siglum cannot be read."
+  "evidence": "pass3: page walk-back and/or Parāḍkar",
+  "note": "Paragraph अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्... ॥ १७ ॥ contains the passage; its siglum is cut by the left scan edge, leaving only a vertical stroke before ०—. A vertical stem fits स० or प० better than हे० (ह has no right stem), so the OCR filing under हे० is doubtful, but the siglum cannot be read.",
+  "pass3": true
  },
  "127": {
   "id": 127,

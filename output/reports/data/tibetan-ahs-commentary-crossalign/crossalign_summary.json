@@ -6,10 +6,10 @@
    "tib": "D4311",
    "skt": "Aruṇadatta",
    "sthana": "Ci",
-   "tib_chunks_with_skt_coverage": 1081,
+   "tib_chunks_with_skt_coverage": 1114,
    "median_true": 0.805,
-   "median_base": 0.767,
-   "clear_match_pct": 16.0
+   "median_base": 0.769,
+   "clear_match_pct": 16.1
   },
   {
    "tib": "D4311",
@@ -18,34 +18,34 @@
    "tib_chunks_with_skt_coverage": 162,
    "median_true": 0.803,
    "median_base": 0.782,
-   "clear_match_pct": 14.8
+   "clear_match_pct": 15.4
   },
   {
    "tib": "D4311",
    "skt": "Aruṇadatta",
    "sthana": "Ni",
-   "tib_chunks_with_skt_coverage": 601,
-   "median_true": 0.788,
+   "tib_chunks_with_skt_coverage": 603,
+   "median_true": 0.789,
    "median_base": 0.747,
-   "clear_match_pct": 8.8
+   "clear_match_pct": 8.3
   },
   {
    "tib": "D4311",
    "skt": "Aruṇadatta",
    "sthana": "Sū",
-   "tib_chunks_with_skt_coverage": 1334,
-   "median_true": 0.786,
-   "median_base": 0.737,
-   "clear_match_pct": 8.4
+   "tib_chunks_with_skt_coverage": 1336,
+   "median_true": 0.787,
+   "median_base": 0.738,
+   "clear_match_pct": 8.5
   },
   {
    "tib": "D4311",
    "skt": "Aruṇadatta",
    "sthana": "U",
-   "tib_chunks_with_skt_coverage": 1275,
-   "median_true": 0.796,
+   "tib_chunks_with_skt_coverage": 1277,
+   "median_true": 0.797,
    "median_base": 0.753,
-   "clear_match_pct": 13.8
+   "clear_match_pct": 14.2
   },
   {
    "tib": "D4311",
@@ -53,24 +53,24 @@
    "sthana": "Śā",
    "tib_chunks_with_skt_coverage": 324,
    "median_true": 0.788,
-   "median_base": 0.724,
+   "median_base": 0.725,
    "clear_match_pct": 9.3
   },
   {
    "tib": "D4311",
    "skt": "Aruṇadatta (1928)",
    "sthana": "Sū",
-   "tib_chunks_with_skt_coverage": 1319,
-   "median_true": 0.787,
+   "tib_chunks_with_skt_coverage": 1327,
+   "median_true": 0.788,
    "median_base": 0.741,
-   "clear_match_pct": 8.3
+   "clear_match_pct": 8.4
   },
   {
    "tib": "D4311",
    "skt": "Aruṇadatta (1928)",
    "sthana": "Śā",
    "tib_chunks_with_skt_coverage": 1,
-   "median_true": 0.718,
+   "median_true": 0.719,
    "median_base": null,
    "clear_match_pct": 0.0
   },
@@ -78,10 +78,10 @@
    "tib": "D4311",
    "skt": "Candranandana",
    "sthana": "Sū",
-   "tib_chunks_with_skt_coverage": 1318,
+   "tib_chunks_with_skt_coverage": 1319,
    "median_true": 0.794,
    "median_base": 0.739,
-   "clear_match_pct": 12.2
+   "clear_match_pct": 12.4
   },
   {
    "tib": "D4311",
@@ -108,7 +108,7 @@
    "tib_chunks_with_skt_coverage": 378,
    "median_true": 0.791,
    "median_base": 0.767,
-   "clear_match_pct": 7.1
+   "clear_match_pct": 6.9
   },
   {
    "tib": "D4311",
@@ -123,8 +123,8 @@
    "tib": "D4311",
    "skt": "Hemādri",
    "sthana": "Ni",
-   "tib_chunks_with_skt_coverage": 195,
-   "median_true": 0.765,
+   "tib_chunks_with_skt_coverage": 194,
+   "median_true": 0.764,
    "median_base": 0.727,
    "clear_match_pct": 4.1
   },
@@ -133,7 +133,7 @@
    "skt": "Hemādri",
    "sthana": "Sū",
    "tib_chunks_with_skt_coverage": 1338,
-   "median_true": 0.774,
+   "median_true": 0.773,
    "median_base": 0.732,
    "clear_match_pct": 4.3
   },
@@ -151,7 +151,7 @@
    "skt": "Hemādri",
    "sthana": "Śā",
    "tib_chunks_with_skt_coverage": 2,
-   "median_true": 0.764,
+   "median_true": 0.763,
    "median_base": null,
    "clear_match_pct": 0.0
   },
@@ -162,7 +162,7 @@
    "tib_chunks_with_skt_coverage": 1331,
    "median_true": 0.774,
    "median_base": 0.727,
-   "clear_match_pct": 4.3
+   "clear_match_pct": 4.2
   },
   {
    "tib": "D4311",
@@ -178,7 +178,7 @@
    "skt": "Aruṇadatta",
    "sthana": "Ci",
    "tib_chunks_with_skt_coverage": 1443,
-   "median_true": 0.813,
+   "median_true": 0.814,
    "median_base": 0.778,
    "clear_match_pct": 22.3
   },
@@ -187,16 +187,16 @@
    "skt": "Aruṇadatta",
    "sthana": "Ka",
    "tib_chunks_with_skt_coverage": 200,
-   "median_true": 0.805,
-   "median_base": 0.777,
-   "clear_match_pct": 17.5
+   "median_true": 0.806,
+   "median_base": 0.778,
+   "clear_match_pct": 18.0
   },
   {
    "tib": "D4312",
    "skt": "Aruṇadatta",
    "sthana": "Ni",
-   "tib_chunks_with_skt_coverage": 675,
-   "median_true": 0.804,
+   "tib_chunks_with_skt_coverage": 676,
+   "median_true": 0.805,
    "median_base": 0.763,
    "clear_match_pct": 20.4
   },
@@ -204,19 +204,19 @@
    "tib": "D4312",
    "skt": "Aruṇadatta",
    "sthana": "Sū",
-   "tib_chunks_with_skt_coverage": 1908,
-   "median_true": 0.783,
-   "median_base": 0.758,
-   "clear_match_pct": 16.0
+   "tib_chunks_with_skt_coverage": 1909,
+   "median_true": 0.784,
+   "median_base": 0.759,
+   "clear_match_pct": 16.7
   },
   {
    "tib": "D4312",
    "skt": "Aruṇadatta",
    "sthana": "U",
-   "tib_chunks_with_skt_coverage": 1577,
-   "median_true": 0.801,
-   "median_base": 0.765,
-   "clear_match_pct": 19.3
+   "tib_chunks_with_skt_coverage": 1583,
+   "median_true": 0.802,
+   "median_base": 0.766,
+   "clear_match_pct": 19.4
   },
   {
    "tib": "D4312",
@@ -225,16 +225,16 @@
    "tib_chunks_with_skt_coverage": 446,
    "median_true": 0.8,
    "median_base": 0.746,
-   "clear_match_pct": 21.1
+   "clear_match_pct": 21.3
   },
   {
    "tib": "D4312",
    "skt": "Aruṇadatta (1928)",
    "sthana": "Sū",
    "tib_chunks_with_skt_coverage": 1800,
-   "median_true": 0.79,
-   "median_base": 0.762,
-   "clear_match_pct": 18.4
+   "median_true": 0.791,
+   "median_base": 0.761,
+   "clear_match_pct": 18.7
   },
   {
    "tib": "D4312",
@@ -243,7 +243,7 @@
    "tib_chunks_with_skt_coverage": 1793,
    "median_true": 0.799,
    "median_base": 0.759,
-   "clear_match_pct": 25.3
+   "clear_match_pct": 25.4
   },
   {
    "tib": "D4312",
@@ -261,7 +261,7 @@
    "tib_chunks_with_skt_coverage": 505,
    "median_true": 0.798,
    "median_base": 0.772,
-   "clear_match_pct": 9.5
+   "clear_match_pct": 9.7
   },
   {
    "tib": "D4312",
@@ -269,7 +269,7 @@
    "sthana": "Ka",
    "tib_chunks_with_skt_coverage": 194,
    "median_true": 0.781,
-   "median_base": 0.764,
+   "median_base": 0.765,
    "clear_match_pct": 4.1
   },
   {
@@ -277,18 +277,18 @@
    "skt": "Hemādri",
    "sthana": "Ni",
    "tib_chunks_with_skt_coverage": 224,
-   "median_true": 0.779,
-   "median_base": 0.751,
-   "clear_match_pct": 8.0
+   "median_true": 0.78,
+   "median_base": 0.752,
+   "clear_match_pct": 7.6
   },
   {
    "tib": "D4312",
    "skt": "Hemādri",
    "sthana": "Sū",
    "tib_chunks_with_skt_coverage": 1902,
-   "median_true": 0.773,
-   "median_base": 0.754,
-   "clear_match_pct": 8.7
+   "median_true": 0.772,
+   "median_base": 0.753,
+   "clear_match_pct": 8.4
   },
   {
    "tib": "D4312",
@@ -297,7 +297,7 @@
    "tib_chunks_with_skt_coverage": 1800,
    "median_true": 0.776,
    "median_base": 0.754,
-   "clear_match_pct": 8.3
+   "clear_match_pct": 8.4
   }
  ],
  "head_to_head": [
@@ -306,12 +306,12 @@
    "sthana": "Sū",
    "works": "Aruṇadatta+Aruṇadatta (1928)+Candranandana+Hemādri+Hemādri (1928)",
    "wins": {
-    "Aruṇadatta": 74,
-    "Candranandana": 287,
-    "tie": 1218,
-    "Aruṇadatta (1928)": 62,
+    "Aruṇadatta": 73,
+    "Candranandana": 281,
+    "tie": 1230,
+    "Aruṇadatta (1928)": 61,
     "Hemādri (1928)": 45,
-    "Hemādri": 72
+    "Hemādri": 69
    }
   },
   {
@@ -319,9 +319,9 @@
    "sthana": "Sū",
    "works": "Aruṇadatta+Hemādri",
    "wins": {
-    "Hemādri": 61,
-    "tie": 41,
-    "Aruṇadatta": 28
+    "Aruṇadatta": 29,
+    "tie": 42,
+    "Hemādri": 59
    }
   },
   {
@@ -348,19 +348,11 @@
   {
    "tib": "D4312",
    "sthana": "Sū",
-   "works": "Aruṇadatta (1928)+Candranandana+Hemādri+Hemādri (1928)",
-   "wins": {
-    "tie": 1
-   }
-  },
-  {
-   "tib": "D4312",
-   "sthana": "Sū",
    "works": "Aruṇadatta+Aruṇadatta (1928)+Hemādri+Hemādri (1928)",
    "wins": {
-    "tie": 5,
+    "tie": 4,
     "Aruṇadatta (1928)": 2,
-    "Aruṇadatta": 1
+    "Aruṇadatta": 2
    }
   },
   {
@@ -401,8 +393,8 @@
    "works": "Aruṇadatta+Hemādri",
    "wins": {
     "Hemādri": 49,
-    "tie": 63,
-    "Aruṇadatta": 111
+    "tie": 62,
+    "Aruṇadatta": 112
    }
   },
   {
@@ -410,9 +402,9 @@
    "sthana": "Ci",
    "works": "Aruṇadatta+Hemādri",
    "wins": {
-    "tie": 163,
-    "Aruṇadatta": 229,
-    "Hemādri": 113
+    "tie": 168,
+    "Aruṇadatta": 232,
+    "Hemādri": 105
    }
   },
   {
@@ -420,9 +412,9 @@
    "sthana": "Ka",
    "works": "Aruṇadatta+Hemādri",
    "wins": {
-    "Aruṇadatta": 91,
+    "Aruṇadatta": 92,
     "tie": 66,
-    "Hemādri": 34
+    "Hemādri": 33
    }
   },
   {
@@ -439,12 +431,12 @@
    "sthana": "Sū",
    "works": "Aruṇadatta+Aruṇadatta (1928)+Candranandana+Hemādri+Hemādri (1928)",
    "wins": {
-    "tie": 901,
-    "Candranandana": 170,
-    "Aruṇadatta": 56,
-    "Hemādri": 38,
-    "Hemādri (1928)": 41,
-    "Aruṇadatta (1928)": 56
+    "tie": 918,
+    "Candranandana": 166,
+    "Hemādri": 37,
+    "Hemādri (1928)": 38,
+    "Aruṇadatta (1928)": 56,
+    "Aruṇadatta": 55
    }
   },
   {
@@ -453,8 +445,8 @@
    "works": "Aruṇadatta+Hemādri",
    "wins": {
     "tie": 8,
-    "Hemādri": 10,
-    "Aruṇadatta": 13
+    "Hemādri": 9,
+    "Aruṇadatta": 14
    }
   },
   {
@@ -479,9 +471,11 @@
   {
    "tib": "D4311",
    "sthana": "Sū",
-   "works": "Aruṇadatta+Hemādri+Hemādri (1928)",
+   "works": "Aruṇadatta+Candranandana+Hemādri+Hemādri (1928)",
    "wins": {
-    "Aruṇadatta": 1
+    "Aruṇadatta": 2,
+    "tie": 3,
+    "Candranandana": 1
    }
   },
   {
@@ -496,11 +490,13 @@
   {
    "tib": "D4311",
    "sthana": "Sū",
-   "works": "Candranandana+Hemādri+Hemādri (1928)",
+   "works": "Aruṇadatta (1928)+Candranandana+Hemādri+Hemādri (1928)",
    "wins": {
     "Hemādri (1928)": 1,
-    "tie": 2,
-    "Hemādri": 1
+    "tie": 5,
+    "Hemādri": 1,
+    "Aruṇadatta (1928)": 1,
+    "Candranandana": 1
    }
   },
   {
@@ -518,19 +514,18 @@
    "sthana": "Sū",
    "works": "Aruṇadatta+Aruṇadatta (1928)+Candranandana+Hemādri (1928)",
    "wins": {
-    "Aruṇadatta": 3,
-    "tie": 3,
+    "tie": 4,
+    "Aruṇadatta": 2,
     "Candranandana": 1
    }
   },
   {
    "tib": "D4311",
    "sthana": "Sū",
-   "works": "Aruṇadatta+Candranandana+Hemādri+Hemādri (1928)",
+   "works": "Candranandana+Hemādri+Hemādri (1928)",
    "wins": {
-    "Aruṇadatta": 2,
-    "tie": 8,
-    "Candranandana": 1
+    "Hemādri": 1,
+    "tie": 1
    }
   },
   {
@@ -539,17 +534,6 @@
    "works": "Aruṇadatta+Aruṇadatta (1928)+Candranandana",
    "wins": {
     "tie": 2
-   }
-  },
-  {
-   "tib": "D4311",
-   "sthana": "Sū",
-   "works": "Aruṇadatta (1928)+Candranandana+Hemādri+Hemādri (1928)",
-   "wins": {
-    "tie": 6,
-    "Hemādri": 1,
-    "Aruṇadatta (1928)": 1,
-    "Candranandana": 1
    }
   },
   {
@@ -597,9 +581,9 @@
    "sthana": "Ni",
    "works": "Aruṇadatta+Hemādri",
    "wins": {
-    "Aruṇadatta": 101,
+    "Aruṇadatta": 103,
     "Hemādri": 32,
-    "tie": 58
+    "tie": 56
    }
   },
   {
@@ -608,8 +592,8 @@
    "works": "Aruṇadatta+Hemādri",
    "wins": {
     "Aruṇadatta": 191,
-    "Hemādri": 69,
-    "tie": 117
+    "Hemādri": 71,
+    "tie": 115
    }
   },
   {
@@ -617,9 +601,9 @@
    "sthana": "Ka",
    "works": "Aruṇadatta+Hemādri",
    "wins": {
-    "tie": 33,
-    "Aruṇadatta": 97,
-    "Hemādri": 26
+    "tie": 30,
+    "Aruṇadatta": 98,
+    "Hemādri": 28
    }
   },
   {
@@ -635,8 +619,9 @@
    "sthana": "U",
    "works": "Aruṇadatta+Candranandana (Parāḍkar)",
    "wins": {
-    "tie": 2,
-    "Candranandana (Parāḍkar)": 1
+    "Aruṇadatta": 1,
+    "Candranandana (Parāḍkar)": 1,
+    "tie": 1
    }
   }
  ]

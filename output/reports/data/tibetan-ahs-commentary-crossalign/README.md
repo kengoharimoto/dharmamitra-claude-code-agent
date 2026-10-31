@@ -74,3 +74,84 @@ the 1928 commentary cleanly where the archive.org OCR layer is badly garbled.
   against every Sanskrit one (Aruṇadatta, Hemādri, Candranandana; 1928 witnesses too). Chunks built from
   the e-texts before the hyphen fix (negligible for the embeddings).
 
+- 18:45: cross-alignment results (check/xalign.json; summary in the dharmamitra repo,
+  output/reports/data/tibetan-ahs-commentary-crossalign/). D4312 matches Candranandana best (Sū: 24.4 %
+  clear matches, 3.0 % ≥ 0.90; Parāḍkar प० चं० excerpts 52.6 %); the Vaiḍūryakabhāṣya (D4311) matches no
+  surviving Sanskrit commentary (≥ 0.90: 0.0–0.1 %). D4312↔Aruṇadatta similarity (16–22 %) is verse
+  paraphrase, not copying: the matching Aruṇadatta passages contain fewer sentences shared with
+  Candranandana's Sanskrit (4.8 %) than the rest (17.4 %). Surya server stopped (GPU 1 freed).
+
+## 2026-10-31 — text reuse among the Sanskrit commentaries
+Scripts: `reuse.py` (exact 24-letter shingle runs; lower bound, OCR-sensitive), `reuse2.py` (sentence-level
+fuzzy, partial_ratio ≥ 85 against the other commentary on the same verse ±3; null = other chapters = 0 %;
+control = same commentary in the two editions ≈ 68–74 %). Outputs: check/reuse.json, reuse2.json,
+reuse_perchapter.json, reuse_sources.json.
+- Aruṇadatta ← Candranandana (Sū): 11.3 % of sentences (6.1 % verbatim); same in Parāḍkar's independent
+  Aruṇadatta (10.6 %). Concentrated: Sū.1 ≈ 41 %, Sū.6 33–40 %, Sū.7 32 % (72 % in the 1928 ed.), Sū.30
+  12–14 %; elsewhere 0–5 %. Paraphrase baseline (Hemādri ← Candranandana) 2.4 %.
+- Hemādri shares ≤ 2.4 % with either; outside Sū (Parāḍkar) Aruṇadatta↔Hemādri 0.3–0.4 %.
+- Parāḍkar's प० चं० excerpts share nothing with Aruṇadatta (that is why Parāḍkar printed them).
+- Quotations (exact runs, lower bound): Hemādri 11–13 % Aṣṭāṅgasaṃgraha; Aruṇadatta 1.8–3.1 %; Candranandana 1.4 %.
+
+## 2026-10-31 — why Parāḍkar's Hemādri shares more with Candranandana (5.5 % vs 2.4 %)
+Cause: misfiling in the t1928 split, not a difference between the editions. Two mechanisms:
+1. Footnote cut was page-wide: on p. 33 the editor's notes start mid-way down the right column, and
+   everything below that height in the left column (Hemādri's note on Sū.1.6 with its siglum) was dropped
+   as a note; its continuation at the top of the right column then attached to the open Candranandana
+   passage. Fixed in assemble.py for t1928 (cut only below a note-seed in the same column; parad keeps
+   the page-wide rule, its variant notes span both columns). Recovers ~2.4k chars; t1928 etext/
+   regenerated (old outputs in check/before_colfix/). Library copies NOT yet re-installed.
+2. Misread/lost sigla (e.g. Sū.1.24, Sū.5.43 passages carrying the wrong siglum; a 15k-char
+   "Hemādri" segment at Sū.7.26). Suspects (sentence in the other commentator's Parāḍkar text ≥ 90,
+   not in its own, not in the other's 1928 stream): check/misfile_suspects_t1928.json — 2.4–6.3 % per
+   stream, upper bound (includes verses both commentators quote).
+With the suspects removed (check/robust.py): Hemādri(Par.) ← Candranandana 5.5 → 2.9 % (1928 Hemādri
+1.9–2.4 %). Aruṇadatta(Par.) ← Candranandana: Sū.1 41 → 26 %, Sū.6 33 → 28 %, Sū.7 32 → 26 %,
+Sū.30 12 %, other chapters 2.0 → 1.7 % — the block-copying finding stands; Sū.1 is 26–41 %.
+- 2026-10-31 11:54: t1928 e-texts re-installed after the column-aware note fix (old copies → _trash, catalog/trash_log_*_ahs_commentaries_t1928_colfix.tsv; new: catalog/move_log_20261031_115437_ahs_commentaries_ocr.tsv). §12 figures re-run: unchanged to ±0.1 %.
+
+## 2026-10-31 — page-image check of the misfiling suspects; siglum recognition fixed
+- `siglcheck/clusters.py`: the 748 locatable suspect sentences → 216 clusters; `siglcheck/crops.py` /
+  `crops2.py`: page-image crops (column around the passage; second pass: whole block + preceding block).
+  Read by four + two subagents, spot-checked by hand. Verdicts: `siglcheck/verdicts_final.json`
+  — 140 correct (mostly Candranandana text repeated by Aruṇadatta, or shared quotations), 51 misfiled
+  (46 siglum seen, 5 inferred from paragraph order where the scan edge cuts the siglum), 9 not commentary,
+  5 printed without siglum, 11 unclear.
+- Causes found and fixed in assemble.py (both books):
+  1. a siglum at the top of a page follows the page marker , which the siglum regex did not accept
+     as a left boundary → the whole paragraph stayed with the preceding commentator (t1928: ~34k chars
+     recovered from "unassigned"; parad: 41k chars of Hemādri had been filed under Aruṇadatta);
+  2. OCR forms हृ०/ह्० (हे०), हे-- without ०, स० without dash (accepted only after a verse number, at a page
+     top or region start), and प० च० for प० चं० (parad: Candranandana excerpts 21 → 42 passages, U.21–22);
+  3. "प्र. टी." (t1928 Sū.13.15, two glosses beside the commentaries) kept apart as unassigned;
+  4. three remaining confirmed cases as manual overrides: check/sigla_overrides.json.
+  Of the 51 misfiled: 37 now correct, 3 duplicated in both commentaries (copying/quotation; no change),
+  3 by override, 2 (ids 15, 137) turned out to be copied text present in both; 5 inferred left unchanged;
+  1 (id 139) was a non-case. All 140 "correct" passages are still in place. Mūla figures unchanged.
+- Re-detected suspects: 59k → 28k letters (remaining mostly copying/quotations, per the image check).
+- New observation: Aruṇadatta Sū.1.14 (p. 42, स० seen) contains a long sāmānya/viśeṣa discussion shared
+  with Cakrapāṇi's Āyurvedadīpikā (check/cakrapani_overlap.py) — 1.4 % of Aruṇadatta's Sū text.
+- Library re-installed (all 12 files; old → _trash, catalog/trash_log_*_ahs_commentaries_sigla_fix.tsv;
+  new: catalog/move_log_20261031_122403_ahs_commentaries_ocr.tsv). Cross-alignment re-run (xalign).
+
+## 2026-10-31 — third pass: unclear and inferred cases
+- `siglcheck/walkback.py`: for each of the 16 unclear/inferred runs, crops of its block and the blocks
+  before it (across columns/pages) back to the paragraph's siglum; plus Parāḍkar as independent evidence
+  (its own siglum split, different page breaks). Viewed by hand. Results in verdicts_final.json (pass3).
+  Correct: 3, 14, 19, 162 (and 115–117, 172 already right after pass 2). Corrected: 1 → Aruṇadatta
+  (OCR "६॥ स्व०—"), 32 (Sū.1.43: 2nd note → Candranandana, 3rd → Hemādri), 51/52 → Hemādri (3rd note
+  on Sū.5.4; = Parāḍkar), 53 → Aruṇadatta (1st note on Sū.5.5; = Parāḍkar's Aruṇadatta verbatim),
+  122/123 → Candranandana (2nd of 3 notes on Sū.7.31). 109 unresolved (Saṃgraha quotation in several).
+  Pass-2 verdict for 121 corrected (agent note said स० paragraph). 15, 137: present in both (copying).
+- Further assemble.py fixes found on the way:
+  1. verse matches that ran past the verse number into the next siglum ("… ॥ २७ ॥ स०--न") are trimmed
+     at the verse number (t1928: 41, parad: 174 such sigla; parad: 11k chars of Aruṇadatta had been
+     attached to Hemādri via the quotation-repair step);
+  2. SIG_WEAK: स्व० and a verse number without its opening ॥ ("६॥");
+  3. t1928 editor's notes numbered without parentheses ("१ अत्र … पाठान्तरम्", 60 blocks) are now note
+     seeds (notes file 41k → 93k bytes; checked: no commentary siglum among the moved text except an
+     editor's "१ स०-- … प्र. दी." note);
+  4. overrides gain an optional "from" (only a segment filed under that commentator).
+- Verification: all 198 decided runs (147 correct + 51 misfiled) are now in the commentator the page
+  shows. Suspect letters: 28k → 26k. Library re-installed (catalog/move_log_20261031_124203_…;
+  old copies → _trash, trash_log_*_ahs_commentaries_pass3.tsv). Cross-alignment re-run (logs/xalign_rerun2.log).

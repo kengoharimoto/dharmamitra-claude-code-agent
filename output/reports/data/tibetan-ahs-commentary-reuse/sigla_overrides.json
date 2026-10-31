@@ -19,5 +19,41 @@
   "anchor": "रक्तेऽपनीतं निर्हतं स्रावितेऽन",
   "who": "arunadatta",
   "source": "siglcheck id 207: page image shows a faint स० before रक्ते स्राविते …"
+ },
+ {
+  "book": "t1928",
+  "page": 63,
+  "anchor": "चिकित्सास्थानमुच्यते—द्वाविंशतिरध्य",
+  "who": "candranandana",
+  "source": "siglcheck id 32: second note on Sū.1.43 (siglum read न० by OCR); matches neither Parāḍkar commentator; paragraph order स०, प०, हे०"
+ },
+ {
+  "book": "t1928",
+  "page": 63,
+  "anchor": "ज्वरचिकित्सादयो द्वाविंशतिश्चिकित्सितम्",
+  "who": "hemadri",
+  "source": "siglcheck id 32: third note on Sū.1.43, siglum cut by the scan edge; = Parāḍkar's Hemādri"
+ },
+ {
+  "book": "t1928",
+  "page": 118,
+  "anchor": "सामुद्रं लक्षयति—अन्यथा",
+  "who": "hemadri",
+  "source": "siglcheck ids 51/52: third note on Sū.5.4 (after स० and प०), siglum cut by the scan edge; = Parāḍkar's Hemādri"
+ },
+ {
+  "book": "t1928",
+  "page": 118,
+  "anchor": "ऐन्द्रमांतरिक्षं जलं",
+  "who": "arunadatta",
+  "source": "siglcheck id 53: first note on Sū.5.5, siglum cut by the scan edge; = Parāḍkar's Aruṇadatta"
+ },
+ {
+  "book": "t1928",
+  "page": 219,
+  "anchor": "अम्लं द्रव्यं पयसा सह सर्वं विरुद्धम्",
+  "from": "hemadri",
+  "who": "candranandana",
+  "source": "siglcheck ids 122/123: second of three notes on Sū.7.31 (after स०, before the हे० note अम्लादिभिः …), siglum cut by the scan edge"
  }
 ]

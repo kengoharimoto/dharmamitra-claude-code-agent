@@ -16,19 +16,19 @@
  "mula_letter_agreement_with_DE_pct": 95.52,
  "segments": {
   "frontmatter": 1,
-  "mula": 13821,
-  "comm:arunadatta": 5248,
-  "comm:hemadri": 2296,
-  "lead": 6757,
-  "comm:candranandana": 21
+  "mula": 13847,
+  "comm:arunadatta": 5482,
+  "comm:hemadri": 2317,
+  "lead": 6621,
+  "comm:candranandana": 42
  },
  "chars": {
+  "mula": 595676,
   "frontmatter": 521111,
-  "lead": 139085,
-  "comm:candranandana": 3637,
-  "comm:hemadri": 748942,
-  "mula": 595029,
-  "comm:arunadatta": 1758227
+  "comm:candranandana": 7307,
+  "comm:arunadatta": 1741067,
+  "comm:hemadri": 778612,
+  "lead": 120588
  },
  "footnote_blocks": 2076,
  "missing_verses": [

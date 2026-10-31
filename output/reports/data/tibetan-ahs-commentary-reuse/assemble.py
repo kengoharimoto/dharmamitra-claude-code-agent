@@ -104,7 +104,8 @@ for pno, pg in pages():
                  and (b["label"] == "Footnote" or (FN_SEED.search(block_text(b)) and FN_MS.search(block_text(b))))]
     else:                                                 # t1928: the editor's notes, "( १ ) …"
         seeds = [b["bbox"] for b in bl if b["label"] not in SKIP and b["bbox"][1] > 0.3 * H
-                 and (b["label"] == "Footnote" or re.match(r"\s*\(\s*[०-९]{1,2}\s*\)", block_text(b)))]
+                 and (b["label"] == "Footnote" or re.match(r"\s*\(\s*[०-९]{1,2}\s*\)", block_text(b))
+                      or re.match(r"\s*[०-९]{1,2}\s+[^\s।॥\d०-९]", block_text(b)))]   # also "१ अत्र … पाठान्तरम्"
     # t1928: the notes can start lower in one column than in the other (p. 33: right column only), so a
     # block is a note only if it lies below a seed that overlaps it horizontally (same column, or a
     # full-width seed).
@@ -205,8 +206,14 @@ for k, v in enumerate(units):
 SIG = re.compile(r"(?:(?<=[\s।॥”\"'\uE001])|^)(प\s*[०o0.]\s*चं?|स|म|हे|हृ|ह्|ह|प|ष|आ\s*[०o0.]?\s*[र२])\s*[०o0.]\s*[-—–~=]+\s*")
 # Weak variants, accepted only right after a closing verse number, at the top of a page or at region start:
 # स्०/सू० for स०; and a siglum missing either its ० (हे--) or its dash (स० इत्यनया …).
-SIG_WEAK = re.compile(r"(?:^\s*|\uE001\s*|॥\s*[०-९0-9]+\s*॥\s*)(स्|सू|हे|हृ|ह्|स|प)(?:\s*[०o0.]\s*[-—–~=]*|\s*[-—–~=]+)\s*")
+SIG_WEAK = re.compile(r"(?:^\s*|\uE001\s*|(?:॥\s*)?[०-९0-9]+\s*॥\s*)(स्व|स्|सू|हे|हृ|ह्|स|प)(?:\s*[०o0.]\s*[-—–~=]*|\s*[-—–~=]+)\s*")
 VEND = re.compile(r"॥\s*[०-९0-9]+(?:\s*[-–,]\s*[०-९0-9]+)*\s*॥")
+# The fuzzy verse match can run past the closing verse number into the next commentary's siglum
+# ("… ॥ २७ ॥ स०--न …"); end the mūla at the verse number when a siglum-like token follows it.
+_VS = re.compile(r"॥\s*[०-९0-9]+\s*॥(?=\s*(?:\uE000\d+\uE001)?\s*\S{1,3}\s*[०o0.]\s*[-—–])")
+for f in found:
+    m = _VS.search(text, f["start"], f["end"])
+    if m: f["end"] = m.end()
 segs = []
 segs.append({"type": "frontmatter", "ref": None, "start": 0, "end": found[0]["start"] if found else len(text)})
 for k, f in enumerate(found):
@@ -217,7 +224,7 @@ for k, f in enumerate(found):
     # weak siglum variants (स्०, सू० for स०) only right after a closing verse number or at region start
     for m in SIG_WEAK.finditer(region):
         if not any(a <= m.start() < b for a, b, _ in cuts):
-            cuts.append((m.start(1), m.end(), "arunadatta" if m.group(1) in ("स्", "सू") else COMM[m.group(1)]))
+            cuts.append((m.start(1), m.end(), "arunadatta" if m.group(1) in ("स्व", "स्", "सू") else COMM[m.group(1)]))
     # "प्र. टी." (t1928, Sū.13.15 only): a further gloss printed beside the three commentaries; kept apart
     for m in re.finditer(r"(?<=[\s।॥])प्र\s*[.०]\s*टी\s*[.०]\s*[-—–]+\s*", region):
         cuts.append((m.start(), m.end(), "pratika-tika"))
@@ -255,12 +262,14 @@ for k in range(2, len(segs)):
         m["type"], m["who"], m["quote"] = "comm", c["who"], True
         s["type"], s["who"] = "comm", c["who"]
 # Manual corrections from the page-image check of misfiling suspects (siglcheck/, 2026-10-31): where the
-# siglum is unreadable in the OCR, the passage starting at `anchor` (on `page` ±1) is given to `who` up to the
+# siglum is unreadable in the OCR, the passage starting at `anchor` (on `page` ±1; in a segment filed under
+# `from`, if given) is given to `who` up to the
 # end of its paragraph (the next closing verse number) or of the segment.
 for o in json.load(open(f"{P}/check/sigla_overrides.json")):
     if o["book"] != BOOK: continue
     for k, s in enumerate(segs):
-        a = s["text"].find(o["anchor"]) if s["type"] == "comm" and abs(s["page"] - o["page"]) <= 1 else -1
+        a = s["text"].find(o["anchor"]) if s["type"] == "comm" and abs(s["page"] - o["page"]) <= 1 \
+            and s.get("who") == o.get("from", s.get("who")) else -1
         if a < 0: continue
         m = VEND.search(s["text"], a); e = m.end() if m else len(s["text"])
         parts = [dict(s, text=s["text"][:a].strip()), dict(s, text=s["text"][a:e].strip(), who=o["who"], override=True),

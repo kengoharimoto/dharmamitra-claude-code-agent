@@ -8,15 +8,15 @@
   {
    "A": "Aruṇadatta Sū",
    "B": "Candranandana Sū",
-   "letters_A": 452201,
+   "letters_A": 464692,
    "pct_mula": 0.04,
-   "pct_source": 0.23,
-   "pct_comm": 9.98,
+   "pct_source": 0.24,
+   "pct_comm": 10.09,
    "pct_mula_same_verse": 77.7,
    "pct_source_same_verse": 100.0,
    "pct_comm_same_verse": 99.6,
-   "runs_comm": 303,
-   "runs_comm_ge100": 120,
+   "runs_comm": 320,
+   "runs_comm_ge100": 126,
    "examples": [
     {
      "len": 1061,
@@ -35,6 +35,12 @@
      "verse": "Sū.1.24",
      "same_verse": true,
      "text": "ādayasnigdhābhavatisādhāraṇapunarubhayalakṣaṇomadhyapatitovyāmiśrarūpasacasamamalovātādisamadoṣaatradoṣāevamalaśabdenoktāvakṣyatihidehasyamalinīkaraṇādāhāramalatvācamalākālodvividhakṣaṇādilakṣaṇovyādhyavasthālakṣaṇaścabheṣajasyauṣadhasyayogakarotitadarthasapādanasāmarthyakarotītyarthabheṣajasyayogob"
+    },
+    {
+     "len": 826,
+     "verse": "Sū.6.117",
+     "same_verse": true,
+     "text": "tamāphalotamāgostanīparyāyādrākṣāvṛṣyādiguṇayuktāsakaṣāyāīṣatkaṣāyāanirīkṣayātāhatiudāvartaharatvacarakamuninātāuktatacasnigdhatvavṛṣyatvasṛṣṭaviṣmūtratvenehoktāmabhyāsācadrākṣāṇāguṇahīnatvadeśāvanurokalpyamudriktamatiriktapitayeṣātāstathāvidhānatrīdoṣānmadhuradāḍimajayatimadhurasyapūrekathanaprādhā"
     },
     {
      "len": 788,
@@ -61,16 +67,16 @@
      "text": "smṛtideśakālādīnāparigrahamanodoṣasamuthakāmādijarogārthaparaśabdoviśeṣaṇatvenanirdiṣṭacikitsitasyarogopaśamalakṣaṇasyapādacatuṣṭayamagacatuṣṭayamuktapratyekatacaturguṇamevaṣoḍaśaguṇacikitsitabheṣajabhiṣajobhāṣatebhiṣajaivatasyaprādhāyādagrenirdeśatathācāgamayoktāprayoktāśāstācapradhānobhiṣagatratut"
     },
     {
-     "len": 619,
-     "verse": "Sū.6.118",
-     "same_verse": true,
-     "text": "udriktamatiriktapitayeṣātāstathāvidhānatrīdoṣānmadhuradāḍimajayatimadhurasyapūrekathanaprādhāyakhyāpanārthapitetyādiasladāḍimapitāvirodhinapitakurutenacapitaśamayatiataevaitadvātakaphāpahamuktasarvamadhuramarbhalacayadāḍimatathṛdyādiguṇasayuktamuninātūktarukṣārbhaladāḍimayatutatpitānilakopanamitimoc"
-    },
-    {
      "len": 543,
      "verse": "Sū.1.31",
      "same_verse": true,
      "text": "edomajādāvanūpadeśeśītartāvāturovātaprakṛtistasyakupitapitasukhasādhyamitiatulyadūṣyoyathāśleṣmaṇāśītenaraktamuṣṇadūṣitamatulyadeśovyādhiryathāanūpadeśepitasabhūtaatulyarturyathāśaradikaphodbhavaatulyaprakṛtiryathāpitaprakṛteśleṣmodbhavovyādhinavatulyadūṣyadeśartuprakṛtitvādasaukṛchrasādhyoyathāvāyā"
+    },
+    {
+     "len": 541,
+     "verse": "Sū.6.78",
+     "same_verse": true,
+     "text": "amunināḍapyuktapaṭolapatrapitadhavallīcāsyakaphāpahāphalatridoṣaśamanamūlacāsyavirecanamitibṛhatīdvayasthūlabṛhatīmahoṭikākhyākṣudrabṛhatīkaṭakārikākhyātadetadubhayapitakaramapridīpanaśakrudādīnābhedanavātaghnacavṛṣachardikāsauhatiraktapitacātyarthajayatikāravelamīṣadrasekaṭukamagnidīptikaramatilleṣ"
     },
     {
      "len": 533,
@@ -85,16 +91,10 @@
      "text": "īrakākhyaśītavīryorūkṣasvādupākarasolaghumedādināśanaścamujātavātapitavrasnigdhādiguṇayutamatiśukrakṛcapālakyāgurvītathāsarāśakradādibhedinītuśabdapichilaśleṣmalahimādīnāsagrahoktānāsamucayārthatathācoktasagrahepālakyāpichilāgurvīśleṣmalābhedinīhimetimṛṇālādirūkṣasagrahaṇaśītavīryagurucamṛṇāladvivid"
     },
     {
-     "len": 513,
-     "verse": "Sū.6.157",
+     "len": 508,
+     "verse": "Sū.1.43",
      "same_verse": true,
-     "text": "avanakaṭutiktatathākaphakaṣāyamadhuratvācahetipitaharītakotayāharītakyātulyavartataititṛtīyātādvatiharītakīsamānaguṇamāmalakamityarthaviśeṣatvasyāhaabhayoṣṇedaśītaśītavīryatathālamalarasapitakaphacetikṛṣṇātreyastvāmalakatridoṣadhnacākhyatyathāalabhāvājayedvātapitamādhuryaśaityatakapharūkṣakaṣāyatvād"
-    },
-    {
-     "len": 503,
-     "verse": "Sū.6.134",
-     "same_verse": true,
-     "text": "tvakcamāsacatvaṅmāsabhalātakasavatribṛhaṇamadhuraśītalacatasyabhalātakasyāsthitadasthiagnimamanīkṣṇatvādagnikasphoṭakakartṛvānathavāgnivignastasyaguṇadoṣakartṛtayātulyabhalātakāsthītitathāmevāyaihitamitikaphavātaghnampakṣacadrāgevapariṇāmayātikiciduṣṇavīryakicidgurukicidoṣalamapathyamnighaṭāvuktamār"
+     "text": "sthānamataūrdhvakalpasthānamnaatrakalpevamanakalpavirecanakalpavamanavirecanavyāpatsidhivastikalpavastivyāpatsidhiṣaṣṭhomeṣajakalpaityevaṣaḍadhyāyākalpasidhisthānambālopacaraṇīyabālāmayapratiṣedhabālaprahapratiṣedhabhūtavijñānīyabhūtapratiṣedhaunmādapratiṣedhaapasmārapratiṣedhavartmarogavijñānīyavar"
     },
     {
      "len": 502,
@@ -121,16 +121,16 @@
      "text": "tugrāyadharmasevetidarśanārthamataevānataramāhabrahmacaryaratenidrāsvakālanātivartateitibrahmacaryaratasyāpyunugatomaithunābhilāṣonidrānāśayedityāhagrāyasukhenispṛhacetoyasyasatasyatathāsatoṣatṛptasyagrāyadharmestrīpusapogaviṣayenutānāstriyatyajedutānābhajedityarthatathārajasvalatvādiyutātyajetduṣṭa"
     },
     {
-     "len": 478,
-     "verse": "Sū.1.45",
-     "same_verse": true,
-     "text": "atrakalpevamanakalpavirecanakalpavamanavirecanavyāpatsidhivastikalpavastivyāpatsidhiṣaṣṭhomeṣajakalpaityevaṣaḍadhyāyākalpasidhisthānambālopacaraṇīyabālāmayapratiṣedhabālaprahapratiṣedhabhūtavijñānīyabhūtapratiṣedhaunmādapratiṣedhaapasmārapratiṣedhavartmarogavijñānīyavartmarogapratiṣedhasadhisitāsita"
-    },
-    {
      "len": 473,
      "verse": "Sū.6.98",
      "same_verse": true,
      "text": "tasyākurāvahnidīpanākaphavātaghnāsarāścaśatāvaryāakurāprarohāstiktarasāvṛṣṇāśukrakṛtastridoṣaghnāścavaśakarīrovaśākurorukṣovidāhīvātapitakṛtpatūrodīpanastiktarasaplīhādijitpatūromatsyākṣakakāsamadesarakṛyādīścanāśayatiutkledasrotasāmāliyenārdratvamsārṣapaśākaguruṣṇavīryatathāśakṛnmūtranmūtracabadhnā"
+    },
+    {
+     "len": 471,
+     "verse": "Sū.6.157",
+     "same_verse": true,
+     "text": "avanakaṭutiktatathākaphakaṣāyamadhuratvācahetipitaharītakotayāharītakyātulyavartataititṛtīyātādvatiharītakīsamānaguṇamāmalakamityarthaviśeṣatvasyāhaabhayoṣṇedaśītaśītavīryatathālamalarasapitakaphacetikṛṣṇātreyastvāmalakatridoṣadhnacākhyatyathāalabhāvājayedvātapitamādhuryaśaityatakapharūkṣakaṣāyatvād"
     },
     {
      "len": 467,
@@ -151,12 +151,6 @@
      "text": "atacavirudhamapinapīḍāyaiitiyojyamapathyamahitamannapānavāyallaghanaplavanajāgaraṇasvapnādikavāceṣṭitamahitamabhyastatatpādenacaturthāśenatyajedahitaphalatvātadhiśarīrocitamadhyapathyatvādudakedoṣāyasapadyatenaguṇāyayaditutadapathyamabhyastatathāsātmībhūtayasminnaturthāśenāpityajyamāneśarīrabādhāśak"
     },
     {
-     "len": 449,
-     "verse": "Sū.6.78",
-     "same_verse": true,
-     "text": "amunināḍapyuktapaṭolapatrapitadhavallīcāsyakaphāpahāphalatridoṣaśamanamūlacāsyavirecanamitibṛhatīdvayasthūlabṛhatīmahoṭikākhyākṣudrabṛhatīkaṭakārikākhyātadetadubhayapitakaramapridīpanaśakrudādīnābhedanavātaghnacavārtākarasekaṭutiktamuṣṇavīryamadhuravātalleṣmansahakṣāreṇavartatesakṣārakicitkṣāratvayu"
-    },
-    {
      "len": 431,
      "verse": "Sū.1.48",
      "same_verse": true,
@@ -167,27 +161,39 @@
      "verse": "Sū.7.50",
      "same_verse": true,
      "text": "doṣāapathyābhyāsajākrameṇapūrvoktenāpacitākṣayanītāguṇāścapathyopayogajākrameṇapūrvoktenaivopacitāvṛdhinītāsatapuruṣāṇāyathāsakhyamapunarbhāvayātidoṣāguṇāścāprakapyāsthirābhavatidoṣāṇāmahitairāhārādibhirdūṣaṇakartuvidvāpaḍitonārhatinayujyatekibhūtānāmatyatamatiśayenasanidhānanikaṭatvayeṣādoṣāṇātaeva"
+    },
+    {
+     "len": 400,
+     "verse": "Sū.1.14",
+     "same_verse": true,
+     "text": "somātmānodravyaviśeṣāsauyadhātvekakāraṇānisnehabalapustvaujāsimarīcapacakolabhallātakādayobudhimedhāyādīsavardhayatiguṇataścocamocakharjurāṇipārthivānidravyatonirdiṣṭāyapiśleṣmāṇamudakātmakamabhivardhayatisnigdhaguruśītādiguṇasāmāyātkarmāpitrividhakāyavāṅmanovyāpārātmakatatrakāyikānidhāvanalaghanapl"
     }
    ]
   },
   {
    "A": "Candranandana Sū",
    "B": "Aruṇadatta Sū",
-   "letters_A": 438859,
+   "letters_A": 437923,
    "pct_mula": 0.05,
-   "pct_source": 0.22,
-   "pct_comm": 10.64,
+   "pct_source": 0.23,
+   "pct_comm": 11.07,
    "pct_mula_same_verse": 81.0,
-   "pct_source_same_verse": 93.9,
-   "pct_comm_same_verse": 96.4,
-   "runs_comm": 352,
-   "runs_comm_ge100": 141,
+   "pct_source_same_verse": 94.3,
+   "pct_comm_same_verse": 96.7,
+   "runs_comm": 366,
+   "runs_comm_ge100": 145,
    "examples": [
     {
      "len": 848,
      "verse": "Sū.7.48",
      "same_verse": true,
      "text": "īhyāderabhyastātpādamekatyaktvānucitātpathyādktaśālyādestamevapādadatvācatuṣpātvasapādyayojyamevamannakālamekamativāhayetevapādenāpathyamabhyastatyaktabhavatipathyacānucitaniṣevitabhavatitathādvitīyenakālesarvamapathyayojanīyamevamekenānnakālenāpathyapādotarīkṛtatatastṛtīyepyucitādapathyātpādadvayam"
+    },
+    {
+     "len": 833,
+     "verse": "Sū.6.117",
+     "same_verse": true,
+     "text": "tamāphalotamāgostanīparyāyādrākṣāsāvṛṣyādiguṇayuktāsakaṣāyāīṣatkaṣāyāanilādīkṣayātāhatiudāvartaharatvacarakamunināasyāuktatacasnigdhatvavṛṣyatvasṛṣṭaviṣmūtratvenehoktāmabhyāsācadrākṣāṇāguṇahīnatvadeśāvanurodhākalpyamudriktamatiriktapitayeṣātāstathāvidhānatrīdoṣānmadhuradāḍimajayetmadhurasyapūrekatha"
     },
     {
      "len": 828,
@@ -208,12 +214,6 @@
      "text": "kālodvividhakṣaṇādilakṣaṇovyādhyavasthālakṣaṇaścabheṣajasyauṣadhasyayogakarotitadarthasapādanasāmarthyakarotītyarthabheṣajasyayogobheṣajayogastakarotikṣaṇādiprasidhaādigrahaṇāllavatruṭimuhūrtayāmāhorātrapakṣamāsatvayanasavatsarāṇāparigrahakṣaṇādikālasyodāharaṇayathāpūrvāhṇevamanadeyamadhyāhnetuvirec"
     },
     {
-     "len": 617,
-     "verse": "Sū.6.118",
-     "same_verse": true,
-     "text": "udriktamatiriktapitayeṣātāstathāvidhānatrīdoṣānmadhuradāḍimajayetmadhurasyapūrekathanaprādhāyakhyāpanārthapitetyādiasladāḍimapitāvirodhinapitakurutenacapitaśamayatiataevaitadvātakaphāpahatvamuktasarvamadhuramarbhalacayadāḍimatathṛdyādiguṇasayuktamuninoktarukṣārbhaladāḍimayatutatpitānilakopanamitimoc"
-    },
-    {
      "len": 548,
      "verse": "Sū.1.31",
      "same_verse": true,
@@ -224,6 +224,12 @@
      "verse": "Sū.1.35",
      "same_verse": true,
      "text": "evavidhamārtamāturamupakrayamapityajetpariharetbhiṣakabhūpairājabhirdviṣṭavaidyārājānaścayadviṣatitathāteṣādviṣaśatrubhiṣagbhūpāyodveṣṭitamapityajetdviṣaśatrucātmanahīnopakaraṇamitiupakaraṇavikalahīnacikitsāgavyagrakāryabahulamayakāryāpekṣiṇakāryātarāsaktacetasamavidheyabhiṣajatadājñāyonakarotitamap"
+    },
+    {
+     "len": 540,
+     "verse": "Sū.6.79",
+     "same_verse": true,
+     "text": "amunināḍapyuktapaṭolapatrapitadhavallīcāsyakaphāpahāphalatridoṣaśamanamūlacāsyavirecanamitibṛhatīdvayasthūlabṛhatīmahoṭikākhyākṣudrabṛhatīkaṭakārikākhyātadetadubhayapitakaramabhidīpanaśakrudādīnābhedanavātaghnamvṛṣachardikāsauhatiraktapitacātyarthajayatikāravelamīṣatrasekaṭukamagnidīptikaramatilleṣm"
     },
     {
      "len": 540,
@@ -274,6 +280,12 @@
      "text": "nidrānāśādagamardādayovātothāścarogāsyuyataścasayaksevitāyānidrāyāasayaksevitāyāścaanataroktāguṇādoṣāatosmādhetokālānatikrameṇasātyatoyāmadvayatrayavāniśinidrābhajetasātyājāgarādardhenasvapnaiṣyatekitarhiyoyāvatakālamucitasvapititasmātkālādardhenaprātasvapyātabhuktavānabhuktesatiasātyagrahaṇenaitady"
     },
     {
+     "len": 412,
+     "verse": "Sū.1.15",
+     "same_verse": true,
+     "text": "rasādravyapacabhūtātmakamāśritāstetuyathāpūrvabalāvahābalaprāpakābalamāvahatiprāpayatītiyāvatasmātsarvebhyorasebhyomadhurorasaprakarṣeṇadehinābalakarakaṣāyastusarvebhyojaghayabalāpahatatrasvādurmadhuroghṛtaguḍādialolikāmātullagādilavaṇasaidhavāditiktonibādiūṣaṇakaṭukomarīcādikaṣāyoharītakyādisvādurm"
+    },
+    {
      "len": 409,
      "verse": "Sū.1.32",
      "same_verse": true,
@@ -284,12 +296,6 @@
      "verse": "Sū.7.26",
      "same_verse": true,
      "text": "kubhīkośātakīphalairmadhuyuktairvamanatasyasnehayitvāvirecanapakāśayagatevamitasyaivanīlinīphalayuktenaghṛtenavirecanamevaviṣabhuktāyapuseūrdhvamadhaścaśudhāyakālesūkṣmamatirukṣaṇatāracūrṇasamākṣikadadyātkibhūtatathṛdviśodhanahṛdayaśodhayedityarthaviṣabhuktāyetyāhitāgyāditvātparonipātakālaityupalakṣ"
-    },
-    {
-     "len": 376,
-     "verse": "Sū.1.15",
-     "same_verse": true,
-     "text": "yathāpūrvabalāvahābalaprāpakābalamāvahatiprāpayatītiyāvatasmātsarvebhyorasebhyomadhurorasaprakarṣeṇadehinābalakarakaṣāyastusarvebhyojaghayabalāpahatatrasvādurmadhuroghṛtaguḍādialolikāmātullagādilavaṇasaidhavāditiktonibādiūṣaṇakaṭukomarīcādikaṣāyoharītakyādisvādurmadhuraparyāyaūṣaṇakaṭuparyāyayathātr"
     },
     {
      "len": 361,
@@ -326,26 +332,20 @@
      "verse": "Sū.6.125",
      "same_verse": true,
      "text": "nābhiṣukādīnāgrahaṇapriyālajātapriyālajaphalamanuṣṇavīryaturviśeṣeviśeṣastuśītavīryasvamevaśeṣabṛhaṇādisarvasamānapriyālamajāsthyabhyataramadhurādiguṇayuktabadaramajāguṇaistadvatpriyālamajāvatṛtṛḍādijicatannātarecoktabaibhītakomadakarakolānāpitanāśanatathātālakharjūrādīnāmastakamajānasvādupākāvṛṣyāś"
-    },
-    {
-     "len": 325,
-     "verse": "Sū.1.26",
-     "same_verse": true,
-     "text": "divamanātaśodhanarūpatailādimadhvataśamanarūpatenavātasyavastigudapraṇidheyasnehakāthādiparamauṣadhapitasyavirekamukhapītagudamārgeṇātasthitasyanisāraṇaparamauṣadhakaphasyavamanamukhenapatitatailadoṣasyanisāraṇaparamauṣadhamitiśodhanarūpeṇadoṣāṇāmauṣadhatailādituśamanasvarūpeṇauṣadhatathetikrameṇaiv"
     }
    ]
   },
   {
    "A": "Hemādri Sū",
    "B": "Candranandana Sū",
-   "letters_A": 424168,
+   "letters_A": 421710,
    "pct_mula": 0.01,
-   "pct_source": 0.5,
-   "pct_comm": 1.19,
+   "pct_source": 0.62,
+   "pct_comm": 1.18,
    "pct_mula_same_verse": 100.0,
-   "pct_source_same_verse": 69.4,
+   "pct_source_same_verse": 75.1,
    "pct_comm_same_verse": 97.7,
-   "runs_comm": 52,
+   "runs_comm": 51,
    "runs_comm_ge100": 11,
    "examples": [
     {
@@ -385,6 +385,12 @@
      "text": "edanohimalatākastūrikātadvanmukhaśopaharāparakapāyamadhuraśītapadmapitakaphāstajitadvadvakulapunnāgakumudotpalapāṭalasacapakatatoyūnaguṇaikoraṭakiśukamālatīmalikāpuṣpatiktajayati"
     },
     {
+     "len": 159,
+     "verse": "Sū.13.15",
+     "same_verse": true,
+     "text": "stayorapiyasmādāmāśayotkleśādbhūyiṣṭhatatsamudbhavakrameṇādyenatatrāpipravṛdhāsvāśayesthitāsvāśayeṣupraduṣṭānāsthitaivasnāśukāritāvijñāyakarmabhisvaisvairdoṣod"
+    },
+    {
      "len": 146,
      "verse": "Sū.6.107",
      "same_verse": true,
@@ -395,12 +401,6 @@
      "verse": "Sū.6.140",
      "same_verse": true,
      "text": "icaigudatiktamadhurasnigdhogakaphavātajitsuśrutenoktasugadhimadhurasnigdhalavalīphalamucyatevṛkṣālālpātaraguṇakośāraphalamucyateiti"
-    },
-    {
-     "len": 122,
-     "verse": "Sū.1.13",
-     "same_verse": true,
-     "text": "arasādīnādūṣyasajñādhātusajñācatathāviṣmūtrādīnāmalasajñādūṣyasajñācetidoṣadhātumalanirdeśenadehovyākhyātatathācotaragrath"
     },
     {
      "len": 120,
@@ -464,12 +464,6 @@
     },
     {
      "len": 71,
-     "verse": "Sū.1.13",
-     "same_verse": true,
-     "text": "dādayomalāucyateapicetiśabdādūṣyāścetinakevalarasādayaevadūṣyāyāvanmalā"
-    },
-    {
-     "len": 71,
      "verse": "Sū.3.58",
      "same_verse": false,
      "text": "diśojvalatibhūmiścamārutonaiktosukhapavanātapasasvedairjatavojvaritāiva"
@@ -497,21 +491,27 @@
      "verse": "Sū.19.1",
      "same_verse": true,
      "text": "āsthāpanamityucyateśarīrarohaṇādoṣanirharaṇādacityaprabhāvatayā"
+    },
+    {
+     "len": 63,
+     "verse": "Sū.19.6",
+     "same_verse": true,
+     "text": "nāvāyurnirūhamūrdhvanayetarśasvāvṛtamārgatvādanāgachavastiprāṇā"
     }
    ]
   },
   {
    "A": "Candranandana Sū",
    "B": "Hemādri Sū",
-   "letters_A": 438859,
+   "letters_A": 437923,
    "pct_mula": 0.01,
-   "pct_source": 0.43,
-   "pct_comm": 1.23,
+   "pct_source": 0.55,
+   "pct_comm": 1.2,
    "pct_mula_same_verse": 100.0,
-   "pct_source_same_verse": 63.7,
-   "pct_comm_same_verse": 96.8,
-   "runs_comm": 55,
-   "runs_comm_ge100": 17,
+   "pct_source_same_verse": 71.1,
+   "pct_comm_same_verse": 96.7,
+   "runs_comm": 54,
+   "runs_comm_ge100": 16,
    "examples": [
     {
      "len": 586,
@@ -562,12 +562,6 @@
      "text": "icaigudatiktamadhurasnigdhogakaphavātajitsuśrutenoktasugadhimadhurasnigdhalavalīphalamucyatevṛkṣālālpātaraguṇakośāraphalamucyateiti"
     },
     {
-     "len": 125,
-     "verse": "Sū.1.13",
-     "same_verse": true,
-     "text": "arasādīnādūṣyasajñādhātusajñācatathācaviṣmūtrādīnāmalasajñādūṣyasajñācaitidoṣadhātumalanirdeśenadehovyākhyātatathācotaragrath"
-    },
-    {
      "len": 121,
      "verse": "Sū.19.6",
      "same_verse": true,
@@ -578,6 +572,12 @@
      "verse": "Sū.6.140",
      "same_verse": true,
      "text": "vātalakaphapitanavidyātkarṣaṭakīphalamadhurāyatipākānivātapitaharāṇicaaśvathodubarapraśnayagrodhānāphalānituprācīnāmalak"
+    },
+    {
+     "len": 113,
+     "verse": "Sū.13.15",
+     "same_verse": true,
+     "text": "stayorapiyasmādāmāśayotkleśābhūyiṣṭhatatsamudbhavakrameṇāyenatatrāpipravṛdhāsvāśayesthitāsvāśayeṣupraduṣṭānāsthit"
     },
     {
      "len": 113,
@@ -602,12 +602,6 @@
      "verse": "Sū.1.32",
      "same_verse": true,
      "text": "sagrahedatvālpasukhamalpenahetunāsaprajāyateyātināśeṣatārogakarmajoniyatāyuṣaprapatannivaviṣkamairdhārya"
-    },
-    {
-     "len": 102,
-     "verse": "Sū.1.13",
-     "same_verse": true,
-     "text": "malāmūtraśakṛtsvedādayopicaśakṛdādayomalāucyateapicetiśabdādūṣyāścetinakevalarasādayaevadūṣyāyāvanmalā"
     },
     {
      "len": 100,
@@ -662,21 +656,27 @@
      "verse": "Sū.15.1",
      "same_verse": true,
      "text": "vatsakamūrvāmadhurasādevadālījīmūtakakṛmighnaviḍagavidulovetasadahana"
+    },
+    {
+     "len": 68,
+     "verse": "Sū.6.171",
+     "same_verse": true,
+     "text": "ṣṇaāgneyaścaivamārutaalovidāhīnairṛtyovāyavyastiktaucyateātapobhrama"
     }
    ]
   },
   {
    "A": "Hemādri Sū",
    "B": "Aruṇadatta Sū",
-   "letters_A": 424168,
+   "letters_A": 421710,
    "pct_mula": 0.05,
-   "pct_source": 0.56,
-   "pct_comm": 0.98,
+   "pct_source": 0.58,
+   "pct_comm": 0.87,
    "pct_mula_same_verse": 42.0,
-   "pct_source_same_verse": 68.4,
-   "pct_comm_same_verse": 93.6,
-   "runs_comm": 55,
-   "runs_comm_ge100": 14,
+   "pct_source_same_verse": 69.2,
+   "pct_comm_same_verse": 92.7,
+   "runs_comm": 49,
+   "runs_comm_ge100": 12,
    "examples": [
     {
      "len": 133,
@@ -695,12 +695,6 @@
      "verse": "Sū.5.62",
      "same_verse": true,
      "text": "dbhaveviśeṣātkṛmikuṣṭhaghnetathordhvādhovirecaneakṣātimuktakākṣoṭanālikeramadhūkajatrapumervārukūṣmāḍaśleṣmātakapiyālajavātapitahara"
-    },
-    {
-     "len": 125,
-     "verse": "Sū.7.31",
-     "same_verse": true,
-     "text": "rvaphalapayasāsahābhyavahartuvirudhamapituvadevatathācamuniparisakhyayaivāpaṭhatārārātakalakucakaramardamocadataśaṭhabadarako"
     },
     {
      "len": 118,
@@ -743,12 +737,6 @@
      "verse": "Sū.6.171",
      "same_verse": true,
      "text": "ivātanutlekhanapitalakicitrapusaticatadguṇacakṣuṣyakṛṣṇalohacakapāyasvādutiktakalekhanavātalaśītakṛmi"
-    },
-    {
-     "len": 101,
-     "verse": "Sū.7.31",
-     "same_verse": true,
-     "text": "cālapayasāsahaikadhyatadutaravāvirudhaphalatathetiphalamakṣoḍādicapayasāsahadhasarvaśabdasarvatranasa"
     },
     {
      "len": 100,
@@ -812,12 +800,6 @@
     },
     {
      "len": 74,
-     "verse": "Sū.7.31",
-     "same_verse": true,
-     "text": "ikādikamityarthaayathāpayasodravanajātīyatvātkājikādyevadravadravyavirudhy"
-    },
-    {
-     "len": 74,
      "verse": "Sū.20.13",
      "same_verse": true,
      "text": "bhirevacaśṛtahavirvātaharasidhaścasnehaśirovastaukarṇapūraṇecayojyasarvaca"
@@ -827,21 +809,39 @@
      "verse": "Sū.29.27",
      "same_verse": true,
      "text": "nātibhṛṣṭayavasaktubhirghṛtāktairbhojanātebhasādakṣiṇāgulibhisumṛditair"
+    },
+    {
+     "len": 70,
+     "verse": "Sū.6.171",
+     "same_verse": true,
+     "text": "māśramāgnimūrchāścajayedapravātamatoyathāprāgvāyuruṣṇobhiṣyadītvagdoṣā"
+    },
+    {
+     "len": 70,
+     "verse": "Sū.8.46",
+     "same_verse": true,
+     "text": "kaṭulavaṇamalavāpūrvamāhāramāharetāhāromadhurohyagreguruviṣṭayajīryati"
+    },
+    {
+     "len": 70,
+     "verse": "Sū.20.13",
+     "same_verse": true,
+     "text": "pākamayāstabhakaṭharogapratiśyāyārūpikāteṣuyathāsvamāyatanadoṣodrekacā"
     }
    ]
   },
   {
    "A": "Aruṇadatta Sū",
    "B": "Hemādri Sū",
-   "letters_A": 452201,
+   "letters_A": 464692,
    "pct_mula": 0.04,
    "pct_source": 0.55,
-   "pct_comm": 0.85,
+   "pct_comm": 0.73,
    "pct_mula_same_verse": 41.8,
-   "pct_source_same_verse": 71.5,
-   "pct_comm_same_verse": 93.4,
-   "runs_comm": 51,
-   "runs_comm_ge100": 11,
+   "pct_source_same_verse": 72.2,
+   "pct_comm_same_verse": 92.6,
+   "runs_comm": 46,
+   "runs_comm_ge100": 9,
    "examples": [
     {
      "len": 133,
@@ -860,12 +860,6 @@
      "verse": "Sū.5.61",
      "same_verse": true,
      "text": "dbhaveviśeṣātkṛmikuṣṭhaghnetathordhvādhovirecaneakṣātimuktakākṣoṭanālikeramadhūkajatrapumervārukūṣmāḍaśleṣmātakapiyālajavātapitahara"
-    },
-    {
-     "len": 130,
-     "verse": "Sū.7.31",
-     "same_verse": true,
-     "text": "nasarvaphalapayasāsahābhyavahatuvirudhamapituvadevatathācamuniparisakhyayaivāpaṭhatathāprātakalakucakaramardamocadataśaṭhabadarako"
     },
     {
      "len": 117,
@@ -890,12 +884,6 @@
      "verse": "Sū.6.43",
      "same_verse": true,
      "text": "ekālapuchakacāruṣkavarapotaśaśoraṇāśvadaṣṭrārāmaśārabhakohakārakaśavarākarālakṛtamālaucapṛṣataścamṛgāsmṛtāiti"
-    },
-    {
-     "len": 109,
-     "verse": "Sū.7.31",
-     "same_verse": true,
-     "text": "cālapayasāsahaikadhyatadutaravāvirudhamitiphalatathetiphalamakṣoḍādicapayasāsahavirudhasarvaśabdasarvatranasa"
     },
     {
      "len": 100,
@@ -946,12 +934,6 @@
      "text": "vātaleṣmodbhavāstatradvistriyāveṣṭayedbraṇāsakṛdevaparikṣipyapitaraktābhivātajā"
     },
     {
-     "len": 78,
-     "verse": "Sū.7.31",
-     "same_verse": true,
-     "text": "ikādikamityarthaayathāpayasodravasamānajātīyatvātkājikādyevadravadravyavirudhy"
-    },
-    {
      "len": 77,
      "verse": "Sū.6.171",
      "same_verse": true,
@@ -992,15 +974,33 @@
      "verse": "Sū.8.35",
      "same_verse": false,
      "text": "praduṣyatividagdheṣupayasvayatpayastaseṣvivārpitamnaiśetasmādajīrṇen"
+    },
+    {
+     "len": 67,
+     "verse": "Sū.1.33",
+     "same_verse": true,
+     "text": "kṛdapiautsukyacamohaścāratiścatākarotītyautsukyamohāratikṛtautsukya"
+    },
+    {
+     "len": 67,
+     "verse": "Sū.1.33",
+     "same_verse": true,
+     "text": "acihnayasmisadṛṣṭariṣṭatathākṣanāśanaitiakṣāṇīdriyāyucyatecakṣurādī"
+    },
+    {
+     "len": 66,
+     "verse": "Sū.6.171",
+     "same_verse": true,
+     "text": "māśramāgnimūrchāścajayedapravātamatoyathāvāyuruṣṇobhiṣyadītvagdoṣā"
     }
    ]
   },
   {
    "A": "Hemādri (Ni/Ci/Ka)",
    "B": "Aruṇadatta (Ni/Ci/Ka)",
-   "letters_A": 220358,
+   "letters_A": 218419,
    "pct_mula": 0.07,
-   "pct_source": 0.6,
+   "pct_source": 0.61,
    "pct_comm": 0.59,
    "pct_mula_same_verse": 100.0,
    "pct_source_same_verse": 25.4,
@@ -1109,10 +1109,10 @@
   {
    "A": "Aruṇadatta (Ni/Ci/Ka)",
    "B": "Hemādri (Ni/Ci/Ka)",
-   "letters_A": 314862,
+   "letters_A": 318144,
    "pct_mula": 0.06,
    "pct_source": 0.29,
-   "pct_comm": 0.45,
+   "pct_comm": 0.44,
    "pct_mula_same_verse": 60.2,
    "pct_source_same_verse": 27.1,
    "pct_comm_same_verse": 30.5,
@@ -1271,15 +1271,15 @@
   {
    "A": "Aruṇadatta Sū 1928",
    "B": "Aruṇadatta Sū Parāḍkar",
-   "letters_A": 452201,
-   "pct_mula": 0.11,
-   "pct_source": 0.92,
-   "pct_comm": 53.08,
+   "letters_A": 464692,
+   "pct_mula": 0.13,
+   "pct_source": 0.9,
+   "pct_comm": 54.4,
    "pct_mula_same_verse": 100.0,
    "pct_source_same_verse": 99.0,
-   "pct_comm_same_verse": 99.5,
-   "runs_comm": 2063,
-   "runs_comm_ge100": 857,
+   "pct_comm_same_verse": 99.4,
+   "runs_comm": 2140,
+   "runs_comm_ge100": 891,
    "examples": [
     {
      "len": 1314,
@@ -1294,16 +1294,22 @@
      "text": "ikitsitakarmaṇipravartanādṛṣṭirdarśanacikitsāvijñānajāyatenakevalācikitsāśāstrāvagamātkibhūtādṛṣṭikarmaṇisidhistāprakāśayituśīlayasyāsākarmasidhiprakāśinīatradṛṣṭātamāharatnādītyādiādiśabdenasuvarṇahirayādīnāgrahaṇateṣāyatsadasajñānamidaśobhanamidanaśobhanamityavagamastannaśāstrādevajāyatekitarhyabh"
     },
     {
+     "len": 938,
+     "verse": "Sū.1.9",
+     "same_verse": true,
+     "text": "amititaiścavātādibhistisraprakṛtayapṛthagbhaveyurhīnamadhyotamāprakṛtiśarīrasvarūpaśukrārtavasthairitiśukrapiturdvitrirbidukāvastharetaṛtaubhavamārtavamāturdvitrirbidukāvasthaśoṇitaśukracārtavacatatratiṣṭhatītiśukrārtavasthāstaistathāvidhairjanmādaugarbhādhānakālejanmaprārabhegarbhādāvityarthananuca"
+    },
+    {
      "len": 888,
      "verse": "Sū.12.75",
      "same_verse": true,
      "text": "doṣabhedāvidhiyathāvātakṣīṇapitakaphāvatikṣīṇaupitakṣīṇavātakaphāvatikṣīṇaukaphakṣīṇapitavātāvatikṣīṇauvātapitekṣīṇekaphotikṣīṇapitakaphaukṣīṇauvātotikṣīṇavātakaphaukṣīṇaupitamatikṣīṇamekatulyakṣīṇairbhedavidhiṣaṭtāratayavikalpanātkaphakṣīṇapitakṣīṇataravātakṣīṇatamavātakṣīṇakaphakṣīṇatarapitakṣīṇat"
     },
     {
-     "len": 764,
-     "verse": "Sū.1.8",
+     "len": 756,
+     "verse": "Sū.1.24",
      "same_verse": true,
-     "text": "ititaiścavātādibhistisraprakṛtayapṛthagbhaveyurhīnamadhyotamāprakṛtiśarīrasvarūpaśukrārtavasthairitiśukrapiturdvitrirbidukāvastharetaṛtaubhavamārtavamāturdvitrirbidukāvasthaśoṇitaśukracārtavacatatratiṣṭhatītiśukrārtavasthāstaistathāvidhairjanmādaugarbhādhānakālejanmaprārabhegarbhādāvityarthananucaya"
+     "text": "etatrajāgalodeśolpodakataruparvatatvenavakṣyamāṇalakṣaṇovātabhūyiṣṭhovātapracuratatrajātauṣadhikhagapuruṣamṛgādayovātapradhānābhavatipracurodakavṛkṣoyonirvātodurlabhātapasonūpaitisacakaphapradhānatajāścauṣadhyādayasnigdhābhavatisādhāraṇapunarubhayalakṣaṇomadhyapatitovyāmiśrarūpasacasamamalovātādisam"
     },
     {
      "len": 736,
@@ -1324,7 +1330,7 @@
      "text": "avatariprabhṛtīnātaevamahātaścateṛṣayaścamaharṣayamahatvatajñānātiśayayogātenāyamarthonenakāraṇenānukapayānatuphalākākṣayābhagavataātreyādayomaharṣayobruvannāsmābhisvamatiparikalpitakicidapyatroktakevaladūtasadeśavacanayāyenayugānurūpakramamātroyathākṛtaityarthatathācāsyaivasagrahenamātrāmātramapyat"
     },
     {
-     "len": 690,
+     "len": 692,
      "verse": "Sū.6.64",
      "same_verse": true,
      "text": "ājamāsamanabhiṣyadibṛhaṇacaguṇakṛtacātrasāmāyagṛhyatenadravyakṛtadravyakṛtehisāmāyegṛhyamāṇeturagoragādimāsamapipuruṣaśarīradhātormāsākhyasyamāsatvenasamānabhavatītitadapyanabhiṣyadibṛhaṇacasyānnakevalamājamāsaguṇakṛtetusāmāyegṛhīteśarīradhātusāmāyādājamevamāsamanabhiṣyadibṛhaṇacetivaktuyujyatemāsag"
@@ -1342,6 +1348,12 @@
      "text": "bhavatipathyacānucitaniṣevitabhavatitathādvitīyennakālesarvamapathyayojanīyamevamekenānnakālenāpathyapādotarīkṛtatatastṛtīyepyucitādapathyātpādadvayamapāsyānucitātpathyātpādadvayamupayujyatataścaturthasarvamapathyabhojyapacamecaevamannakāladvayenapathyapādadvayasahitamapathyapādadvayamatarīkṛtatataṣ"
     },
     {
+     "len": 610,
+     "verse": "Sū.1.6",
+     "same_verse": true,
+     "text": "vistaratastusasargasannipātakṣayasamatādibhedabhināstāratayaparikalpanayācakalpyamānāānatyanātivikṛtāsvabhāvapracyutādehannatidehapadamatrajīvitopalakṣaṇārthajīvitenavinākurvatītyarthaavikṛtāpunardehavartayatiprāpayativikṛtānādoṣāṇāprāgupayāsasteṣāprakṛtyavasthānenityabhiṣajāyatnavatābhāvyamitisūcan"
+    },
+    {
      "len": 578,
      "verse": "Sū.1.6",
      "same_verse": true,
@@ -1352,6 +1364,24 @@
      "verse": "Sū.3.25",
      "same_verse": true,
      "text": "kīdṛśasasukhīrāgadveṣādirahitakibhūteṣukānaneṣudakṣiṇadikapravṛtairanilaiśītāniteṣudakṣiṇānilaśīteṣutathāparitasamatājalanityavahatiyāniteṣuābhīkṣyeṇinitathākacitpradeśedṛṣṭaīṣadṛṣṭakacidatighanatvānnaṣṭonadṛśyatesūryoyeṣūpavaneṣutāyevateṣutathāmaṇīnāvajramarakatādīnākuṭimāniviśiṣṭābhuvastābhikātiśo"
+    },
+    {
+     "len": 569,
+     "verse": "Sū.1.31",
+     "same_verse": true,
+     "text": "agacatuṣṭayeparipūrṇesatigraheṣvanuguṇeṣvitigrahāsūryādayasteṣvanuguṇeṣvanukūlarāśisthiteṣuśobhanasthānagateṣusatsuekadoṣamārgaitidoṣaścamārgaścadoṣamārgamekadoṣamārgayasyasatathoktadoṣovātādimārgastrividhaśākhādirvakṣyamāṇobāhyābhyataramadhyabhedenatenaikenavātādīnāmayatamenadoṣeṇayojātonadvābhyātr"
+    },
+    {
+     "len": 554,
+     "verse": "Sū.1.12",
+     "same_verse": true,
+     "text": "etaduktabhavatidvayosvapramāṇādhikayokṣīṇayorvāsayogasasargatrayāṇādoṣāṇāvṛdhānākṣīṇānāvāsayogasannipātarasādayasaptadhātusajñāśarīradhāraṇādhātavastecadūṣyāvātādibhirdūṣyataitidūṣyāyasmādhātādīnādūṣaṇasvabhāvatvādyādoṣasajñāsāvarthasajñādūṣayatītidoṣāatovaśyatedūṣyamapekṣatekarmavinākartukriyāyāasa"
+    },
+    {
+     "len": 546,
+     "verse": "Sū.1.6",
+     "same_verse": true,
+     "text": "āviṣātmikāviṣeṇāśucamaraṇesabhāvyamānerasāyanopayogoyuktaitirasāyanacikitsāathavāviṣasyarasāyanajeyatvādrasāyanakathanaprastāvatatonataravājīkaraṇasyabharaṇenaprastāvatathācādhītegrathakṛtvājīkaraṇamavichetsatataviṣayīpumānitirasāyanasyapaścādityarthayatrālpaduṣṭaretasātadāpyāyanaprasādopajananarūpā"
     },
     {
      "len": 546,
@@ -1378,10 +1408,10 @@
      "text": "airmahābhūtaistadāśrayāyapidravyāyārabdhānitānirasādisamānapratyayārabdhāyucyatetānicayathāyathatatkarmarasādyanuguṇasāmāyātkurvateyathākṣīrekṣuśarkarādīnikānicitpunastadāśritarasādisamārabhakamahābhūtāyayānitadāśrayadravyārabhakāyayānicamahābhūtānitairārabdhānitānivicitrapratyayārabdhānidravyāṇieta"
     },
     {
-     "len": 505,
-     "verse": "Sū.1.31",
+     "len": 508,
+     "verse": "Sū.7.43",
      "same_verse": true,
-     "text": "agacatuṣṭayeparipūrṇesatigraheṣvanuguṇeṣvitigrahāsūryādayasteṣvanuguṇeṣvanukūlarāśisthiteṣuśobhanasthānagateṣusatsuekadoṣamārgaitidoṣaścamārgaścadoṣamārgamekadoṣamārgayasyasatathoktadoṣovātādimārgastrividhaśākhādirvakṣyamāṇobāhyābhyataramadhyabhedenatenaikenavātādīnāmayatamenadoṣeṇayojātonadvābhyātr"
+     "text": "alākāvatsadyojīvitaharāpatrāḍhyomayūrahārītasyapakṣiviśeṣasyamāsahāridraśūlakeprotamāsaktacatatpācitacahāridrāgnināsadyojīvitahetitairevavairodhikakupitadoṣapratipakṣabhūtairdravyaipūrvaprathamayāśarīrasyābhisaskṛtisācavirudhāhārakṛtevikārepraśastetiyathāmākṣikaharītakyādināpitaśleṣmaharaṇauṣadhenas"
     },
     {
      "len": 504,
@@ -1400,36 +1430,6 @@
      "verse": "Sū.1.2",
      "same_verse": true,
      "text": "onurajyateititadetatsajñāmātreṇasukhanatvatyatamitipradarśayitusukhasajñeṣvitimuninoktamātyatikasukhamokṣākhyayatranadukhānāśleṣateṣāsādhanamupāyodharmārthamukhasādhanambrahmetyādibrahmāyuṣovedasmṛtvāprajāpatidakṣamajigrahadavabodhayatsmṛtvetyanenaitadgamayatibrahmaṇasmartṛtvamevātranakartṛtvamnitya"
-    },
-    {
-     "len": 493,
-     "verse": "Sū.3.31",
-     "same_verse": true,
-     "text": "ayanmṛdbhājanatatrasthitatathāmocakadalīphalacocapanasaphalatayordalānitairyuktatathasālatitiḍīkādiyogātkhāḍavarasānugatakecitukṣīraghṛtapipalīśaśimākṣikaśarkaropetapacasārapānakamityāhukenapibedityāhamṛnmayaśuktibhipāṭalayāvāsitasurabhīkṛtatathāsakarpūrasuśītalacābhapibetmṛnmayaśuktibhirityatrāpiyo"
-    },
-    {
-     "len": 489,
-     "verse": "Sū.15.47",
-     "same_verse": true,
-     "text": "asnehasyasarpirādervidhisnehavidhistavyākhyāsyāmaśeṣapūrvavadyojyamgurvādiguṇayuktayadvayatatsnehanabhavativiparītamatoyallaghuṣṇasthirarūkṣatīkṣṇasthūlakaṭhinasādraguṇopetatadvirūkṣaṇaprāyoprahaṇavirūkṣaṇesnehanecayojyatathācalaghvapisārdhatailachāgacadugdhatathāviṣkirapratudamṛgāsyavargatrayasneha"
-    },
-    {
-     "len": 475,
-     "verse": "Sū.1.4",
-     "same_verse": true,
-     "text": "idheyānitatrāṇitenirevistāritavataścakrutatryatedhāryataāyurvedārthāebhirititatrāṇitebhyaititebhyograthebhyotiviprakīrṇebhyovikṣitebhyaucāvacoktārthatayaivetaścetaścagatebhyotaevakaścidevārthakasmādevatatrātarājñāyateyathāśalyacikitsāsuśrutapraṇītātatrādevāvagayatenatathāgniveśādikātūrdhvāgacikitsāc"
-    },
-    {
-     "len": 474,
-     "verse": "Sū.3.9",
-     "same_verse": true,
-     "text": "ityatrayaśīlayedityeṣaśabdasavātaghnatailādesarvasyatulyakakṣatādyotayatitathāprāvārājinetyādauyobhajechabdasasakalasyāhāravihāraśīlanasyaśayanavidheścatulyatāprathayatitathācavakṣyatiāhāraśayanābrahmacaryairyuktyāprayojitaiśarīradhāryatenityamāgāramivadhāraṇaiitivātaghnatailairabhyagaśīlayetailasya"
-    },
-    {
-     "len": 467,
-     "verse": "Sū.8.8",
-     "same_verse": true,
-     "text": "ātrāṇisūcībhirivavidhyatitasmādvisūciketyucyatevividhānāvikārāṇāsūcikāvisūcikāvisūciketyucyatevātādadhikāchūlādayobhavatiādiśabdenāgodveṣṭanamukhaśoṣādiparigrahapitādbṛdhājvarādyāsyupralayomūrchāprāyaādiśabdenamadādiparigrahakaphādadhikāchardhādayobhavatiādiśabdenakṣavadhvādīnāgrahaṇamdurbalatvādiyu"
     }
    ]
   }
