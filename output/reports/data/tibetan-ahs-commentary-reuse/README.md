@@ -23,3 +23,8 @@ Page-image check of the misfiling suspects (§12): `siglcheck/` — `clusters.py
 `clusters.json` (runs with crop paths), `verdicts_final.json` (siglum read off the page per run).
 `sigla_overrides.json`: the eight hand corrections applied by `assemble.py`. `siglcheck/walkback.py`: third pass (walks back through the page images to the last legible siglum).
 `cakrapani_overlap.py`: locates Aruṇadatta passages shared with Cakrapāṇi's Āyurvedadīpikā.
+
+Proofreading of Sū.1, 6, 7 of the 1928 edition (report §10): `proof/` — `BRIEF.md` (instructions given to the
+proofreaders), `prep.py` (page-image crops per OCR block), `add.py` (records one correction), `parallel.py` (parallel
+lookup for clipped letters), `t1928/corr_*.jsonl` (the 4,521 corrections, applied by `assemble.py`), `blind.py` and
+`sample.json` / `sample_key.json` / `answers.json` (blind check of 80 corrections: 77 agree).

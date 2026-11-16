@@ -94,6 +94,20 @@ FN_SEED = re.compile(r"(?:^|\s)[०-९]{1,2}\s*[‘'“\"]")
 FN_MS = re.compile(r"पुस्तक|पाठ|(?:[कखगघङचजझटठड]\.?\s){2,}")
 SKIP = {"PageHeader", "PageFooter", "Picture", "Figure", "Picture-group"}
 
+# proofreading corrections (proof/BOOK/corr_*.jsonl, see proof/BRIEF.md); kind "print" is recorded only
+CORR = defaultdict(list)
+for cf in sorted(glob.glob(f"{P}/proof/{BOOK}/corr_*.jsonl")):
+    for l in open(cf):
+        c = json.loads(l)
+        if c["kind"] != "print" and not (c["kind"] == "restored" and c["conf"] == "low"):   # low restorations: recorded only
+            CORR[(c["page"], c["block"])].append(c)
+corr_stat = Counter()
+def corrected(pno, b, t):
+    for c in CORR.get((pno, int(b.get("reading_order", 0))), []):
+        if t.count(c["old"]) == 1: t = t.replace(c["old"], c["new"]); corr_stat["applied"] += 1
+        else: corr_stat["not applied"] += 1; print("correction not applied:", pno, c["block"], c["old"])
+    return t
+
 stream, footnotes, headers, last_p = [], [], {}, None
 for pno, pg in pages():
     H = pg.get("image_bbox", [0, 0, 0, 3600])[3]
@@ -116,7 +130,7 @@ for pno, pg in pages():
                    for sd in seeds)
     for b in bl:
         if b["label"] in SKIP: continue
-        t = block_text(b)
+        t = corrected(pno, b, block_text(b))
         if not t: continue
         if is_note(b["bbox"]):
             footnotes.append((pno, t)); continue
@@ -211,9 +225,13 @@ VEND = re.compile(r"॥\s*[०-९0-9]+(?:\s*[-–,]\s*[०-९0-9]+)*\s*॥")
 # The fuzzy verse match can run past the closing verse number into the next commentary's siglum
 # ("… ॥ २७ ॥ स०--न …"); end the mūla at the verse number when a siglum-like token follows it.
 _VS = re.compile(r"॥\s*[०-९0-9]+\s*॥(?=\s*(?:\uE000\d+\uE001)?\s*\S{1,3}\s*[०o0.]\s*[-—–])")
+_SIG_LOOSE = re.compile(r"(?<=[\s।॥\uE001])(?:स्व|स्|स|म|हे|हृ|ह्|ह|प|ष)\s*[०o0.](?=\s|$|[-—–~=])")   # siglum, dash optional
 for f in found:
     m = _VS.search(text, f["start"], f["end"])
     if m: f["end"] = m.end()
+    # nor may it contain a siglum at all (verse number without its closing ॥: "… ॥१६५ स०--")
+    m = SIG.search(text, f["start"] + 1, f["end"]) or _SIG_LOOSE.search(text, f["start"] + 1, f["end"])
+    if m: f["end"] = m.start()
 segs = []
 segs.append({"type": "frontmatter", "ref": None, "start": 0, "end": found[0]["start"] if found else len(text)})
 for k, f in enumerate(found):
@@ -356,3 +374,4 @@ rep["printed_pages_missing_from_scan"] = gaps
 json.dump(rep, open(f"{P}/check/{BOOK}_report.json", "w"), ensure_ascii=False, indent=1)
 print(json.dumps({k: v for k, v in rep.items() if k != "missing_verses"}, ensure_ascii=False, indent=1))
 print("missing (first 30):", missing[:30])
+print("proofreading corrections:", dict(corr_stat))

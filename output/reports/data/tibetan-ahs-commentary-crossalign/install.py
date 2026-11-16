@@ -11,11 +11,14 @@ D = LIB / "1_sanskr/6_sastra/7_ayur"
 ED_1928 = """#   Edition: Aṣṭāṅgahṛdaya, Sūtrasthāna, with the Sarvāṅgasundarā of Aruṇadatta, the Padārthacandrikā of
 #   Candranandana and the Āyurvedarasāyana of Hemādri, ed. Rām Prasād Śarmā, 1928 ("saṭippaṇaṭīkātrayasaṃvalita");
 #   scan: archive.org ashtangahridayavagbhattacommentaryofarunadattapadarthachandrikachandranandatikah_167_i.
-#   The scan lacks leaves (printed pp. 52–53, 80–81, 160–161; see check/t1928_report.json)."""
+#   The scan lacks leaves (printed pp. 52–53, 80–81, 160–161; see check/t1928_report.json).
+#   Proofread: Sū.1, 6 and 7 (PDF pp. 25–65, 150–236) were proofread against the page images (2026-10-31;
+#   4,434 corrections, letters lost at clipped column edges restored and marked in proof/t1928/corr_*.jsonl).
+#   The other chapters are uncorrected OCR."""
 ED_PARAD = """#   Edition: Aṣṭāṅgahṛdaya with the Sarvāṅgasundarā of Aruṇadatta and the Āyurvedarasāyana of Hemādri,
 #   ed. A. M. Kuṇṭe and K. R. Ś. Navare, revised by Hari Śāstrī Parāḍkar, Nirṇaya Sāgar Press, Bombay (1939);
 #   scan: /qnap/kengo/dox/Books_and_Articles_on_iCloud/Ashtanga.Hridaya.of.Vagbhata.pdf (lacks printed pp. 658–659)."""
-COMMON = """#   Source: uncorrected Surya OCR 2 (2026-10-30); pipeline, reports and the page-faithful structure file in
+COMMON = """#   Source: Surya OCR 2 (2026-10-30), uncorrected except where stated above; pipeline, reports and the page-faithful structure file in
 #   /mnt2/kengo/ocr-ahs-tika1928 (README.md).
 #   Separation: the mūla was located by fuzzy-matching every verse of the Das & Emmerick e-text
 #   (vagbhata_astangahrdaya.txt) in the OCR stream; commentaries were split by their sigla. Expect some

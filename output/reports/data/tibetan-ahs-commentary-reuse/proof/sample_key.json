@@ -1,0 +1,482 @@
+[
+ {
+  "id": 0,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 1,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 2,
+  "proposed": "A",
+  "conf": "medium",
+  "kind": "ocr"
+ },
+ {
+  "id": 3,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 4,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 5,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 6,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 7,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 8,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 9,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 10,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 11,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 12,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 13,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 14,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 15,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 16,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 17,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 18,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 19,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 20,
+  "proposed": "B",
+  "conf": "medium",
+  "kind": "ocr"
+ },
+ {
+  "id": 21,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 22,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 23,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 24,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 25,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 26,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 27,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 28,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 29,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 30,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 31,
+  "proposed": "A",
+  "conf": "medium",
+  "kind": "ocr"
+ },
+ {
+  "id": 32,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 33,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 34,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 35,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 36,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 37,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 38,
+  "proposed": "A",
+  "conf": "medium",
+  "kind": "ocr"
+ },
+ {
+  "id": 39,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 40,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 41,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 42,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 43,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 44,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 45,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 46,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 47,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 48,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 49,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 50,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 51,
+  "proposed": "B",
+  "conf": "medium",
+  "kind": "ocr"
+ },
+ {
+  "id": 52,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 53,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 54,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 55,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 56,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 57,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 58,
+  "proposed": "A",
+  "conf": "medium",
+  "kind": "ocr"
+ },
+ {
+  "id": 59,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 60,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 61,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 62,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 63,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 64,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 65,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 66,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 67,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 68,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 69,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 70,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 71,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 72,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 73,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 74,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 75,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 76,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 77,
+  "proposed": "A",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 78,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ },
+ {
+  "id": 79,
+  "proposed": "B",
+  "conf": "high",
+  "kind": "ocr"
+ }
+]

@@ -155,3 +155,17 @@ Sū.30 12 %, other chapters 2.0 → 1.7 % — the block-copying finding stands; 
 - Verification: all 198 decided runs (147 correct + 51 misfiled) are now in the commentator the page
   shows. Suspect letters: 28k → 26k. Library re-installed (catalog/move_log_20261031_124203_…;
   old copies → _trash, trash_log_*_ahs_commentaries_pass3.tsv). Cross-alignment re-run (logs/xalign_rerun2.log).
+- 2026-10-31 evening: **proofreading of Sū.1, 6, 7 (t1928, PDF pp. 25–65, 150–236).** `proof/prep.py` crops every
+  text block (300 dpi) with its OCR; 12 sub-agents compared each crop with the OCR following `proof/BRIEF.md`
+  (pilot on pp. 35–36 first) and recorded corrections with `proof/add.py` in `proof/t1928/corr_*.jsonl`
+  (page, block, kind ocr/restored/missing/print, confidence, old → new, note); `proof/parallel.py` looks up
+  parallels (Parāḍkar, the other commentators, root text, Saṃgraha, Caraka, Suśruta) for letters lost at
+  clipped column edges. 4,521 entries: 3,113 ocr, 1,376 restored, 7 missing, 25 print. `assemble.py` applies
+  them to the block text before assembly (4,434 applied; "print" entries and low-confidence restorations are
+  recorded only; 6 duplicates). Blind check (`proof/blind.py`, 80 random ocr/missing entries, readings shown
+  in random order to a fresh reader): 77 agree, 3 marginal (a dot or stroke). Typical OCR errors: घ्न → न्न/ध्न,
+  हृ → ह, अह्नो → अहो, dropped anusvāra, ग्नि → भि, श्ले → ल्ले, sigla ह०/म०/न० for हे०/स०/प०.
+  Pipeline fix found through it: a verse match may not contain a siglum (also without dash or closing ॥:
+  "… ॥१६५ स०--", "३१ स०"); this returned ~27k (t1928) and ~28k (parad) characters of Aruṇadatta that had been
+  left as lead-in/unassigned or attached to Hemādri. Re-installed (catalog/move_log_20261031_192703_…;
+  old copies → _trash, trash_log_20261031_192703_ahs_commentaries_proofread.tsv).

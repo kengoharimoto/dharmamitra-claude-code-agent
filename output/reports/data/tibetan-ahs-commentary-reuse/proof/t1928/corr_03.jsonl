@@ -1,0 +1,301 @@
+{"page": 62, "block": 3, "kind": "ocr", "conf": "medium", "old": "शुद्धचादिस्नेहन", "new": "शुद्ध्यादिस्नेहन", "note": "ध्य read as धच"}
+{"page": 62, "block": 5, "kind": "ocr", "conf": "medium", "old": "ऽध्यायास्त्रिशत्", "new": "ऽध्यायास्त्रिंशत्", "note": "anusvāra dropped"}
+{"page": 62, "block": 6, "kind": "ocr", "conf": "medium", "old": "पूर्वोक्तास्त्रिशदध्यायाः", "new": "पूर्वोक्तास्त्रिंशदध्यायाः", "note": "anusvāra dropped"}
+{"page": 62, "block": 6, "kind": "ocr", "conf": "high", "old": "दिनत्वीहे च", "new": "दिनर्त्वीहे च", "note": "reph dropped"}
+{"page": 62, "block": 6, "kind": "ocr", "conf": "high", "old": "द्वेष्टः", "new": "द्वंद्वः", "note": ""}
+{"page": 62, "block": 6, "kind": "ocr", "conf": "high", "old": "विधिर्नृत्य-विधि", "new": "विधिर्नस्य-विधि", "note": ""}
+{"page": 62, "block": 6, "kind": "ocr", "conf": "high", "old": "विधिर्गङ्गविधि", "new": "विधिर्गंडूषविधि", "note": ""}
+{"page": 62, "block": 6, "kind": "ocr", "conf": "high", "old": "संत्रस्य शिरः", "new": "तंत्रस्य शिरः", "note": "line-initial"}
+{"page": 62, "block": 7, "kind": "ocr", "conf": "medium", "old": "पूर्वोक्तास्त्रिशदध्यायाः", "new": "पूर्वोक्तास्त्रिंशदध्यायाः", "note": "anusvāra dropped"}
+{"page": 62, "block": 7, "kind": "ocr", "conf": "high", "old": "दिनत्वीहा च", "new": "दिनर्त्वीहा च", "note": "reph dropped"}
+{"page": 62, "block": 7, "kind": "ocr", "conf": "high", "old": "नृत्य-विधिः", "new": "नस्य-विधिः", "note": ""}
+{"page": 62, "block": 7, "kind": "ocr", "conf": "medium", "old": "द्रवद्रव्यविज्ञानीयः", "new": "द्रवद्रव्यविज्ञानयिः", "note": "print reads ज्ञानयिः (misprint for ज्ञानीयः), reproduce print"}
+{"page": 62, "block": 7, "kind": "print", "conf": "medium", "old": "द्रवद्रव्यविज्ञानीयः", "new": "द्रवद्रव्यविज्ञानीयः", "note": "print misprint विज्ञानयिः"}
+{"page": 62, "block": 8, "kind": "ocr", "conf": "medium", "old": "आयुष्कामादयास्त्रिशदध्यायाः", "new": "आयुष्कामादयास्त्रिंशदध्यायाः", "note": "anusvāra dropped"}
+{"page": 62, "block": 9, "kind": "ocr", "conf": "high", "old": "गर्भावक्रांतितद्वयापदंगर्भविभागिकम्", "new": "गर्भावक्रांतितद्व्यापदंगमर्मविभागिकम्", "note": "द्व्या; मर्म misread"}
+{"page": 62, "block": 12, "kind": "ocr", "conf": "high", "old": "तद्वयापत्", "new": "तद्व्यापत्", "note": "virama dropped"}
+{"page": 62, "block": 16, "kind": "ocr", "conf": "high", "old": "मदाद्यशोऽतिसारिणाम्", "new": "मदाद्यर्शोऽतिसारिणाम्", "note": "reph dropped"}
+{"page": 62, "block": 16, "kind": "ocr", "conf": "high", "old": "च पांडश ५३", "new": "च षोडश ५३", "note": ""}
+{"page": 62, "block": 17, "kind": "ocr", "conf": "high", "old": "श्वासहिक्रानिदानम्", "new": "श्वासहिक्कानिदानम्", "note": ""}
+{"page": 62, "block": 17, "kind": "ocr", "conf": "high", "old": "अशोनिदानम्", "new": "अर्शोनिदानम्", "note": "reph dropped"}
+{"page": 62, "block": 18, "kind": "ocr", "conf": "high", "old": "श्वासहिक्रानिदानम्", "new": "श्वासहिक्कानिदानम्", "note": ""}
+{"page": 62, "block": 18, "kind": "ocr", "conf": "high", "old": "अशोनिदानम्", "new": "अर्शोनिदानम्", "note": "reph dropped"}
+{"page": 63, "block": 3, "kind": "ocr", "conf": "medium", "old": "कुमिनिदानम्", "new": "क्रिमिनिदानम्", "note": "क्रि misread"}
+{"page": 63, "block": 3, "kind": "restored", "conf": "high", "old": "ादानम् । इत्येवं", "new": "निदानम् । इत्येवं", "note": "edge clipped"}
+{"page": 63, "block": 5, "kind": "restored", "conf": "high", "old": "कित्सितं ज्वरे", "new": "चिकित्सितं ज्वरे", "note": "edge clipped"}
+{"page": 63, "block": 5, "kind": "restored", "conf": "high", "old": "गै मदात्ययेऽर्शः", "new": "वमौ मदात्ययेऽर्शः", "note": "edge clipped; AHS वमौ"}
+{"page": 63, "block": 6, "kind": "restored", "conf": "high", "old": "द्रधौ गुल्म", "new": "विद्रधौ गुल्म", "note": "edge clipped"}
+{"page": 63, "block": 6, "kind": "ocr", "conf": "high", "old": "विसार्पषु", "new": "विसर्पिषु", "note": ""}
+{"page": 63, "block": 6, "kind": "restored", "conf": "high", "old": "उश्वित्रानिल", "new": "कुष्ठश्वित्रानिल", "note": "edge clipped"}
+{"page": 63, "block": 6, "kind": "restored", "conf": "high", "old": "वैशतिरिमे", "new": "द्वाविंशतिरिमे", "note": "edge clipped"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "केत्सितम् । रक्त", "new": "चिकित्सितम् । रक्त", "note": "edge clipped"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "medium", "old": "गृहिकाचिकित्सितम्", "new": "श्वासहिक्काचिकित्सितम्", "note": "edge clipped; print हिक्का; Parāḍkar श्वासहिका"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "हृद्रोगतृष्णाचिकित्सितम्", "new": "छर्दिहृद्रोगतृष्णाचिकित्सितम्", "note": "edge clipped; Parāḍkar"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "श्विकित्सितम् । अतीसार", "new": "अर्शश्चिकित्सितम् । अतीसार", "note": "edge clipped; Parāḍkar अर्शश्चि"}
+{"page": 63, "block": 7, "kind": "ocr", "conf": "high", "old": "प्रहणीचि-", "new": "ग्रहणीचि-", "note": ""}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "त्सितम् । मूत्राघात", "new": "कित्सितम् । मूत्राघात", "note": "edge clipped"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "। विद्रविवृद्धि", "new": "तम् । विद्रधिवृद्धि", "note": "edge clipped (तम्); ध misread व"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "चिकित्सितम् । पांडुरोग", "new": "उदरचिकित्सितम् । पांडुरोग", "note": "edge clipped; Parāḍkar"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "सितम् । विसर्प", "new": "कित्सितम् । विसर्प", "note": "edge clipped"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "medium", "old": "कुमिचिकित्सितम्", "new": "श्वित्रक्रिमिचिकित्सितम्", "note": "edge clipped; श्वित्र from Parāḍkar; क्रि misread"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "तचिकित्सितम् । इमे", "new": "शोणितचिकित्सितम् । इमे", "note": "edge clipped"}
+{"page": 63, "block": 7, "kind": "restored", "conf": "high", "old": "स्थानम् अत ऊर्ध्वं", "new": "त्सितस्थानम् अत ऊर्ध्वं", "note": "edge clipped"}
+{"page": 63, "block": 8, "kind": "restored", "conf": "high", "old": "न०--चिकित्सास्थान", "new": "प०--चिकित्सास्थान", "note": "SIGLUM: edge-clipped प० misread न०"}
+{"page": 63, "block": 8, "kind": "restored", "conf": "medium", "old": "द्वाविंशतिरध्याया\nचिकित्सितम्, रक्त", "new": "द्वाविंशतिरध्याया\nज्वरचिकित्सितम्, रक्त", "note": "edge clipped; ज्वर lost"}
+{"page": 63, "block": 8, "kind": "restored", "conf": "high", "old": "कासचिकि-\nम्,", "new": "कासचिकि-\nत्सितम्,", "note": "edge clipped"}
+{"page": 63, "block": 8, "kind": "ocr", "conf": "high", "old": "हिकाचिकित्सितम्,", "new": "हिक्काचिकित्सितम्,", "note": ""}
+{"page": 63, "block": 8, "kind": "ocr", "conf": "high", "old": "कुष्ठचिकित्सितम्, कुमिचिकित्सितम्, वात-\nचिकित्सितम्, वातशोणितचिकित्सितम्,", "new": "राजयक्ष्मचिकित्सितम्, छर्दिहृद्रोगतृष्णाचिकित्सि-", "note": "OCR substituted a line from b9 for printed line 4; राजय edge-clipped (restored)"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "वातव्याधिचिकित्सितम्, अर्शाश्विकित्सितम्,", "new": "तम्, मदात्ययचिकित्सितम्, अर्शश्चिकित्सितम्,", "note": "OCR hallucinated line start; print मदात्यय...; तम्, edge-clipped"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "गृहिकाचिकित्सितम्, प्रहणीरोग", "new": "अतीसारचिकित्सितम्, ग्रहणीरोग", "note": "edge clipped; OCR garbled"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "गृहिकाचिकित्सितम्, प्रमेहचिकित्सितम्, विद्रवि-", "new": "मूत्राघातचिकित्सितम्, प्रमेहचिकित्सितम्, विद्रधि-", "note": "edge clipped; OCR garbled"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "पाण्डुरोग-\nत्सितम्", "new": "पाण्डुरोग-\nचिकित्सितम्", "note": "edge clipped"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "विसर्पचिकित्सि-\nकुष्ठचिकित्सितम्, कुमि", "new": "विसर्पचिकित्सि-\nतम्, कुष्ठचिकित्सितम्, क्रिमि", "note": "edge clipped; क्रि misread"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "वात-\nचिकित्सितम्, वातशोणित", "new": "वात-\nव्याधिचिकित्सितम्, वातशोणित", "note": "edge clipped"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "high", "old": "विशतिरध्यायाः", "new": "द्वाविंशतिरध्यायाः", "note": "edge clipped"}
+{"page": 63, "block": 9, "kind": "restored", "conf": "medium", "old": "कल्पस्थानम् ॥ ५४", "new": "कल्पसिद्धिस्थानम् ॥ ५४", "note": "print shows ...द्धिस्थानम्; कल्पसि clipped"}
+{"page": 63, "block": 10, "kind": "restored", "conf": "high", "old": "ज्वरचिकित्सादयो", "new": "हे०--ज्वरचिकित्सादयो", "note": "SIGLUM lost at clipped edge (only ०-- visible); Hemādri"}
+{"page": 63, "block": 11, "kind": "ocr", "conf": "high", "old": "वर्मार्वरेकस्य", "new": "वमेर्विरेकस्य", "note": ""}
+{"page": 63, "block": 11, "kind": "ocr", "conf": "high", "old": "द्रव्यकल्पो त उत्तरम्", "new": "द्रव्यकल्पोऽत उत्तरम्", "note": "avagraha"}
+{"page": 63, "block": 12, "kind": "ocr", "conf": "high", "old": "मेषजकल्पः", "new": "भेषजकल्पः", "note": "भ/म"}
+{"page": 63, "block": 15, "kind": "ocr", "conf": "high", "old": "स्थानाद्धर्वमुत्त", "new": "स्थानादूर्ध्वमुत्त", "note": ""}
+{"page": 63, "block": 16, "kind": "ocr", "conf": "high", "old": "तद्याधौ तद्गृहं", "new": "तद्व्याधौ तद्ग्रहे", "note": ""}
+{"page": 63, "block": 16, "kind": "ocr", "conf": "high", "old": "हृक्तमोलिंगनाशेषु", "new": "दृक्तमोलिंगनाशेषु", "note": ""}
+{"page": 63, "block": 16, "kind": "print", "conf": "medium", "old": "चात्वरिंशोऽनपत्यानाम", "new": "चत्वारिंशोऽनपत्यानाम", "note": "print चात्वरिंशो (as OCR)"}
+{"page": 63, "block": 17, "kind": "ocr", "conf": "high", "old": "बालप्रहप्रतिषेधः", "new": "बालग्रहप्रतिषेधः", "note": ""}
+{"page": 63, "block": 17, "kind": "ocr", "conf": "medium", "old": "भगप्रति०", "new": "भंगप्रति०", "note": "anusvāra"}
+{"page": 63, "block": 17, "kind": "ocr", "conf": "high", "old": "दक्षीपदादिवि०", "new": "दश्लीपदादिवि०", "note": ""}
+{"page": 63, "block": 17, "kind": "ocr", "conf": "high", "old": "कीटद्धतादिविषप्र०", "new": "कीटलूतादिविषप्र०", "note": ""}
+{"page": 63, "block": 17, "kind": "print", "conf": "low", "old": "नसारोगप्र०", "new": "नासारोगप्र०", "note": "print नसारोग (as OCR)"}
+{"page": 64, "block": 3, "kind": "ocr", "conf": "high", "old": "कालकविपप्र०", "new": "कालर्कविषप्र०", "note": ""}
+{"page": 64, "block": 3, "kind": "ocr", "conf": "high", "old": "दृक्तमोलिगनाशेषु", "new": "दृक्तमोलिंगनाशेषु", "note": ""}
+{"page": 64, "block": 3, "kind": "ocr", "conf": "high", "old": "ग्रंथ्यादिक्षुद्रोग", "new": "ग्रंथ्यादिक्षुद्ररोग", "note": ""}
+{"page": 64, "block": 4, "kind": "ocr", "conf": "high", "old": "दूर्धर्वमुत्तर", "new": "दूर्ध्वमुत्तर", "note": ""}
+{"page": 64, "block": 4, "kind": "ocr", "conf": "high", "old": "ग्रन्थ्यर्थुदन्शी-", "new": "ग्रन्थ्यर्बुदश्ली-", "note": ""}
+{"page": 64, "block": 4, "kind": "ocr", "conf": "high", "old": "ग्रन्थ्यर्थुदापची", "new": "ग्रन्थ्यर्बुदापची", "note": ""}
+{"page": 64, "block": 4, "kind": "ocr", "conf": "high", "old": "कीटलतादि", "new": "कीटलूतादि", "note": ""}
+{"page": 64, "block": 4, "kind": "ocr", "conf": "high", "old": "मूषिकालक-", "new": "मूषिकालर्क-", "note": ""}
+{"page": 64, "block": 4, "kind": "ocr", "conf": "high", "old": "ग्रन्थ्यादिक्षुद्रोग", "new": "ग्रन्थ्यादिक्षुद्ररोग", "note": ""}
+{"page": 64, "block": 4, "kind": "print", "conf": "medium", "old": "हेतुरिति ॥ ५५ ॥", "new": "हेतुरिति ॥ ५६ ॥", "note": "print verse no. ५५ (should be ५६), as OCR"}
+{"page": 64, "block": 7, "kind": "ocr", "conf": "high", "old": "सर्विंशम", "new": "सविंशम", "note": ""}
+{"page": 64, "block": 7, "kind": "ocr", "conf": "high", "old": "सिद्ध्युत्तरंतत्रैरुदी", "new": "सिद्ध्युत्तरतंत्रैरुदी", "note": ""}
+{"page": 64, "block": 8, "kind": "ocr", "conf": "high", "old": "सर्वाङ्गयुन्दराख्यायां", "new": "सर्वाङ्गसुन्दराख्यायां", "note": ""}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "high", "old": "द्रव्यद्रव्यविज्ञानीयादीनां", "new": "द्रवद्रव्यविज्ञानीयादीनां", "note": ""}
+{"page": 64, "block": 11, "kind": "restored", "conf": "high", "old": "दिनत्वीदा-", "new": "दिनर्त्वीहा-", "note": "reph dropped; हा edge-clipped"}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "high", "old": "दिनचर्यर्थुचर्यादि", "new": "दिनचर्यर्तुचर्यादि", "note": ""}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "medium", "old": "शुद्धयादयः", "new": "शुद्ध्यादयः", "note": ""}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "high", "old": "आश्रोतनं", "new": "आश्चोतनं", "note": ""}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "high", "old": "विशि विडोगयो", "new": "विशि विड्रोगयो", "note": "ड्र"}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "high", "old": "मूषिते मूत्ररोगयोः", "new": "मूत्रिते मूत्ररोगयोः", "note": ""}
+{"page": 64, "block": 11, "kind": "restored", "conf": "high", "old": "त्रिपु-", "new": "त्रिषु-", "note": "edge clipped"}
+{"page": 64, "block": 11, "kind": "ocr", "conf": "high", "old": "कीटलताविषय", "new": "कीटलूताविषय", "note": ""}
+{"page": 64, "block": 15, "kind": "ocr", "conf": "high", "old": "प्रत्यध्यायारमे", "new": "प्रत्यध्यायारंभे", "note": ""}
+{"page": 65, "block": 3, "kind": "ocr", "conf": "medium", "old": "यादनन्तरं", "new": "यादनंतरं", "note": "print has anusvāra"}
+{"page": 65, "block": 3, "kind": "ocr", "conf": "high", "old": "प्राधान्यादिनचर्या", "new": "प्राधान्याद्दिनचर्या", "note": ""}
+{"page": 65, "block": 4, "kind": "ocr", "conf": "high", "old": "तथा अत्र इत्या", "new": "तथा अथ इत्या", "note": ""}
+{"page": 65, "block": 4, "kind": "ocr", "conf": "high", "old": "प्राधान्यादिनचर्या", "new": "प्राधान्याद्दिनचर्या", "note": ""}
+{"page": 65, "block": 5, "kind": "ocr", "conf": "high", "old": "नियतो द्वेधा", "new": "नियतो द्विधा", "note": ""}
+{"page": 65, "block": 6, "kind": "ocr", "conf": "high", "old": "अस्मिस्तत्रे", "new": "अस्मिंस्तंत्रे", "note": ""}
+{"page": 65, "block": 6, "kind": "restored", "conf": "high", "old": "स्वल्पवक्तव्यः वादातुरो", "new": "स्वल्पवक्तव्यत्वादातुरो", "note": "त्व edge-clipped"}
+{"page": 65, "block": 6, "kind": "ocr", "conf": "high", "old": "स्वस्थवृत्तमेवादायुच्यते", "new": "स्वस्थवृत्तमेवादावुच्यते", "note": ""}
+{"page": 65, "block": 7, "kind": "ocr", "conf": "high", "old": "उत्तिष्ठत्स्वस्थो", "new": "उत्तिष्ठेत्स्वस्थो", "note": ""}
+{"page": 65, "block": 8, "kind": "restored", "conf": "high", "old": "प्रवावशान्त्यर्थं", "new": "सर्वाघशान्त्यर्थं", "note": "edge clipped स; घ misread"}
+{"page": 65, "block": 8, "kind": "ocr", "conf": "high", "old": "मञ्जुमुदनम्", "new": "मधुसूदनम्", "note": ""}
+{"page": 65, "block": 8, "kind": "ocr", "conf": "high", "old": "मुक्षुतः", "new": "सुश्रुतः", "note": ""}
+{"page": 65, "block": 9, "kind": "ocr", "conf": "high", "old": "समाप्तिश्च", "new": "समाग्निश्च", "note": ""}
+{"page": 65, "block": 9, "kind": "ocr", "conf": "high", "old": "प्रसन्नात्मैद्रियमनाः", "new": "प्रसन्नात्मेंद्रियमनाः", "note": ""}
+{"page": 65, "block": 9, "kind": "ocr", "conf": "high", "old": "व्याध्यलक्ष्याद्यभाव", "new": "व्याध्यलक्ष्म्याद्यभाव", "note": ""}
+{"page": 65, "block": 9, "kind": "ocr", "conf": "medium", "old": "स्वस्थमेव ॥ २", "new": "स्वप्तव्यमेव ॥ २", "note": "print स्व?तव्यमेव, Parāḍkar सप्तव्यमेव"}
+{"page": 65, "block": 11, "kind": "ocr", "conf": "high", "old": "रात्रे स्पान्त्यो", "new": "रात्रे रुपान्त्यो", "note": ""}
+{"page": 65, "block": 11, "kind": "ocr", "conf": "high", "old": "चमनपर्यतं", "new": "चमनपर्यंतं", "note": ""}
+{"page": 65, "block": 12, "kind": "ocr", "conf": "high", "old": "शरीरैर्चितां", "new": "शरीरचिंतां", "note": ""}
+{"page": 65, "block": 12, "kind": "ocr", "conf": "high", "old": "रवदिरकरंज", "new": "खदिरकरंज", "note": ""}
+{"page": 65, "block": 12, "kind": "ocr", "conf": "high", "old": "मृद्ग्रं", "new": "मृद्वग्रं", "note": ""}
+{"page": 65, "block": 12, "kind": "ocr", "conf": "high", "old": "भक्षयेदंतधवनं दंतमांसान्यद्याधयन्", "new": "भक्षयेद्दंतधवनं दंतमांसान्यबाधयन्", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "high", "old": "तदन्त्रकृजना", "new": "तदन्त्रकूजना", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "high", "old": "पवित्रकसायुष्य", "new": "पवित्रकरमायुष्य", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "high", "old": "द्वादशायुलमायतम्", "new": "द्वादशांगुलमायतम्", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "high", "old": "मूर्ज्वप्रथितमत्रणम्", "new": "मृज्वग्रथितमव्रणम्", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "medium", "old": "अयुग्माप्रन्थियच्चापि प्रत्ययं", "new": "अयुग्मग्रन्थि यच्चापि प्रत्यग्रं", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "high", "old": "अवेद्यतुं च दोषं च रसं वर्षिं", "new": "अवेक्ष्यर्तुं च दोषं च रसं वीर्यं", "note": ""}
+{"page": 65, "block": 13, "kind": "ocr", "conf": "high", "old": "मञ्जुरं तिक्तं कदुकं", "new": "मधुरं तिक्तं कटुकं", "note": ""}
+{"page": 150, "block": 4, "kind": "ocr", "conf": "high", "old": "यानं वक्ति", "new": "यान्नं वक्ति", "note": ""}
+{"page": 150, "block": 6, "kind": "ocr", "conf": "high", "old": "मदमतिप्रबोधनाय", "new": "मंदमतिप्रबोधनाय", "note": ""}
+{"page": 150, "block": 6, "kind": "ocr", "conf": "high", "old": "मध्यलोपाख्याया", "new": "मध्यलोपाख्यया", "note": ""}
+{"page": 150, "block": 6, "kind": "ocr", "conf": "high", "old": "दन्तं धान्यमांसादि", "new": "दन्नं धान्यमांसादि", "note": ""}
+{"page": 150, "block": 6, "kind": "ocr", "conf": "high", "old": "तद्वयं-", "new": "तद्व्यं-", "note": "virama dropped"}
+{"page": 150, "block": 7, "kind": "ocr", "conf": "high", "old": "सिद्ध्युः", "new": "सिसृक्षुः", "note": ""}
+{"page": 150, "block": 8, "kind": "ocr", "conf": "high", "old": "शूकशिबि-\nजपञ्चान्नमांसशाकफलैषधैः", "new": "शूकशिम्बि-\nजपक्वान्नमांसशाकफलौषधैः", "note": ""}
+{"page": 150, "block": 8, "kind": "ocr", "conf": "medium", "old": "निर्वापयोगिकः", "new": "नित्योपयोगिकः", "note": "print नित्यौपयोगिकः? (cf. AHS नित्योपयोगिकः)"}
+{"page": 150, "block": 9, "kind": "ocr", "conf": "high", "old": "रोधशूकः सुगन्धकः", "new": "रोध्रशूकः सुगन्धकः", "note": ""}
+{"page": 150, "block": 10, "kind": "restored", "conf": "high", "old": "उत्तरकुरुभ्य", "new": "उत्तरकुरुभ्यो", "note": "edge clipped; Parāḍkar"}
+{"page": 150, "block": 10, "kind": "restored", "conf": "medium", "old": "विस्त-\nगतः", "new": "विस्तरं-\nगतः", "note": "edge clipped; Parāḍkar विस्तर(ं) गत"}
+{"page": 150, "block": 10, "kind": "ocr", "conf": "high", "old": "शुक्लकारो", "new": "शुक्लाकारो", "note": ""}
+{"page": 150, "block": 10, "kind": "restored", "conf": "high", "old": "रोधशूक-\nरोधपुष्पा", "new": "रोध्रशूकः-\nरोध्रपुष्पा", "note": "edge clipped visarga; ध्र"}
+{"page": 150, "block": 11, "kind": "ocr", "conf": "high", "old": "तद्वयञ्जनत्वेन", "new": "तद्व्यञ्जनत्वेन", "note": "virama dropped"}
+{"page": 150, "block": 12, "kind": "ocr", "conf": "high", "old": "रक्तशालिवरस्तेषु", "new": "रक्तशालिर्वरस्तेषु", "note": ""}
+{"page": 150, "block": 12, "kind": "ocr", "conf": "high", "old": "स्रष्यः शुकलस्तुङ्ज्वरापहः", "new": "स्वर्यः शुक्रलस्तृड्ज्वरापहः", "note": ""}
+{"page": 150, "block": 12, "kind": "ocr", "conf": "high", "old": "विषवणश्चा-", "new": "विषव्रणश्वा-", "note": ""}
+{"page": 150, "block": 12, "kind": "ocr", "conf": "high", "old": "दाहसुद्रहिपुष्टिदः", "new": "दाहनुद्वह्निपुष्टिदः", "note": ""}
+{"page": 150, "block": 12, "kind": "ocr", "conf": "high", "old": "तस्मादत्पान्तरगुणाः", "new": "तस्मादल्पान्तरगुणाः", "note": ""}
+{"page": 150, "block": 12, "kind": "ocr", "conf": "high", "old": "त्रिदोषप्री", "new": "त्रिदोषघ्नी", "note": ""}
+{"page": 150, "block": 13, "kind": "ocr", "conf": "high", "old": "कोष्ठकान्तगीतो", "new": "कोष्ठकान्तर्गतो", "note": ""}
+{"page": 151, "block": 3, "kind": "ocr", "conf": "high", "old": "बद्धं प्रथितमल्पं", "new": "बद्धं ग्रथितमल्पं", "note": ""}
+{"page": 151, "block": 4, "kind": "ocr", "conf": "high", "old": "मुश्रुतेन", "new": "सुश्रुतेन", "note": ""}
+{"page": 151, "block": 4, "kind": "ocr", "conf": "high", "old": "कटुपाकत्वं मेव", "new": "कटुपाकत्वं मैवं", "note": ""}
+{"page": 151, "block": 4, "kind": "ocr", "conf": "high", "old": "रक्तशाल्यगुणानाह", "new": "रक्तशालिगुणानाह", "note": ""}
+{"page": 151, "block": 4, "kind": "ocr", "conf": "high", "old": "रक्तशाल्यिषु", "new": "रक्तशालिषु", "note": ""}
+{"page": 151, "block": 6, "kind": "ocr", "conf": "high", "old": "दोषानिर्हति", "new": "दोषान्निर्हंति", "note": ""}
+{"page": 151, "block": 6, "kind": "ocr", "conf": "high", "old": "प्रागुपादान्तेनैव", "new": "प्रागुपादानेनैव", "note": ""}
+{"page": 151, "block": 6, "kind": "ocr", "conf": "high", "old": "वरप्रहणं", "new": "वरग्रहणं", "note": ""}
+{"page": 151, "block": 6, "kind": "ocr", "conf": "high", "old": "सं-प्रहार्थम्", "new": "सं-ग्रहार्थम्", "note": ""}
+{"page": 151, "block": 6, "kind": "ocr", "conf": "high", "old": "रेशुविकाराणां", "new": "रेक्षुविकाराणां", "note": ""}
+{"page": 151, "block": 7, "kind": "ocr", "conf": "high", "old": "तृष्णा-हनस्त्रिदोषघनश्च", "new": "तृष्णा-घ्नस्त्रिदोषघ्नश्च", "note": "घ्न misread"}
+{"page": 151, "block": 9, "kind": "ocr", "conf": "high", "old": "किंचिदुन", "new": "किंचिदून", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "पाठकममपेक्षते", "new": "पाठक्रममपेक्षते", "note": ""}
+{"page": 151, "block": 12, "kind": "restored", "conf": "medium", "old": "प्रतितन्त्रं मियते", "new": "प्रतितंत्रं भिद्यते", "note": "edge clipped; भि misread"}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "तथा-लोहितशालि", "new": "तद्यथा-लोहितशालि", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "पाण्डुभुगन्धिकशकुनाह—तपुष्पाण्डक", "new": "पाण्डुसुगन्धिकशकुनाहृ-तपुष्पाण्डक", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "medium", "old": "शीतभीनरोधपुष्पक", "new": "शीतभीरुरोध्रपुष्पक", "note": "print unclear; Suśruta शीतभीरुक"}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "शूकमूत्रलः । चशुष्यो", "new": "शुक्रमूत्रलः । चक्षुष्यो", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "बल्पस्तृपापहः", "new": "बल्यस्तृषापहः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "सर्वदोषविपापहः", "new": "सर्वदोषविषापहः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "इति मुश्रुतः", "new": "इति सुश्रुतः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "कलमः शकुनाहतः । तूर्णको", "new": "कलमः शकुनाहृतः । तूर्णको", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "शीता रमे विपाके", "new": "शीता रसे विपाके", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "स्वल्पमाननाः", "new": "स्वल्पमारुताः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "medium", "old": "स्निग्धा वृहणा", "new": "स्निग्धा वृंहणा", "note": "anusvāra (initial ब/व left as is)"}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "त्रिमल्पहः", "new": "त्रिमलापहः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "रक्तः श्येनाहतो", "new": "रक्तः श्येनाहृतो", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "तृष्णाघ्नः शूकमूत्रलः", "new": "तृष्णाघ्नः शुक्रमूत्रलः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "शकुनाहतः । सारामुखो", "new": "शकुनाहृतः । सारामुखो", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "रोधशूकः सुगन्धिकः", "new": "रोध्रशूकः सुगन्धिकः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "high", "old": "कर्हमाः", "new": "कर्दमाः", "note": ""}
+{"page": 151, "block": 12, "kind": "ocr", "conf": "medium", "old": "विशदस्थ-लायत", "new": "विशदस्थू-लायत", "note": ""}
+{"page": 152, "block": 3, "kind": "restored", "conf": "high", "old": "गुणान्सु-\nध्वन्यारणादी", "new": "गुणान्सु-\nश्रुतखारणादी", "note": "line start faint/clipped; Parāḍkar"}
+{"page": 152, "block": 3, "kind": "restored", "conf": "high", "old": "चरकवा-\nगार्थो", "new": "चरकवा-\nग्भटौ", "note": "line start faint; Parāḍkar"}
+{"page": 152, "block": 3, "kind": "ocr", "conf": "high", "old": "महाशालेवां", "new": "महाशालेर्वा", "note": ""}
+{"page": 152, "block": 3, "kind": "ocr", "conf": "high", "old": "संबन्धः\nमर्थः", "new": "संबन्धः\nमैवं", "note": ""}
+{"page": 152, "block": 4, "kind": "ocr", "conf": "medium", "old": "पांशुवाष्पनैषधकादयः", "new": "पांसुवाष्पनैषधकादयः", "note": "print पांसु"}
+{"page": 152, "block": 4, "kind": "ocr", "conf": "high", "old": "च निदिताः", "new": "च निंदिताः", "note": ""}
+{"page": 152, "block": 5, "kind": "ocr", "conf": "high", "old": "च निदिताः तेन", "new": "च निंदिताः तेन", "note": ""}
+{"page": 152, "block": 5, "kind": "ocr", "conf": "high", "old": "किञ्चित्किञ्चित्क्रमेण", "new": "किंचित्किंचित्क्रमेण", "note": ""}
+{"page": 152, "block": 5, "kind": "ocr", "conf": "high", "old": "गृह्यते", "new": "गृह्यंते", "note": ""}
+{"page": 152, "block": 6, "kind": "ocr", "conf": "high", "old": "अस्लं पच्यन्ते", "new": "अम्लं पच्यन्ते", "note": ""}
+{"page": 152, "block": 6, "kind": "ocr", "conf": "high", "old": "निदिताः । यो", "new": "निन्दिताः । यो", "note": ""}
+{"page": 152, "block": 6, "kind": "ocr", "conf": "high", "old": "स्मान्निदितः", "new": "स्मान्निन्दितः", "note": ""}
+{"page": 152, "block": 7, "kind": "ocr", "conf": "high", "old": "ह०-यवकादि", "new": "हे०-यवकादि", "note": "SIGLUM"}
+{"page": 152, "block": 7, "kind": "ocr", "conf": "high", "old": "निदिताः यो", "new": "निंदिताः यो", "note": ""}
+{"page": 152, "block": 7, "kind": "ocr", "conf": "high", "old": "मृद्धादिविप", "new": "मृद्वादिविप", "note": ""}
+{"page": 152, "block": 8, "kind": "ocr", "conf": "high", "old": "त्रिदोषमः", "new": "त्रिदोषघ्नः", "note": ""}
+{"page": 152, "block": 9, "kind": "ocr", "conf": "high", "old": "षष्टिरत्रेण", "new": "षष्टिरात्रेण", "note": ""}
+{"page": 152, "block": 9, "kind": "ocr", "conf": "high", "old": "शीतां लघवो", "new": "शीता लघवो", "note": ""}
+{"page": 152, "block": 9, "kind": "ocr", "conf": "high", "old": "सद्या गुणैः", "new": "सदृशा गुणैः", "note": ""}
+{"page": 152, "block": 9, "kind": "ocr", "conf": "high", "old": "स्वाद्धी मृद्धी", "new": "स्वाद्वी मृद्वी", "note": ""}
+{"page": 152, "block": 9, "kind": "ocr", "conf": "high", "old": "रक्तशालिगुणेत्सुल्या", "new": "रक्तशालिगुणैस्तुल्या", "note": ""}
+{"page": 152, "block": 10, "kind": "restored", "conf": "high", "old": "रक्तशालि-\nशालिषु", "new": "रक्तशालिरिव\nशालिषु", "note": "edge clipped; Parāḍkar रक्तशालिरिव"}
+{"page": 152, "block": 10, "kind": "ocr", "conf": "low", "old": "यस्वतु स्थैर्य", "new": "यवस्तु स्थैर्य", "note": "print looks like यस्त्वतु; Parāḍkar यवस्तु"}
+{"page": 152, "block": 10, "kind": "ocr", "conf": "high", "old": "गुरुवातलत्वादिनि", "new": "गुरुवातलत्वादिति", "note": ""}
+{"page": 152, "block": 11, "kind": "ocr", "conf": "high", "old": "श्रमकलमग्लान्य", "new": "श्रमक्लमग्लान्य", "note": ""}
+{"page": 152, "block": 11, "kind": "ocr", "conf": "high", "old": "गौराद्गीतेर्गौर-", "new": "गौराद्ब्रीहेर्गौर-", "note": ""}
+{"page": 152, "block": 12, "kind": "ocr", "conf": "high", "old": "ह०-षष्टिक", "new": "हे०-षष्टिक", "note": "SIGLUM"}
+{"page": 152, "block": 12, "kind": "restored", "conf": "high", "old": "ब्रीहि-\nउत्तमः", "new": "ब्रीहिभ्य-\nउत्तमः", "note": "edge clipped; Parāḍkar व्रीहिभ्य"}
+{"page": 152, "block": 12, "kind": "ocr", "conf": "high", "old": "सितगौराद्गीतः", "new": "सितगौराद्गौरः", "note": ""}
+{"page": 152, "block": 13, "kind": "ocr", "conf": "high", "old": "जत्सुखाः", "new": "जतूमुखाः", "note": ""}
+{"page": 152, "block": 13, "kind": "ocr", "conf": "high", "old": "कुरुविदाश्च", "new": "कुरुविंदाश्च", "note": ""}
+{"page": 152, "block": 14, "kind": "ocr", "conf": "high", "old": "क्रमाद्गुण-", "new": "क्रमाद्गुणै-", "note": ""}
+{"page": 152, "block": 15, "kind": "ocr", "conf": "high", "old": "षष्टिकाद्गीतेर्महा", "new": "षष्टिकाद्ब्रीहेर्महा", "note": ""}
+{"page": 152, "block": 15, "kind": "ocr", "conf": "high", "old": "क्रमाद्गुणरल्पान्तरा", "new": "क्रमाद्गुणैरल्पान्तरा", "note": ""}
+{"page": 152, "block": 15, "kind": "ocr", "conf": "high", "old": "त्सुखः । यावत्", "new": "तूमुखः । यावत्", "note": ""}
+{"page": 152, "block": 15, "kind": "ocr", "conf": "high", "old": "कुरुविन्दो गुण-", "new": "कुरुविन्दो गुणै-", "note": ""}
+{"page": 152, "block": 16, "kind": "ocr", "conf": "high", "old": "श्रेष्ठो मी-", "new": "श्रेष्ठो ब्री-", "note": ""}
+{"page": 152, "block": 16, "kind": "ocr", "conf": "high", "old": "शुकश्वासहरः", "new": "शुक्रश्वासहरः", "note": ""}
+{"page": 152, "block": 16, "kind": "ocr", "conf": "high", "old": "कांसादिदोषापहः", "new": "कासादिदोषापहः", "note": ""}
+{"page": 152, "block": 16, "kind": "ocr", "conf": "medium", "old": "( शा. प्रा. )", "new": "( शा. ग्रा. )", "note": ""}
+{"page": 153, "block": 3, "kind": "ocr", "conf": "high", "old": "महात्रीहादीनां", "new": "महाब्रीह्यादीनां", "note": "व्री read as त्री"}
+{"page": 153, "block": 3, "kind": "ocr", "conf": "high", "old": "कृष्णवृष्टि-", "new": "कृष्णषष्टि-", "note": ""}
+{"page": 153, "block": 3, "kind": "ocr", "conf": "high", "old": "कान्महात्रीहादयः", "new": "कान्महाब्रीह्यादयः", "note": ""}
+{"page": 153, "block": 3, "kind": "ocr", "conf": "high", "old": "गुणैरत्पान्तराः", "new": "गुणैरल्पान्तराः", "note": ""}
+{"page": 153, "block": 3, "kind": "ocr", "conf": "high", "old": "वश्रेष्ठत्वाद्धीनत्वेनात्पान्तरत्वं, कृष्णवृष्टिकाद्धीनगुणो भहा-\nत्रीहिः", "new": "र्वश्रेष्ठत्वाद्धीनत्वेनाल्पान्तरत्वं, कृष्णषष्टिकाद्धीनगुणो महा-\nब्रीहिः", "note": ""}
+{"page": 153, "block": 3, "kind": "ocr", "conf": "high", "old": "कृष्णत्रीहिरित्यादि", "new": "कृष्णब्रीहिरित्यादि", "note": ""}
+{"page": 153, "block": 5, "kind": "ocr", "conf": "high", "old": "त्रिदोषस्त्वेव दोष-\nषकीपनः", "new": "त्रिदोषस्त्रिदो-\nषकोपनः", "note": ""}
+{"page": 153, "block": 5, "kind": "ocr", "conf": "high", "old": "शब्दोऽतिशयस्त्यपिपनाय", "new": "शब्दोऽतिशयख्यापनाय", "note": ""}
+{"page": 153, "block": 5, "kind": "ocr", "conf": "high", "old": "नास्पा-", "new": "नास्या-", "note": ""}
+{"page": 153, "block": 6, "kind": "ocr", "conf": "high", "old": "अन्योऽनुक्तो त्रीहिः स्वादुरम्लविपाकः ।", "new": "अन्योऽनुक्तो ब्रीहिः स्वादुर्मधुरो रसः ।", "note": "OCR substituted text"}
+{"page": 153, "block": 6, "kind": "ocr", "conf": "high", "old": "पाटलो त्रीहि-", "new": "पाटलो ब्रीहि-", "note": ""}
+{"page": 153, "block": 7, "kind": "ocr", "conf": "high", "old": "अथावशिष्टत्रीहि", "new": "अथावशिष्टब्रीहि", "note": ""}
+{"page": 153, "block": 7, "kind": "restored", "conf": "medium", "old": "सु त्रिदोषः", "new": "त्स त्रिदोषः", "note": "line start faint"}
+{"page": 153, "block": 7, "kind": "ocr", "conf": "high", "old": "एवम्बहणात्", "new": "एवग्रहणात्", "note": ""}
+{"page": 153, "block": 7, "kind": "ocr", "conf": "high", "old": "दोषजित्तकं महर्ष्या", "new": "दोषजित्तक्रं ग्रहण्यां", "note": ""}
+{"page": 153, "block": 4, "kind": "ocr", "conf": "high", "old": "ऽन्यो त्रीहिः", "new": "ऽन्यो ब्रीहिः", "note": "व्री read as त्री"}
+{"page": 153, "block": 5, "kind": "missing", "conf": "high", "old": "ऽनुक्तो त्रीहिः\nस्वादुरम्लविपाकः", "new": "ऽनुक्तो ब्रीहिः\nस्वादुर्मधुररसोऽम्लविपाकः", "note": "OCR skipped र्मधुररसो; त्री→ब्री"}
+{"page": 153, "block": 8, "kind": "ocr", "conf": "high", "old": "पवनकूलेखनं", "new": "पवनकृल्लेखनं", "note": ""}
+{"page": 153, "block": 9, "kind": "ocr", "conf": "high", "old": "मास्तकूलेखनं", "new": "मारुतकृल्लेखनं", "note": ""}
+{"page": 153, "block": 9, "kind": "ocr", "conf": "high", "old": "तितैक्ष्ण्यायत् धातूस्तलेखनं", "new": "तितैक्ष्ण्याद्यत् धातूंस्तल्लेखनं", "note": ""}
+{"page": 153, "block": 9, "kind": "ocr", "conf": "medium", "old": "तद्-\nद्वद्वविष्मूत्रत्वं वातकृत्वात्", "new": "तद्ब-\nद्धविण्मूत्रत्वं वातकृत्त्वात्", "note": ""}
+{"page": 153, "block": 10, "kind": "ocr", "conf": "high", "old": "यत्प्रकृप्यति", "new": "यत्प्रकुप्यति", "note": ""}
+{"page": 153, "block": 10, "kind": "restored", "conf": "medium", "old": "अन्नपानौपधं त-\nयुजीता", "new": "अन्नपानौषधं तद्-\nयुंजीता", "note": "edge clipped द्"}
+{"page": 153, "block": 10, "kind": "restored", "conf": "high", "old": "कप-\nमधुरा", "new": "कषाय-\nमधुरा", "note": "edge clipped; Saṃgraha"}
+{"page": 153, "block": 10, "kind": "ocr", "conf": "high", "old": "वद्वविष्मूत्रा लघवो देख्य-\nत्मका", "new": "बद्धविण्मूत्रा लघवो लेखना-\nत्मका", "note": "edge clipped ना; Saṃgraha"}
+{"page": 153, "block": 10, "kind": "ocr", "conf": "high", "old": "श्यामाकादीत्यत्राऽविशब्दम् तो\nश्यामाक", "new": "श्यामाकादीत्यत्राऽदिशब्देन तो-\nयश्यामाक", "note": "य edge-clipped; Parāḍkar तोयश्यामाक"}
+{"page": 153, "block": 10, "kind": "ocr", "conf": "high", "old": "कांउलोहित्या", "new": "कांडलोहित्या", "note": ""}
+{"page": 153, "block": 9, "kind": "ocr", "conf": "high", "old": "पित्तश्लेष्महत्वेनै", "new": "पित्तश्लेष्महृत्त्वेनै", "note": ""}
+{"page": 153, "block": 11, "kind": "restored", "conf": "high", "old": "शीतवीर्यम्, त-", "new": "शीतवीर्यम्, तथा-", "note": "edge clipped"}
+{"page": 153, "block": 11, "kind": "restored", "conf": "medium", "old": "तथा लेख्य-", "new": "तथा लेखनं-", "note": "edge clipped"}
+{"page": 153, "block": 11, "kind": "ocr", "conf": "high", "old": "कपति । कफपि-\nत्तहरतीति कफपित्तहत्", "new": "कषति । कफपि-\nत्तं हरतीति कफपित्तहृत्", "note": "त्तं: anusvāra at clipped edge (medium)"}
+{"page": 153, "block": 11, "kind": "restored", "conf": "medium", "old": "प्रियङ्गुर्विज्ञे-\nकोरदूपस्तु", "new": "प्रियङ्गुर्विज्ञेयः-\nकोरदूषस्तु", "note": "edge clipped यः"}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "तुच्छ्वान्यम्, अतप्य", "new": "तुच्छधान्यम्, अतएव", "note": "last akṣara edge-clipped"}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "कुषान्यमित्युक्तं", "new": "कुधान्यमित्युक्तं", "note": ""}
+{"page": 153, "block": 12, "kind": "restored", "conf": "medium", "old": "कोद्रवः-कोरदूपक-", "new": "कोद्रवः-कोरदूषकः-", "note": "edge clipped visarga"}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "श्यामाकशिविधः", "new": "श्यामाकस्त्रिविधः", "note": ""}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "आदिशब्दाद्वरकाद्ययः", "new": "आदिशब्दाद्वरकादयः", "note": ""}
+{"page": 153, "block": 12, "kind": "restored", "conf": "medium", "old": "प्रियंगुभ-\nलिका", "new": "प्रियंगुमधू-\nलिका", "note": "edge clipped"}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "कुरुविदकगवेधुकातोयपणीमुकुंदकवेणुयय", "new": "कुरुविंदकगवेधुकातोयपर्णीमुकुंदकवेणुयव", "note": ""}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "कुषान्यविज्ञेयाः", "new": "कुधान्यविशेषाः", "note": ""}
+{"page": 153, "block": 12, "kind": "restored", "conf": "high", "old": "कपायमधुरा रूक्ष-\nकदुविपाकिनः । श्लेष्मन्ना वदनिष्पन्दा", "new": "कषायमधुरा रूक्षाः-\nकटुविपाकिनः । श्लेष्मघ्ना बद्धनिष्पन्दा", "note": "ाः edge-clipped"}
+{"page": 153, "block": 12, "kind": "restored", "conf": "high", "old": "पित्तलत्वे उरं", "new": "पित्तलत्वे उक्तं", "note": "edge clipped"}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "शीतपित्तलत्वे", "new": "शीतपित्तघ्नत्वे", "note": ""}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "विपयभेदात्", "new": "विषयभेदात्", "note": ""}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "कदुपाककफप्रवदनिष्पन्दलघुलेखनत्वादं", "new": "कटुपाककफघ्नबद्धनिष्पन्दलघुलेखनत्वादी", "note": "last akṣara edge-clipped (medium)"}
+{"page": 153, "block": 12, "kind": "restored", "conf": "high", "old": "पित्तलत्वं वा-", "new": "पित्तलत्वं वात-", "note": "edge clipped"}
+{"page": 153, "block": 12, "kind": "ocr", "conf": "high", "old": "पित्तंग्रत्वं-कफसंसृष्टपित्तग्रत्वं, कफपित्तहदिति", "new": "पित्तघ्नत्वं-कफसंसृष्टपित्तघ्नत्वं, कफपित्तहृदिति", "note": ""}
+{"page": 153, "block": 13, "kind": "ocr", "conf": "medium", "old": "प्रियंगुर्वृहणी", "new": "प्रियंगुर्वृंहणी", "note": "anusvāra (ब/व left)"}
+{"page": 153, "block": 14, "kind": "restored", "conf": "medium", "old": "कंगु-\nप्रस्यांगस्य", "new": "कंगुर्भ-\nग्नस्यांगस्य", "note": "edge clipped र्भ; ग्न misread"}
+{"page": 153, "block": 14, "kind": "restored", "conf": "high", "old": "सुश्रुतेने\nक्तम्", "new": "सुश्रुतेनो-\nक्तम्", "note": "edge clipped"}
+{"page": 153, "block": 15, "kind": "ocr", "conf": "high", "old": "भग्नस्य\nकृत्त्वं सन्धानं", "new": "भग्नस्य\nङ्गस्य सन्धानं", "note": "print ङ्गस्य (अ edge-clipped?)"}
+{"page": 153, "block": 15, "kind": "restored", "conf": "medium", "old": "बृहयतीर्या\nबृहणी", "new": "बृंहयतीति\nबृंहणी", "note": "edge clipped ति"}
+{"page": 153, "block": 16, "kind": "restored", "conf": "medium", "old": "कृद्वग्नस्याकृत्त्वं संधा-", "new": "कृद्भग्नस्याङ्गस्य संधानं-", "note": "नं edge-clipped"}
+{"page": 154, "block": 6, "kind": "ocr", "conf": "high", "old": "कंगवादीनां", "new": "कंग्वादीनां", "note": ""}
+{"page": 154, "block": 6, "kind": "ocr", "conf": "medium", "old": "पयत्वं शेयम्", "new": "षयत्वं ज्ञेयम्", "note": ""}
+{"page": 154, "block": 7, "kind": "ocr", "conf": "high", "old": "नीवारः इलेष्मवर्धनः", "new": "नीवारः श्लेष्मवर्धनः", "note": ""}
+{"page": 154, "block": 7, "kind": "ocr", "conf": "high", "old": "इयामाकः शोषणो रूक्षो वातलः इलेष्मपित्तहा", "new": "श्यामाकः शोषणो रूक्षो वातलः श्लेष्मपित्तहा", "note": ""}
+{"page": 154, "block": 7, "kind": "ocr", "conf": "high", "old": "विड्डातकृद्यवः", "new": "विड्वातकृद्यवः", "note": ""}
+{"page": 154, "block": 8, "kind": "ocr", "conf": "high", "old": "यघो रूक्षादिगुणैर्युक्तो विड्डवातकरो", "new": "यवो रूक्षादिगुणैर्युक्तो विड्वातकरो", "note": ""}
+{"page": 154, "block": 9, "kind": "ocr", "conf": "high", "old": "यघो-रूक्ष", "new": "यवो-रूक्ष", "note": ""}
+{"page": 154, "block": 9, "kind": "ocr", "conf": "high", "old": "विड्डवातकृत", "new": "विड्वातकृत", "note": ""}
+{"page": 154, "block": 9, "kind": "ocr", "conf": "high", "old": "शरीरदाढवी", "new": "शरीरदार्ढ्यं", "note": ""}
+{"page": 154, "block": 9, "kind": "ocr", "conf": "high", "old": "मूत्र-\nभेदः", "new": "मूत्र-\nमेदः", "note": ""}
+{"page": 154, "block": 12, "kind": "ocr", "conf": "high", "old": "शूक्धान्य", "new": "शूकधान्य", "note": ""}
+{"page": 154, "block": 13, "kind": "ocr", "conf": "high", "old": "यवादिगुणैर्यूनः", "new": "यवादिगुणैर्न्यूनः", "note": ""}
+{"page": 154, "block": 13, "kind": "ocr", "conf": "high", "old": "यवाकृतिलोकप्रसिद्ध", "new": "यवाकृतिर्लोकप्रसिद्ध", "note": ""}
+{"page": 154, "block": 16, "kind": "ocr", "conf": "high", "old": "प्रमेहजित्तिकफा-", "new": "प्रमेहजित्तिक्तकफा-", "note": ""}
+{"page": 154, "block": 16, "kind": "ocr", "conf": "high", "old": "पृष्ठिदः", "new": "पुष्टिदः", "note": ""}
+{"page": 154, "block": 18, "kind": "ocr", "conf": "high", "old": "वेणुयघो", "new": "वेणुयवो", "note": ""}
+{"page": 154, "block": 19, "kind": "ocr", "conf": "high", "old": "इत्या-\nन्तायात्", "new": "इत्या-\nम्नायात्", "note": ""}
+{"page": 154, "block": 22, "kind": "ocr", "conf": "high", "old": "र्भग्रस्य", "new": "र्भग्नस्य", "note": ""}
+{"page": 154, "block": 22, "kind": "ocr", "conf": "medium", "old": "चरवे", "new": "चरके", "note": "right edge"}
+{"page": 154, "block": 22, "kind": "ocr", "conf": "high", "old": "इलेष्मविकारहा । संधानकुद्वातहरो", "new": "श्लेष्मविकारहा । संधानकृद्वातहरो", "note": ""}
+{"page": 154, "block": 23, "kind": "restored", "conf": "high", "old": "शीत\nशीतवीर्यः", "new": "शीतः\nशीतवीर्यः", "note": "edge clipped"}
+{"page": 154, "block": 23, "kind": "ocr", "conf": "high", "old": "गुरुगुणयोगादूरुः", "new": "गुरुगुणयोगाद्गुरुः", "note": ""}
+{"page": 154, "block": 23, "kind": "restored", "conf": "high", "old": "जीवन\nओजस्यः", "new": "जीवनः\nओजस्यः", "note": "edge clipped"}
+{"page": 154, "block": 23, "kind": "restored", "conf": "high", "old": "सन्धान\nकरोतीति", "new": "सन्धानं\nकरोतीति", "note": "edge clipped"}
+{"page": 154, "block": 23, "kind": "restored", "conf": "high", "old": "स्थैर्य\nकरोतीति", "new": "स्थैर्यं\nकरोतीति", "note": "edge clipped"}
+{"page": 154, "block": 23, "kind": "ocr", "conf": "high", "old": "शक्रदादीन्", "new": "शकृदादीन्", "note": ""}
+{"page": 154, "block": 26, "kind": "restored", "conf": "high", "old": "कषायमधुर\nलघुश्च", "new": "कषायमधुरा\nलघुश्च", "note": "edge clipped"}
+{"page": 154, "block": 26, "kind": "ocr", "conf": "high", "old": "शूक्धान्यवर्गः", "new": "शूकधान्यवर्गः", "note": ""}
+{"page": 154, "block": 28, "kind": "ocr", "conf": "high", "old": "पश्वादेशात्", "new": "पश्चाद्देशात्", "note": ""}
+{"page": 154, "block": 28, "kind": "restored", "conf": "medium", "old": "मधूली तु तत", "new": "मधूली तु ततः", "note": "edge clipped"}
+{"page": 154, "block": 28, "kind": "ocr", "conf": "high", "old": "किञ्चिदत्पा", "new": "किञ्चिदल्पा", "note": ""}
+{"page": 154, "block": 28, "kind": "ocr", "conf": "high", "old": "कफशुकप्रदो", "new": "कफशुक्रप्रदो", "note": ""}
+{"page": 154, "block": 28, "kind": "restored", "conf": "medium", "old": "जीवनो बृंद्द\nवर्ण्यो वर्ण्यो", "new": "जीवनो बृंहणो\nवर्ण्यो व्रण्यो", "note": "edge clipped; व्र"}
+{"page": 154, "block": 28, "kind": "restored", "conf": "medium", "old": "स्निग्ध\nपित्तन्नी", "new": "स्निग्धा\nपित्तघ्नी", "note": "edge clipped; घ्न"}
+{"page": 154, "block": 28, "kind": "ocr", "conf": "high", "old": "शुक्रला बृंद्दणी पथ्या तद्वनन्दीमुख", "new": "शुक्रला बृंहणी पथ्या तद्वन्नन्दीमुख", "note": ""}

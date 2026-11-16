@@ -13,22 +13,22 @@
   "Ka": "304/312",
   "U": "2213/2305"
  },
- "mula_letter_agreement_with_DE_pct": 95.52,
+ "mula_letter_agreement_with_DE_pct": 95.53,
  "segments": {
   "frontmatter": 1,
-  "mula": 13847,
-  "comm:arunadatta": 5482,
-  "comm:hemadri": 2317,
-  "lead": 6621,
-  "comm:candranandana": 42
+  "mula": 13868,
+  "comm:arunadatta": 5666,
+  "comm:hemadri": 2289,
+  "lead": 6441,
+  "comm:candranandana": 46
  },
  "chars": {
-  "mula": 595676,
+  "lead": 101122,
+  "comm:arunadatta": 1769324,
+  "mula": 595690,
+  "comm:candranandana": 7714,
   "frontmatter": 521111,
-  "comm:candranandana": 7307,
-  "comm:arunadatta": 1741067,
-  "comm:hemadri": 778612,
-  "lead": 120588
+  "comm:hemadri": 768555
  },
  "footnote_blocks": 2076,
  "missing_verses": [
